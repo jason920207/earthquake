@@ -2,7 +2,7 @@
  * @Author: xiaojiezhang
  * @Date:   2018-05-06T08:43:10-04:00
  * @Last modified by:   xiaojiezhang
- * @Last modified time: 2018-05-06T17:43:34-04:00
+ * @Last modified time: 2018-05-06T17:53:42-04:00
  */
 
   			var parseDate = d3.timeParse("%Y-%m-%d");
@@ -40,10 +40,12 @@
 
    legend.onAdd = function (map) {
 
+
+
        var div = L.DomUtil.create('div', 'info legend'),
            grades = [0, 10,30,  100,  1000],
            labels = [];
-
+          div.innerHTML +="The Depth of Earthquake"+"<br>"
        // loop through our density intervals and generate a label with a colored square for each interval
        for (var i = 0; i < grades.length; i++) {
            div.innerHTML +=
