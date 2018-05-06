@@ -1,0 +1,1706 @@
+,time1,time,latitude,longitude,depth,mag,id,place
+0,1970,1970-01-04,24.185,102.543,11.3,7.1,iscgem799712,"Yunnan, China"
+3,1970,1970-01-08,-34.85,178.782,199.4,6.8,iscgem799872,south of the Kermadec Islands
+4,1970,1970-01-10,6.785,126.682,40.0,7.2,iscgem799944,"Mindanao, Philippines"
+7,1970,1970-01-20,-25.946,-177.219,70.0,6.8,iscgemsup800237,south of the Fiji Islands
+9,1970,1970-01-21,6.843,-104.189,10.0,6.7,iscgem800281,Galapagos Triple Junction region
+15,1970,1970-02-05,12.584,121.952,15.0,6.7,iscgem798855,"Mindoro, Philippines"
+26,1970,1970-02-28,52.487,-174.915,164.1,7.1,iscgem799531,"Andreanof Islands, Aleutian Islands, Alaska"
+29,1970,1970-03-09,-19.091,168.672,30.0,6.6,iscgem797686,Vanuatu
+35,1970,1970-03-27,0.288,119.364,25.0,6.7,iscgem798465,"Minahasa, Sulawesi, Indonesia"
+37,1970,1970-03-28,39.098,29.57,25.0,6.9,iscgem798506,western Turkey
+38,1970,1970-03-29,-17.07,168.634,237.2,6.6,iscgem798577,Vanuatu
+39,1970,1970-03-30,6.754,126.451,50.0,6.8,iscgem798643,"Mindanao, Philippines"
+41,1970,1970-04-07,15.791,121.63,25.0,7.4,iscgem796378,"Luzon, Philippines"
+45,1970,1970-04-12,15.136,122.064,22.5,6.9,iscgem796629,Philippine Islands region
+48,1970,1970-04-16,59.702,-142.683,15.0,6.7,iscgem796787,Gulf of Alaska
+52,1970,1970-04-20,-18.715,169.318,238.7,6.6,iscgem796948,Vanuatu
+54,1970,1970-04-29,14.425,-92.847,35.0,6.6,iscgem797298,"offshore Chiapas, Mexico"
+55,1970,1970-04-29,14.52,-92.653,35.0,7.3,iscgem797311,"offshore Chiapas, Mexico"
+56,1970,1970-04-30,14.545,-93.254,35.0,6.6,iscgem797367,"offshore Chiapas, Mexico"
+62,1970,1970-05-14,43.191,47.14,15.0,6.7,iscgem795586,"Caucasus region, Russia"
+65,1970,1970-05-27,27.236,140.23,390.0,7.1,iscgem796043,"Bonin Islands, Japan region"
+70,1970,1970-05-31,-9.183,-78.737,45.0,7.9,iscgem796163,near the coast of northern Peru
+76,1970,1970-06-11,-24.418,-68.413,110.6,6.6,iscgemsup794500,"Antofagasta, Chile"
+77,1970,1970-06-11,-59.232,158.902,15.0,7.3,iscgem794513,Macquarie Island region
+78,1970,1970-06-14,-52.028,-74.07,15.0,7.0,iscgem794565,"near the coast of Magallanes, Chile"
+79,1970,1970-06-15,-54.476,-64.499,10.0,7.2,iscgem794605,"Tierra del Fuego, Argentina region"
+84,1970,1970-06-24,51.692,-131.055,18.3,7.4,iscgem794827,"Haida Gwaii Region, Canada"
+86,1970,1970-06-28,-8.683,124.0,85.8,6.6,iscgem794912,"Timor region, Indonesia"
+96,1970,1970-07-25,32.053,131.782,45.0,7.0,iscgem794013,"Kyushu, Japan"
+100,1970,1970-07-29,25.977,95.34,76.1,7.0,iscgem794100,Myanmar
+101,1970,1970-07-30,37.733,55.885,15.0,6.7,iscgem794114,Turkmenistan-Iran border region
+102,1970,1970-07-30,14.248,51.995,15.0,6.6,iscgem794121,Gulf of Aden
+103,1970,1970-07-31,-1.597,-72.532,644.8,8.0,iscgem794176,Colombia
+108,1970,1970-08-11,-14.057,166.657,45.0,6.9,iscgem792753,Vanuatu
+116,1970,1970-08-30,52.301,151.613,647.6,7.3,iscgem793336,Sea of Okhotsk
+117,1970,1970-09-01,17.717,147.629,25.0,6.6,iscgem791596,Mariana Islands region
+124,1970,1970-09-26,6.214,-77.488,15.0,6.6,iscgem792329,near the west coast of Colombia
+138,1970,1970-10-31,-4.999,145.396,60.0,6.9,iscgem791579,"near the north coast of New Guinea, Papua New Guinea"
+140,1970,1970-11-08,-3.428,135.544,35.0,6.7,iscgem790008,"Papua, Indonesia"
+150,1970,1970-12-02,-11.154,163.377,30.0,7.0,iscgem788837,Solomon Islands
+153,1970,1970-12-07,29.773,140.175,184.6,6.7,iscgem788974,"Izu Islands, Japan region"
+155,1970,1970-12-10,-4.026,-80.542,25.0,7.2,iscgem789028,Peru-Ecuador border region
+158,1970,1970-12-28,-5.242,153.52,55.0,6.6,iscgem789605,"New Ireland region, Papua New Guinea"
+159,1970,1970-12-29,-10.436,161.395,30.0,6.7,iscgem789614,Solomon Islands
+161,1971,1971-01-03,-55.918,-2.668,15.0,7.1,iscgem787884,southern Mid-Atlantic Ridge
+163,1971,1971-01-10,-3.184,139.722,30.0,7.7,iscgem788036,"Papua, Indonesia"
+164,1971,1971-01-10,-3.078,139.674,30.0,6.6,iscgem788053,"Papua, Indonesia"
+172,1971,1971-01-29,51.604,151.009,535.6,6.9,iscgem788703,Sea of Okhotsk
+174,1971,1971-02-04,0.653,98.711,30.0,7.0,iscgem786889,"Nias region, Indonesia"
+175,1971,1971-02-07,51.409,-176.974,28.9,7.0,iscgem786954,"Andreanof Islands, Aleutian Islands, Alaska"
+176,1971,1971-02-08,-63.398,-61.377,12.5,7.0,iscgem787022,South Shetland Islands
+177,1971,1971-02-09,34.416,-118.37,8.95,6.6,ci3347678,"10km SSW of Agua Dulce, CA"
+179,1971,1971-02-21,-23.804,-67.151,183.7,6.9,iscgem787582,"Jujuy, Argentina"
+182,1971,1971-03-13,-5.775,145.393,111.0,6.6,iscgemsup786345,"eastern New Guinea region, Papua New Guinea"
+195,1971,1971-04-07,2.514,129.106,31.3,6.6,iscgem785417,"Halmahera, Indonesia"
+196,1971,1971-04-08,-4.33,102.285,75.0,7.0,iscgemsup785445,"southern Sumatra, Indonesia"
+200,1971,1971-05-02,51.396,-177.318,24.2,7.0,iscgem784013,"Andreanof Islands, Aleutian Islands, Alaska"
+205,1971,1971-05-09,-39.811,-104.833,15.0,6.6,iscgem784250,southern Pacific Ocean
+207,1971,1971-05-17,-1.671,-77.66,171.6,6.7,iscgem784648,Ecuador
+209,1971,1971-05-18,63.952,145.965,10.0,7.0,iscgem784704,"Magadanskaya Oblast', Russia"
+210,1971,1971-05-22,38.934,40.653,10.0,6.9,iscgem784837,eastern Turkey
+218,1971,1971-06-11,51.595,175.868,25.0,6.8,iscgem783358,"Rat Islands, Aleutian Islands, Alaska"
+225,1971,1971-07-09,-32.601,-71.076,60.3,7.8,iscgem782010,"Valparaiso, Chile"
+227,1971,1971-07-14,-5.524,153.85,40.0,8.0,iscgem782181,"New Ireland region, Papua New Guinea"
+232,1971,1971-07-18,-4.869,153.288,47.5,6.6,iscgem782428,"New Ireland region, Papua New Guinea"
+233,1971,1971-07-19,-5.754,153.868,35.0,7.0,iscgem782440,"New Ireland region, Papua New Guinea"
+237,1971,1971-07-26,-4.817,153.172,40.0,8.1,iscgem782684,"New Ireland region, Papua New Guinea"
+239,1971,1971-07-26,-5.275,152.235,40.0,6.6,iscgemsup782691,"New Britain region, Papua New Guinea"
+240,1971,1971-07-26,-5.116,152.282,40.0,7.0,iscgemsup782694,"New Britain region, Papua New Guinea"
+245,1971,1971-07-27,-2.839,-77.322,120.0,7.4,iscgem782797,Peru-Ecuador border region
+246,1971,1971-07-27,-5.283,152.88,40.0,6.6,iscgem782874,"New Britain region, Papua New Guinea"
+248,1971,1971-08-02,41.415,143.416,54.8,7.1,iscgem780829,"Hokkaido, Japan region"
+249,1971,1971-08-05,-0.773,-22.082,20.0,6.9,iscgem780929,central Mid-Atlantic Ridge
+255,1971,1971-08-14,-15.751,-178.376,25.0,6.6,iscgem781234,Fiji region
+262,1971,1971-09-05,46.505,141.199,18.1,7.3,iscgem779972,"Sakhalin, Russia"
+264,1971,1971-09-08,46.399,141.18,17.5,6.8,iscgem780077,"Sakhalin, Russia"
+272,1971,1971-09-16,-5.912,130.603,131.0,7.0,iscgemsup780358,Banda Sea
+274,1971,1971-09-25,-6.516,146.636,110.8,6.8,iscgemsup780585,"eastern New Guinea region, Papua New Guinea"
+275,1971,1971-09-27,46.347,141.144,18.4,6.6,iscgem780665,"Sakhalin, Russia"
+281,1971,1971-10-03,-14.571,171.68,10.0,6.7,iscgem779005,Vanuatu region
+282,1971,1971-10-04,-5.931,154.136,45.0,6.8,iscgem779023,"Bougainville region, Papua New Guinea"
+283,1971,1971-10-14,-54.276,2.317,10.0,6.6,iscgem779325,Bouvet Island region
+287,1971,1971-10-23,11.909,142.531,21.6,6.6,iscgem779563,south of the Mariana Islands
+291,1971,1971-10-27,-15.582,167.246,45.0,6.8,iscgem779689,Vanuatu
+293,1971,1971-10-28,-13.384,166.429,35.0,6.7,iscgem779742,Vanuatu
+297,1971,1971-11-21,-11.857,166.557,113.1,7.1,iscgem778697,Santa Cruz Islands
+301,1971,1971-11-24,52.803,159.199,125.0,7.3,iscgem778805,"off the east coast of the Kamchatka Peninsula, Russia"
+302,1971,1971-12-02,44.889,153.314,20.0,6.6,iscgem777414,east of the Kuril Islands
+309,1971,1971-12-15,55.959,163.269,27.5,7.6,iscgem777750,"off the east coast of the Kamchatka Peninsula, Russia"
+312,1972,1972-01-01,-17.021,174.903,10.0,6.8,iscgem776618,Fiji region
+313,1972,1972-01-04,22.638,122.067,28.0,6.9,iscgem776670,Taiwan region
+316,1972,1972-01-08,20.981,120.28,25.0,6.7,iscgem776783,Philippine Islands region
+320,1972,1972-01-18,-4.866,144.966,25.7,6.6,iscgem777013,"near the north coast of New Guinea, Papua New Guinea"
+321,1972,1972-01-19,-4.718,144.905,20.0,6.6,iscgem777043,"near the north coast of New Guinea, Papua New Guinea"
+325,1972,1972-01-23,-13.248,166.407,35.0,7.0,iscgem777164,Vanuatu
+327,1972,1972-01-25,22.632,122.269,25.0,7.3,iscgem777208,Taiwan region
+328,1972,1972-01-25,23.107,121.974,25.0,7.1,iscgem777209,Taiwan
+334,1972,1972-02-14,-11.481,166.339,101.8,7.4,iscgem776200,Santa Cruz Islands
+336,1972,1972-02-29,33.453,140.929,59.8,7.2,iscgem776553,"Izu Islands, Japan region"
+339,1972,1972-03-07,-28.277,-178.169,200.0,6.6,iscgem775192,Kermadec Islands region
+342,1972,1972-03-22,49.019,153.582,138.9,6.8,iscgem775574,Kuril Islands
+347,1972,1972-03-30,-25.758,179.665,495.8,7.2,iscgem775781,south of the Fiji Islands
+351,1972,1972-04-02,-13.102,166.214,10.0,6.7,iscgem774059,Vanuatu
+352,1972,1972-04-04,-7.432,125.544,390.0,6.8,iscgem774129,"Kepulauan Barat Daya, Indonesia"
+353,1972,1972-04-10,28.415,52.765,10.0,6.6,iscgem774291,southern Iran
+354,1972,1972-04-11,0.922,-28.28,10.0,6.6,iscgem774329,central Mid-Atlantic Ridge
+358,1972,1972-04-24,23.564,121.539,22.2,7.0,iscgem774714,Taiwan
+359,1972,1972-04-25,13.402,120.275,25.0,7.5,iscgem774772,"Mindoro, Philippines"
+361,1972,1972-04-28,-5.154,154.191,409.9,7.2,iscgem774887,"Bougainville region, Papua New Guinea"
+364,1972,1972-05-04,-15.963,167.538,51.0,6.9,iscgem773128,Vanuatu
+366,1972,1972-05-05,-4.255,152.618,30.0,6.6,iscgem773172,"New Britain region, Papua New Guinea"
+370,1972,1972-05-22,16.552,122.189,35.0,6.9,iscgem773701,"Luzon, Philippines"
+371,1972,1972-05-22,-17.76,-175.066,222.1,7.1,iscgem773729,Tonga
+375,1972,1972-06-08,-30.466,-71.699,45.0,6.7,iscgem772340,"offshore Coquimbo, Chile"
+376,1972,1972-06-11,3.752,124.221,330.8,7.7,iscgem772416,Celebes Sea
+386,1972,1972-07-30,56.724,-135.853,25.0,7.6,iscgem772060,Southeastern Alaska
+390,1972,1972-08-04,49.149,155.928,45.0,6.6,iscgem770242,Kuril Islands
+396,1972,1972-08-17,-6.05,152.932,20.0,7.5,iscgem770672,"New Britain region, Papua New Guinea"
+420,1972,1972-09-24,-6.305,131.116,35.0,6.8,iscgem769882,"Kepulauan Tanimbar, Indonesia"
+427,1972,1972-10-20,18.827,-106.788,20.0,6.7,iscgem768538,"off the coast of Jalisco, Mexico"
+431,1972,1972-11-02,-20.122,168.949,20.0,7.0,iscgem766936,"Loyalty Islands, New Caledonia"
+437,1972,1972-11-13,15.612,-95.036,15.0,6.6,iscgem767301,"offshore Oaxaca, Mexico"
+439,1972,1972-12-02,6.405,126.64,60.0,8.0,iscgem765501,"Mindanao, Philippines"
+442,1972,1972-12-04,33.362,140.827,55.0,7.4,iscgem765618,"Izu Islands, Japan region"
+458,1973,1973-01-18,-6.868,149.993,43.0,6.8,usp000006k,"New Britain region, Papua New Guinea"
+461,1973,1973-01-30,18.481,-102.996,43.0,7.5,usp00000bf,"Michoacan, Mexico"
+464,1973,1973-02-06,31.398,100.581,33.0,7.4,usp00000dz,"western Sichuan, China"
+469,1973,1973-02-28,50.486,156.584,27.0,7.2,usp00000rx,Kuril Islands
+475,1973,1973-03-17,13.372,122.787,33.0,7.0,usp00000z7,"Luzon, Philippines"
+480,1973,1973-04-07,6.966,91.384,33.0,6.6,usp000019p,"Nicobar Islands, India region"
+481,1973,1973-04-07,-58.302,-13.394,33.0,6.7,usp000019y,east of the South Sandwich Islands
+494,1973,1973-06-17,43.233,145.785,48.0,7.7,usp0000270,"Hokkaido, Japan region"
+496,1973,1973-06-24,43.318,146.442,50.0,7.1,usp00002bv,Kuril Islands
+497,1973,1973-06-26,43.175,146.56,50.0,6.6,usp00002dx,Kuril Islands
+498,1973,1973-07-01,57.84,-137.33,33.0,6.7,usp00002g9,off the coast of Southeastern Alaska
+503,1973,1973-07-14,35.178,86.481,33.0,6.9,usp00002q7,western Xizang
+518,1973,1973-08-28,18.267,-96.598,84.0,6.8,usp000038k,"Oaxaca, Mexico"
+519,1973,1973-08-28,-0.189,-18.027,33.0,6.8,usp000038s,central Mid-Atlantic Ridge
+521,1973,1973-09-12,73.302,55.161,0.0,6.8,usp00003dp,"Novaya Zemlya, Russia"
+530,1973,1973-10-05,-32.518,-71.478,33.0,6.7,usp00003pg,"offshore Valparaiso, Chile"
+531,1973,1973-10-06,-60.823,-21.549,33.0,7.0,usp00003qs,east of the South Sandwich Islands
+536,1973,1973-10-27,70.779,54.177,0.0,6.9,usp00003ya,"Novaya Zemlya, Russia"
+543,1973,1973-12-09,-19.912,169.751,39.0,6.8,usp00004ga,Vanuatu
+548,1973,1973-12-28,-14.464,166.601,26.0,7.5,usp00004p9,Vanuatu
+549,1973,1973-12-29,-15.117,166.896,47.0,7.2,usp00004py,Vanuatu
+552,1973,1973-12-30,-15.506,166.639,10.0,6.6,usp00004r4,Vanuatu
+556,1974,1974-01-10,-14.434,166.863,34.0,7.2,usp00004vu,Vanuatu
+561,1974,1974-01-31,-7.461,155.894,34.0,7.0,usp000053h,Solomon Islands
+562,1974,1974-02-01,-7.383,155.575,40.0,7.1,usp000053r,Solomon Islands
+573,1974,1974-03-09,-7.335,156.193,33.0,6.6,usp00005jh,Solomon Islands
+582,1974,1974-05-10,28.243,104.015,11.0,6.8,usp000069p,"eastern Sichuan, China"
+594,1974,1974-06-19,-33.416,56.875,33.0,6.6,usp00006sz,Southwest Indian Ridge
+597,1974,1974-06-25,-26.09,84.28,33.0,6.6,usp00006wc,South Indian Ocean
+599,1974,1974-07-02,-29.082,-175.954,33.0,7.2,usp00006zm,Kermadec Islands region
+600,1974,1974-07-03,-29.122,-176.11,33.0,6.6,usp0000700,Kermadec Islands region
+601,1974,1974-07-04,45.136,94.034,33.0,6.7,usp0000708,western Mongolia
+603,1974,1974-07-13,7.747,-77.688,12.0,7.3,usp000072y,Panama-Colombia border region
+610,1974,1974-08-11,39.457,73.83,9.0,7.3,usp00007j0,Kyrgyzstan-Tajikistan-Xinjiang border region
+612,1974,1974-08-18,-38.453,-73.431,36.0,7.1,usp00007nz,"Araucania, Chile"
+618,1974,1974-09-27,43.176,146.651,43.0,6.7,usp0000862,Kuril Islands
+619,1974,1974-10-03,-12.265,-77.795,13.0,7.6,usp0000888,near the coast of central Peru
+621,1974,1974-10-08,17.3,-62.0,47.0,7.5,usp00008aq,"Antigua and Barbuda region, Leeward Islands"
+628,1974,1974-10-16,52.636,-32.07,33.0,6.9,usp00008eb,Reykjanes Ridge
+630,1974,1974-10-23,-8.42,154.034,48.0,7.2,usp00008hm,D'Entrecasteaux Islands region
+633,1974,1974-11-02,70.817,54.063,0.0,6.7,usp00008n6,"Novaya Zemlya, Russia"
+635,1974,1974-11-09,-12.5,-77.786,6.0,7.2,usp00008qy,near the coast of central Peru
+639,1974,1974-11-20,-15.023,167.139,33.0,6.9,usp00008uv,Vanuatu
+644,1974,1974-12-04,0.393,97.843,20.0,6.9,usp00008zv,"Nias region, Indonesia"
+647,1974,1974-12-24,-2.308,99.043,33.0,6.8,usp000097s,"Kepulauan Mentawai region, Indonesia"
+654,1975,1975-01-19,32.455,78.43,33.0,6.8,usp00009jd,Kashmir-Xizang border region
+657,1975,1975-02-02,53.113,173.497,10.0,7.6,usp00009ry,"Near Islands, Aleutian Islands, Alaska"
+658,1975,1975-02-04,40.641,122.58,33.0,7.0,usp00009ss,"Liaoning, China"
+662,1975,1975-03-05,-2.444,126.145,33.0,6.6,usp0000a44,"Ceram Sea, Indonesia"
+664,1975,1975-03-13,-29.941,-71.337,4.0,6.9,usp0000a7a,"offshore Coquimbo, Chile"
+668,1975,1975-03-23,22.735,122.802,21.0,6.6,usp0000abg,Taiwan region
+669,1975,1975-03-27,40.418,26.139,5.0,6.7,usp0000acv,western Turkey
+683,1975,1975-05-10,-38.183,-73.232,6.0,7.7,usp0000az9,"Bio-Bio, Chile"
+687,1975,1975-05-26,35.997,-17.649,33.0,7.9,usp0000b6e,Azores-Cape St. Vincent Ridge
+690,1975,1975-06-10,43.024,147.734,15.0,7.0,usp0000bdp,Kuril Islands
+705,1975,1975-07-20,-6.59,155.054,49.0,7.9,usp0000c24,"Bougainville region, Papua New Guinea"
+706,1975,1975-07-20,-7.104,155.152,44.0,7.7,usp0000c2s,Solomon Islands
+707,1975,1975-07-20,-6.58,154.651,50.0,6.7,usp0000c35,"Bougainville region, Papua New Guinea"
+708,1975,1975-07-21,-6.736,155.312,47.0,6.8,usp0000c3d,"Bougainville region, Papua New Guinea"
+715,1975,1975-08-15,54.877,167.845,4.0,6.6,usp0000cfw,"Komandorskiye Ostrova, Russia region"
+718,1975,1975-09-06,38.474,40.723,26.0,6.7,usp0000cqe,eastern Turkey
+725,1975,1975-10-01,-4.882,102.198,33.0,7.0,usp0000d0m,"southern Sumatra, Indonesia"
+727,1975,1975-10-03,30.251,66.315,11.0,6.7,usp0000d18,western Afghanistan
+730,1975,1975-10-06,-12.519,166.499,54.0,7.0,usp0000d2p,Santa Cruz Islands
+731,1975,1975-10-07,0.898,-26.772,33.0,6.7,usp0000d2v,central Mid-Atlantic Ridge
+733,1975,1975-10-11,-24.894,-175.119,9.0,7.8,usp0000d42,south of Tonga
+736,1975,1975-10-18,70.843,53.69,0.0,6.7,usp0000d69,"Novaya Zemlya, Russia"
+743,1975,1975-10-31,12.54,125.993,50.0,7.2,usp0000dc1,"Samar, Philippines"
+749,1975,1975-11-29,19.438,-155.149,10.0,7.4,iscgem722344,"Hawaii region, Hawaii"
+756,1975,1975-12-25,-4.084,142.04,115.0,6.6,usp0000e2c,"New Guinea, Papua New Guinea"
+757,1975,1975-12-26,-16.264,-172.467,33.0,7.8,usp0000e2t,Samoa Islands region
+765,1976,1976-01-14,-28.427,-177.657,33.0,8.0,usp0000ee7,Kermadec Islands region
+770,1976,1976-01-21,44.915,149.123,41.0,7.0,usp0000ekj,Kuril Islands
+775,1976,1976-02-04,15.324,-89.101,5.0,7.5,usp0000ex3,Guatemala
+787,1976,1976-03-24,-29.887,-177.873,33.0,6.8,usp0000fk9,"Kermadec Islands, New Zealand"
+790,1976,1976-04-08,40.311,63.773,33.0,7.0,usp0000ft0,western Uzbekistan
+792,1976,1976-04-09,0.782,-79.804,9.0,6.7,usp0000ftt,near the coast of Ecuador
+797,1976,1976-05-04,-44.642,167.573,19.0,6.6,usp0000g52,South Island of New Zealand
+798,1976,1976-05-05,-29.934,-177.837,35.0,6.8,usp0000g59,"Kermadec Islands, New Zealand"
+801,1976,1976-05-11,-51.603,139.683,33.0,6.6,usp0000g9k,western Indian-Antarctic Ridge
+803,1976,1976-05-15,-11.637,-74.478,33.0,6.6,usp0000gc6,central Peru
+804,1976,1976-05-17,40.381,63.472,10.0,7.0,usp0000gcj,western Uzbekistan
+806,1976,1976-05-29,24.57,98.953,8.0,6.9,usp0000gm6,Myanmar-China border region
+807,1976,1976-05-29,24.531,98.71,10.0,7.0,usp0000gm8,Myanmar-China border region
+817,1976,1976-06-20,3.397,96.318,33.0,7.0,usp0000gzb,"northern Sumatra, Indonesia"
+818,1976,1976-06-25,-4.603,140.091,33.0,7.1,usp0000h1p,"Papua, Indonesia"
+821,1976,1976-07-11,7.337,-78.47,22.0,6.7,usp0000h98,Panama
+822,1976,1976-07-11,7.409,-78.127,3.0,7.0,usp0000h9g,Panama
+824,1976,1976-07-17,-4.157,152.755,53.0,6.6,usp0000hdc,"New Britain region, Papua New Guinea"
+828,1976,1976-07-27,39.57,117.978,23.0,7.5,usp0000hjg,"Tianjin-Hebei border region, China"
+829,1976,1976-07-28,39.664,118.401,26.0,7.4,usp0000hk6,"Hebei, China"
+834,1976,1976-08-02,-20.609,169.274,52.0,6.9,usp0000hpm,Vanuatu
+836,1976,1976-08-16,32.752,104.157,16.0,6.9,usp0000hv8,"Sichuan-Gansu border region, China"
+837,1976,1976-08-16,6.262,124.023,33.0,7.9,usp0000hvb,"Mindanao, Philippines"
+839,1976,1976-08-17,7.249,122.939,22.0,6.8,usp0000hw4,"Mindanao, Philippines"
+842,1976,1976-08-23,32.492,104.181,33.0,6.7,usp0000j0p,"Sichuan-Gansu border region, China"
+849,1976,1976-10-29,-4.517,139.918,33.0,7.1,usp0000k3d,"Papua, Indonesia"
+853,1976,1976-11-07,8.478,126.375,60.0,6.8,usp0000k85,"Mindanao, Philippines"
+861,1976,1976-11-24,39.121,44.029,36.0,7.3,usp0000kf0,Turkey-Iran border region
+867,1976,1976-12-20,48.802,-129.292,10.0,6.7,usp0000kv9,"Vancouver Island, Canada region"
+871,1977,1977-01-06,-3.63,144.447,33.0,6.6,usp0000m2u,"near the north coast of New Guinea, Papua New Guinea"
+881,1977,1977-02-19,53.566,170.032,33.0,6.7,usp0000mmw,"Near Islands, Aleutian Islands, Alaska"
+885,1977,1977-03-18,16.773,122.327,37.0,7.0,usp0000myv,"Luzon, Philippines"
+887,1977,1977-03-21,27.609,56.393,29.0,6.9,usp0000n1c,southern Iran
+892,1977,1977-04-02,-16.696,-172.095,33.0,7.6,usp0000n82,Samoa Islands region
+894,1977,1977-04-20,-9.828,160.323,33.0,6.7,usp0000ngd,Solomon Islands
+895,1977,1977-04-20,-9.89,160.348,19.0,7.5,usp0000ngg,Solomon Islands
+896,1977,1977-04-20,-9.844,160.822,33.0,7.5,usp0000ngh,Solomon Islands
+899,1977,1977-04-21,-9.965,160.731,33.0,7.5,usp0000nh4,Solomon Islands
+904,1977,1977-06-22,-22.878,-175.9,65.0,6.8,usp0000pdx,Tonga region
+908,1977,1977-07-21,-53.863,158.602,33.0,6.7,usp0000ptq,Macquarie Island region
+909,1977,1977-07-21,16.882,122.361,33.0,6.9,usp0000pts,"Luzon, Philippines"
+912,1977,1977-07-29,-8.031,155.538,33.0,7.2,usp0000px4,Solomon Islands
+916,1977,1977-08-19,-11.164,118.378,25.0,8.3,iscgem694739,"south of Sumbawa, Indonesia"
+922,1977,1977-08-26,-59.426,-20.508,33.0,7.1,usp0000qbd,east of the South Sandwich Islands
+923,1977,1977-08-27,-8.062,125.3,25.0,6.8,usp0000qbn,East Timor region
+930,1977,1977-09-04,51.144,177.954,8.0,6.6,usp0000qga,"Rat Islands, Aleutian Islands, Alaska"
+936,1977,1977-10-10,-25.856,-175.406,33.0,7.2,usp0000qzg,south of Tonga
+937,1977,1977-10-17,-27.914,173.084,33.0,6.7,usp0000r34,north of New Zealand
+940,1977,1977-11-04,51.659,-175.952,33.0,6.7,usp0000rc6,"Andreanof Islands, Aleutian Islands, Alaska"
+942,1977,1977-11-23,-31.028,-67.767,13.0,7.4,usp0000rp1,"San Juan, Argentina"
+951,1977,1977-12-21,25.51,143.112,33.0,6.8,usp0000s5w,"Volcano Islands, Japan region"
+953,1977,1977-12-28,16.659,40.278,33.0,6.6,usp0000s8t,Red Sea
+956,1978,1978-01-14,34.809,139.259,14.0,6.6,usp0000sge,"near the south coast of Honshu, Japan"
+961,1978,1978-02-09,-30.683,-177.358,33.0,7.2,usp0000swb,"Kermadec Islands, New Zealand"
+964,1978,1978-02-11,-30.414,-177.119,33.0,6.6,usp0000sx3,"Kermadec Islands, New Zealand"
+973,1978,1978-03-07,32.005,137.609,439.0,6.9,usp0000t8z,"Izu Islands, Japan region"
+976,1978,1978-03-22,44.026,149.002,33.0,6.7,usp0000th2,Kuril Islands
+977,1978,1978-03-22,44.14,149.029,33.0,6.6,usp0000thy,Kuril Islands
+978,1978,1978-03-23,44.209,148.971,46.0,6.8,usp0000tj3,Kuril Islands
+980,1978,1978-03-23,44.932,148.439,33.0,7.5,usp0000tjh,Kuril Islands
+982,1978,1978-03-23,44.343,149.737,33.0,6.8,usp0000tm0,Kuril Islands
+984,1978,1978-03-24,44.244,148.862,33.0,7.6,usp0000tmy,Kuril Islands
+985,1978,1978-03-24,42.839,78.606,33.0,7.1,usp0000tn6,Kyrgyzstan
+989,1978,1978-04-10,-11.36,116.685,33.0,6.7,usp0000u0r,"south of Lombok, Indonesia"
+990,1978,1978-04-12,56.423,-152.691,14.0,6.6,usp0000u1x,"Kodiak Island region, Alaska"
+993,1978,1978-05-13,-14.521,167.319,160.0,6.7,usp0000uhc,Vanuatu
+995,1978,1978-05-24,51.232,-179.213,25.0,6.7,usp0000uq0,"Andreanof Islands, Aleutian Islands, Alaska"
+996,1978,1978-05-26,24.274,142.661,33.0,6.8,usp0000usb,"Volcano Islands, Japan region"
+1002,1978,1978-06-12,38.19,142.028,44.0,7.7,usp0000v0f,"near the east coast of Honshu, Japan"
+1004,1978,1978-06-14,8.249,122.403,24.0,6.9,usp0000v1t,"Mindanao, Philippines"
+1006,1978,1978-06-17,-17.098,-172.264,33.0,7.0,usp0000v3r,Tonga region
+1012,1978,1978-07-23,22.282,121.512,17.0,7.4,usp0000vpz,Taiwan region
+1020,1978,1978-08-23,10.204,-85.222,56.0,7.0,usp0000w5v,Costa Rica
+1027,1978,1978-09-16,33.386,57.434,33.0,7.4,usp0000wjx,eastern Iran
+1029,1978,1978-11-01,39.349,72.615,40.0,6.8,usp0000x7g,Tajikistan
+1031,1978,1978-11-04,-11.23,162.176,33.0,6.9,usp0000x94,Solomon Islands
+1033,1978,1978-11-05,-11.132,162.136,33.0,7.1,usp0000x9z,Solomon Islands
+1036,1978,1978-11-29,16.01,-96.591,18.0,7.7,usp0000xp7,"Oaxaca, Mexico"
+1038,1978,1978-12-06,44.592,146.581,91.0,6.7,usp0000xsq,Kuril Islands
+1039,1978,1978-12-12,7.33,123.492,33.0,6.9,usp0000xwj,"Mindanao, Philippines"
+1045,1978,1978-12-23,23.247,122.075,33.0,7.0,usp0000y1y,Taiwan region
+1048,1979,1979-01-16,33.897,59.472,33.0,6.7,usp0000yf2,eastern Iran
+1052,1979,1979-01-26,17.413,-100.877,41.0,6.6,usp0000yks,"Guerrero, Mexico"
+1057,1979,1979-02-13,55.453,-157.162,33.0,6.7,usp0000yu0,Alaska Peninsula
+1059,1979,1979-02-16,-16.39,-72.658,53.0,6.9,usp0000yvv,near the coast of southern Peru
+1062,1979,1979-02-28,60.642,-141.593,15.0,7.1,usp0000z2a,Southern Alaska
+1066,1979,1979-03-14,17.813,-101.276,49.0,7.6,usp0000zbw,"Guerrero, Mexico"
+1071,1979,1979-04-10,2.963,126.933,37.0,6.8,usp0000zxb,Molucca Sea
+1073,1979,1979-04-15,42.096,19.209,10.0,6.9,usp000100b,Montenegro
+1096,1979,1979-07-24,-11.149,107.709,31.0,6.9,usp000121k,"south of Java, Indonesia"
+1105,1979,1979-08-25,10.731,-41.688,10.0,6.6,usp00012m8,northern Mid-Atlantic Ridge
+1107,1979,1979-08-26,19.066,122.096,15.0,7.1,usp00012mz,"Babuyan Islands region, Philippines"
+1108,1979,1979-09-12,-1.679,136.04,5.0,7.9,usp00012wp,"Biak region, Indonesia"
+1110,1979,1979-09-29,1.193,94.245,27.0,6.8,usp000136a,off the west coast of northern Sumatra
+1111,1979,1979-10-12,-46.675,165.707,33.0,7.4,usp00013ck,off the west coast of the South Island of New Zealand
+1118,1979,1979-10-23,-10.615,161.284,22.0,7.1,usp00013nn,Solomon Islands
+1119,1979,1979-10-27,13.833,-90.881,58.0,6.8,usp00013qx,offshore Guatemala
+1120,1979,1979-10-27,13.778,-90.73,65.0,6.6,usp00013r5,offshore Guatemala
+1127,1979,1979-11-13,-23.576,-174.858,32.0,6.6,usp0001407,Tonga region
+1128,1979,1979-11-14,33.918,59.741,33.0,6.6,usp000140d,eastern Iran
+1129,1979,1979-11-16,-16.76,-179.984,33.0,6.9,usp000141q,Fiji region
+1133,1979,1979-11-27,33.962,59.726,10.0,7.1,usp000147t,eastern Iran
+1137,1979,1979-12-12,1.598,-79.358,24.0,7.7,usp00014ey,near the coast of Ecuador
+1138,1979,1979-12-15,-3.299,102.712,33.0,6.6,usp00014h9,"southern Sumatra, Indonesia"
+1141,1980,1980-01-01,38.815,-27.78,10.0,6.7,usp00014tu,"Azores Islands, Portugal"
+1151,1980,1980-02-23,43.53,146.753,44.0,7.0,usp00015mw,Kuril Islands
+1152,1980,1980-02-27,-6.017,150.189,53.0,6.6,usp00015qz,"New Britain region, Papua New Guinea"
+1156,1980,1980-03-08,-22.673,171.357,38.0,6.7,usp00015we,southeast of the Loyalty Islands
+1157,1980,1980-03-24,52.969,-167.67,33.0,6.9,usp0001668,"Fox Islands, Aleutian Islands, Alaska"
+1164,1980,1980-04-13,-23.466,-177.297,79.0,6.7,usp00016ma,south of the Fiji Islands
+1183,1980,1980-06-18,9.475,126.657,54.0,6.8,usp00018ad,"Mindanao, Philippines"
+1190,1980,1980-07-08,-12.41,166.381,33.0,7.5,usp00018r3,Santa Cruz Islands
+1193,1980,1980-07-09,-12.689,166.004,33.0,6.7,usp00018s5,Santa Cruz Islands
+1194,1980,1980-07-14,-29.273,-177.154,49.0,6.6,usp00018vj,"Kermadec Islands, New Zealand"
+1196,1980,1980-07-17,-12.525,165.916,33.0,7.9,usp00018y0,Santa Cruz Islands
+1200,1980,1980-07-29,-13.101,166.338,48.0,6.7,usp000194t,Vanuatu
+1213,1980,1980-10-10,36.195,1.354,10.0,7.3,usp0001a5w,northern Algeria
+1215,1980,1980-10-24,-21.989,170.165,33.0,6.7,usp0001adk,southeast of the Loyalty Islands
+1217,1980,1980-10-25,-21.982,170.025,33.0,6.7,usp0001aep,southeast of the Loyalty Islands
+1218,1980,1980-10-25,-21.89,169.853,33.0,7.2,usp0001aez,southeast of the Loyalty Islands
+1225,1980,1980-11-08,41.117,-124.253,19.0,7.2,usp0001aq1,offshore Northern California
+1226,1980,1980-11-11,-51.422,28.796,10.0,6.7,usp0001arz,south of Africa
+1228,1980,1980-11-23,40.914,15.366,10.0,6.9,usp0001ay4,southern Italy
+1233,1980,1980-12-17,49.479,-129.496,10.0,6.8,usp0001bax,"Vancouver Island, Canada region"
+1240,1981,1981-01-18,38.64,142.75,33.0,6.9,usp0001bss,"near the east coast of Honshu, Japan"
+1242,1981,1981-01-19,-4.576,139.232,33.0,6.7,usp0001bta,"Papua, Indonesia"
+1246,1981,1981-01-23,30.927,101.098,33.0,6.8,usp0001bve,"western Sichuan, China"
+1247,1981,1981-01-23,-29.682,60.839,10.0,6.8,usp0001bvf,Southwest Indian Ridge
+1248,1981,1981-01-30,51.744,176.274,33.0,7.0,usp0001byq,"Rat Islands, Aleutian Islands, Alaska"
+1249,1981,1981-02-17,-21.743,169.377,29.9,6.7,usp0001c85,southeast of the Loyalty Islands
+1252,1981,1981-02-24,38.222,22.934,33.0,6.7,usp0001ccb,Greece
+1261,1981,1981-04-24,-13.426,166.421,33.0,6.9,usp0001db4,Vanuatu
+1270,1981,1981-05-25,-48.786,164.357,33.0,7.6,usp0001dv1,off the west coast of the South Island of New Zealand
+1276,1981,1981-06-11,29.913,57.715,33.0,6.7,usp0001e35,southern Iran
+1279,1981,1981-07-06,-22.293,171.742,33.0,7.0,usp0001ej2,southeast of the Loyalty Islands
+1282,1981,1981-07-15,-17.26,167.601,30.0,7.0,usp0001eq4,Vanuatu
+1283,1981,1981-07-28,30.013,57.794,33.0,7.1,usp0001ezf,eastern Iran
+1286,1981,1981-09-01,-14.96,-173.085,25.0,7.7,usp0001fkx,Samoa Islands region
+1287,1981,1981-09-03,43.621,147.031,45.0,6.6,usp0001fn5,Kuril Islands
+1288,1981,1981-09-04,11.05,123.21,33.0,6.6,gcmtc090481a,"Visayan Sea, Philippines"
+1293,1981,1981-09-17,-22.518,170.506,30.0,6.6,usp0001fxr,southeast of the Loyalty Islands
+1301,1981,1981-10-16,-33.134,-73.074,33.0,7.2,usp0001gg1,"off the coast of Valparaiso, Chile"
+1305,1981,1981-10-25,18.048,-102.084,33.0,7.3,usp0001gnv,"Guerrero, Mexico"
+1309,1981,1981-11-06,-3.558,143.79,33.0,6.9,usp0001gud,"near the north coast of New Guinea, Papua New Guinea"
+1310,1981,1981-11-07,-32.199,-71.336,65.2,6.8,usp0001gun,"Valparaiso, Chile"
+1316,1981,1981-11-24,-22.504,170.635,29.8,6.7,usp0001h4g,southeast of the Loyalty Islands
+1320,1981,1981-12-19,39.243,25.227,10.0,7.2,usp0001hgc,Aegean Sea
+1321,1981,1981-12-24,-29.97,-177.61,28.0,6.8,usp0001hmm,"Kermadec Islands, New Zealand"
+1322,1981,1981-12-26,-29.934,-177.741,33.0,7.1,usp0001hp7,"Kermadec Islands, New Zealand"
+1325,1982,1982-01-01,26.823,142.557,22.2,6.7,usp0001huc,"Bonin Islands, Japan region"
+1329,1982,1982-01-11,13.752,124.358,45.7,7.1,usp0001hze,"Catanduanes, Philippines"
+1333,1982,1982-01-18,40.004,24.319,10.0,6.8,usp0001j3b,Aegean Sea
+1342,1982,1982-02-20,-10.861,166.015,36.0,6.8,usp0001jqv,Santa Cruz Islands
+1347,1982,1982-03-21,42.158,142.361,44.0,6.7,usp0001k81,"Hokkaido, Japan region"
+1359,1982,1982-05-07,-60.597,-20.877,10.0,6.7,usp0001m51,east of the South Sandwich Islands
+1364,1982,1982-06-07,16.607,-98.149,40.5,6.9,usp0001mrd,"Oaxaca, Mexico"
+1365,1982,1982-06-07,16.558,-98.358,33.8,7.0,usp0001mrg,"Guerrero, Mexico"
+1367,1982,1982-06-19,13.332,-89.387,73.0,7.3,iscgem597450,offshore El Salvador
+1370,1982,1982-06-30,44.679,151.143,33.0,6.9,usp0001n6n,east of the Kuril Islands
+1373,1982,1982-07-04,27.929,136.967,536.0,7.1,usp0001n8w,"west of the Bonin Islands, Japan"
+1374,1982,1982-07-07,-51.225,160.513,10.0,7.0,usp0001nap,north of Macquarie Island
+1376,1982,1982-07-23,36.194,141.702,36.6,7.1,usp0001nkk,"near the east coast of Honshu, Japan"
+1379,1982,1982-08-05,-12.597,165.931,30.7,7.0,usp0001nvd,Santa Cruz Islands
+1383,1982,1982-08-19,6.718,-82.68,10.0,6.8,usp0001p53,south of Panama
+1389,1982,1982-09-06,29.325,140.36,175.8,6.8,usp0001pej,"Izu Islands, Japan region"
+1400,1982,1982-11-18,-1.719,-76.703,195.0,6.6,usp0001qzr,Ecuador
+1401,1982,1982-11-19,-10.599,-74.699,14.0,6.7,usp0001r03,central Peru
+1403,1982,1982-12-03,-13.323,167.205,256.7,6.6,usp0001r8k,Vanuatu
+1406,1982,1982-12-16,36.148,69.011,36.0,6.6,usp0001rg4,"Hindu Kush region, Afghanistan"
+1408,1982,1982-12-19,-24.133,-175.864,33.0,7.2,usp0001rj6,south of Tonga
+1419,1983,1983-01-16,-5.458,147.046,234.9,6.7,usp0001s9g,"eastern New Guinea region, Papua New Guinea"
+1420,1983,1983-01-17,38.026,20.228,14.3,7.0,usp0001sa1,Greece
+1425,1983,1983-01-24,12.942,93.582,78.0,6.8,usp0001sjv,"Andaman Islands, India region"
+1427,1983,1983-01-26,-30.383,-179.339,238.0,7.0,usp0001smj,Kermadec Islands region
+1434,1983,1983-02-25,-18.268,-69.438,146.0,6.9,usp0001tax,"Tarapaca, Chile"
+1439,1983,1983-03-12,-4.056,127.924,16.9,6.7,usp0001tk3,Banda Sea
+1440,1983,1983-03-15,5.346,126.566,41.0,6.7,usp0001tp6,"Mindanao, Philippines"
+1441,1983,1983-03-18,-4.883,153.581,88.8,7.6,usp0001tr1,"New Ireland region, Papua New Guinea"
+1443,1983,1983-03-21,-21.466,-175.451,68.0,6.7,usp0001tte,Tonga
+1447,1983,1983-04-03,8.717,-83.123,37.0,7.1,usp0001u4p,Costa Rica
+1448,1983,1983-04-04,5.723,94.722,78.5,6.9,usp0001u5s,"northern Sumatra, Indonesia"
+1451,1983,1983-04-08,11.429,57.52,10.0,6.7,usp0001u8x,Owen Fracture Zone region
+1453,1983,1983-04-12,-4.843,-78.103,104.2,7.0,usp0001uct,Peru-Ecuador border region
+1455,1983,1983-04-18,27.793,62.054,64.0,7.0,usp0001uj8,Iran-Pakistan border region
+1459,1983,1983-05-02,36.2316667,-120.312,9.578,6.7,nc1091100,Central California
+1464,1983,1983-05-10,-4.805,152.509,71.6,6.7,usp0001v7p,"New Britain region, Papua New Guinea"
+1467,1983,1983-05-26,40.462,139.102,23.7,7.4,usp0001vmy,"near the west coast of Honshu, Japan"
+1468,1983,1983-06-01,-17.038,-174.605,179.6,6.6,usp0001vuc,Tonga
+1475,1983,1983-06-21,41.346,139.099,9.9,6.7,usp0001w81,"Hokkaido, Japan region"
+1478,1983,1983-06-24,24.176,122.402,44.1,6.7,usp0001wb0,Taiwan region
+1479,1983,1983-06-24,21.4,102.604,33.0,6.9,usp0001wb1,Laos
+1484,1983,1983-07-11,-60.889,-53.02,10.0,6.9,usp0001wq7,South Shetland Islands
+1485,1983,1983-07-12,61.031,-147.286,37.0,6.6,usp0001wrg,Southern Alaska
+1490,1983,1983-08-06,40.142,24.766,2.4,6.8,usp0001xcs,Aegean Sea
+1492,1983,1983-08-17,55.867,161.287,62.6,7.1,usp0001xqy,"near the east coast of the Kamchatka Peninsula, Russia"
+1503,1983,1983-09-17,-16.636,-177.476,33.0,6.7,usp0001yeg,Fiji region
+1507,1983,1983-10-04,-26.535,-70.563,14.8,7.4,usp0001ytj,"Atacama, Chile"
+1510,1983,1983-10-09,-26.135,-70.518,16.1,6.7,usp0001yvs,"Atacama, Chile"
+1516,1983,1983-10-22,-60.665,-25.451,24.0,7.2,usp0001z5e,South Sandwich Islands region
+1521,1983,1983-10-27,1.093,120.833,27.7,6.6,usp0001zb4,"Minahasa, Sulawesi, Indonesia"
+1522,1983,1983-10-28,44.058,-113.857,10.0,6.9,usp0001zbv,southern Idaho
+1523,1983,1983-10-30,40.33,42.187,11.6,6.8,usp0001zdn,eastern Turkey
+1526,1983,1983-11-07,1.27,128.335,59.4,6.6,usp0001zmc,"Halmahera, Indonesia"
+1528,1983,1983-11-16,19.43,-155.454,12.0,6.7,usp0001zvx,"Hawaii region, Hawaii"
+1531,1983,1983-11-22,0.482,-79.877,54.9,6.6,usp0001zzs,near the coast of Ecuador
+1532,1983,1983-11-24,-7.481,128.168,178.5,7.3,usp000200r,"Kepulauan Barat Daya, Indonesia"
+1538,1983,1983-11-30,-6.852,72.11,10.0,7.3,usp000205u,Chagos Archipelago region
+1539,1983,1983-12-02,14.066,-91.924,67.1,7.0,usp000207b,offshore Guatemala
+1549,1983,1983-12-21,-28.19,-63.172,601.9,6.9,usp00020ph,"Santiago Del Estero, Argentina"
+1553,1983,1983-12-30,36.372,70.738,214.5,7.4,usp00020xw,"Hindu Kush region, Afghanistan"
+1554,1984,1984-01-01,33.683,136.894,368.1,7.2,usp00020z7,"near the south coast of western Honshu, Japan"
+1558,1984,1984-01-08,-2.823,118.806,33.0,7.0,usp000213u,"Sulawesi, Indonesia"
+1565,1984,1984-02-07,-10.012,160.469,18.1,7.6,usp00021u7,Solomon Islands
+1574,1984,1984-03-05,8.147,123.762,649.1,7.3,usp00022es,"Mindanao, Philippines"
+1575,1984,1984-03-06,29.384,138.935,457.4,7.4,usp00022fa,"Izu Islands, Japan region"
+1580,1984,1984-03-19,40.32,63.35,14.5,7.0,usp00022s5,western Uzbekistan
+1583,1984,1984-03-24,44.117,148.192,44.4,7.2,usp00022y2,Kuril Islands
+1586,1984,1984-04-06,-18.903,168.85,182.4,6.8,usp00023aj,Vanuatu
+1594,1984,1984-04-24,30.909,138.431,403.1,6.9,usp00023uq,"Izu Islands, Japan region"
+1599,1984,1984-05-17,-36.429,52.419,10.0,6.9,usp00024ev,Southwest Indian Ridge
+1600,1984,1984-05-17,-36.46,53.54,10.0,6.9,gcmtc051784c,South Indian Ocean
+1606,1984,1984-05-26,-43.548,38.944,10.0,6.7,usp00024mx,Prince Edward Islands region
+1608,1984,1984-05-30,-4.843,151.577,174.4,7.1,usp00024qw,"New Britain region, Papua New Guinea"
+1612,1984,1984-06-15,-15.816,-174.831,246.6,6.6,usp000251s,Tonga
+1617,1984,1984-06-24,17.984,-69.338,23.9,6.9,usp000257x,Dominican Republic region
+1621,1984,1984-07-05,-6.056,154.424,33.0,6.6,usp00025gm,"Bougainville region, Papua New Guinea"
+1622,1984,1984-07-09,-5.788,111.298,533.5,6.7,usp00025mm,Java Sea
+1627,1984,1984-08-06,-0.086,122.517,242.3,7.4,usp000268f,"Sulawesi, Indonesia"
+1628,1984,1984-08-06,32.386,131.945,46.2,6.9,usp000268g,"Kyushu, Japan"
+1636,1984,1984-09-10,40.503,-126.831,10.0,6.7,usp000278e,off the coast of Northern California
+1637,1984,1984-09-10,40.5038333,-125.1303333,4.333,6.6,nc27615,offshore Northern California
+1642,1984,1984-09-18,34.006,141.5,47.6,6.8,usp00027ga,"off the east coast of Honshu, Japan"
+1646,1984,1984-09-28,-25.849,-175.911,21.1,6.6,usp00027rt,south of Tonga
+1655,1984,1984-10-15,-15.86,-173.643,128.4,7.2,usp000286c,Tonga
+1661,1984,1984-10-29,5.731,125.543,153.2,6.6,usp00028mq,"Mindanao, Philippines"
+1662,1984,1984-10-30,-17.109,-174.076,141.0,6.6,usp00028ms,Tonga
+1663,1984,1984-11-01,8.185,-38.794,10.0,7.1,usp00028pr,central Mid-Atlantic Ridge
+1665,1984,1984-11-15,-22.022,170.95,104.7,7.1,usp000292p,southeast of the Loyalty Islands
+1667,1984,1984-11-17,0.197,98.027,33.0,7.1,usp000294z,"Nias region, Indonesia"
+1668,1984,1984-11-17,-18.785,-178.032,451.4,6.7,usp000295c,Fiji region
+1670,1984,1984-11-20,5.167,125.124,202.2,7.5,usp000297p,"Mindanao, Philippines"
+1676,1984,1984-11-23,-14.312,171.284,33.0,6.8,usp00029b2,Vanuatu region
+1691,1984,1984-12-28,56.194,163.46,33.0,6.7,usp0002afy,"near the east coast of the Kamchatka Peninsula, Russia"
+1692,1984,1984-12-30,-36.663,177.512,39.3,6.8,usp0002ajv,off the east coast of the North Island of New Zealand
+1701,1985,1985-01-21,-0.953,128.507,33.0,6.9,usp0002b7w,"Halmahera, Indonesia"
+1710,1985,1985-03-02,-1.964,119.727,43.5,6.7,usp0002cbw,"Sulawesi, Indonesia"
+1711,1985,1985-03-03,-33.135,-71.871,33.0,8.0,usp0002ccz,"offshore Valparaiso, Chile"
+1713,1985,1985-03-04,-33.207,-71.663,33.0,7.4,usp0002cd3,"Valparaiso, Chile"
+1715,1985,1985-03-04,-32.925,-71.793,33.0,6.6,usp0002cdg,"offshore Valparaiso, Chile"
+1724,1985,1985-03-17,-32.633,-71.551,33.0,6.7,usp0002cz9,"offshore Valparaiso, Chile"
+1726,1985,1985-03-19,-33.198,-71.653,42.2,6.7,usp0002d14,"Valparaiso, Chile"
+1736,1985,1985-04-09,-34.131,-71.618,37.8,7.2,usp0002dm4,"Libertador General Bernardo O'Higgins, Chile"
+1740,1985,1985-04-13,1.622,126.411,50.7,7.0,usp0002drr,Molucca Sea
+1744,1985,1985-04-23,15.344,120.61,188.4,7.0,usp0002e2z,"Luzon, Philippines"
+1748,1985,1985-05-01,-9.196,-71.23,599.9,6.6,usp0002ec4,Peru-Brazil border region
+1753,1985,1985-05-10,-5.599,151.045,26.7,7.2,usp0002en1,"New Britain region, Papua New Guinea"
+1763,1985,1985-06-03,-15.289,-173.516,33.0,6.7,usp0002ffw,Tonga
+1766,1985,1985-06-06,0.932,-28.432,10.0,6.6,usp0002fjz,central Mid-Atlantic Ridge
+1775,1985,1985-07-03,-4.439,152.828,33.0,7.3,usp0002gc3,"New Britain region, Papua New Guinea"
+1785,1985,1985-07-22,-6.291,148.783,49.3,6.8,usp0002h04,"New Britain region, Papua New Guinea"
+1788,1985,1985-07-29,36.19,70.896,98.7,7.4,usp0002h5z,"Hindu Kush region, Afghanistan"
+1800,1985,1985-08-23,39.431,75.224,6.8,7.0,usp0002j21,"southern Xinjiang, China"
+1801,1985,1985-08-28,-21.011,-178.981,624.6,6.6,usp0002j7t,Fiji region
+1809,1985,1985-09-19,18.19,-102.533,27.9,8.0,usp0002jwe,"Michoacan, Mexico"
+1810,1985,1985-09-21,17.802,-101.647,30.8,7.6,usp0002jyp,"Guerrero, Mexico"
+1811,1985,1985-09-26,-34.693,-178.656,51.6,6.9,usp0002k4s,south of the Kermadec Islands
+1812,1985,1985-09-27,-9.829,159.854,31.9,6.7,usp0002k69,Solomon Islands
+1815,1985,1985-10-05,62.237,-124.266,10.0,6.7,usp0002kgp,"Northwest Territories, Canada"
+1818,1985,1985-10-09,54.765,-159.613,30.2,6.6,usp0002kmh,south of Alaska
+1835,1985,1985-11-17,-1.639,134.911,10.0,7.1,usp0002mvw,"near the north coast of Papua, Indonesia"
+1838,1985,1985-11-28,-14.043,166.24,33.0,7.0,usp0002na9,Vanuatu
+1839,1985,1985-11-28,-13.987,166.185,33.0,7.0,usp0002nae,Vanuatu
+1844,1985,1985-12-16,-14.073,166.251,37.2,6.6,usp0002nxq,Vanuatu
+1845,1985,1985-12-21,-13.966,166.516,43.0,7.1,usp0002p4n,Vanuatu
+1850,1985,1985-12-23,62.222,-124.239,6.0,6.9,usp0002p9m,"Northwest Territories, Canada"
+1859,1986,1986-01-15,-21.277,170.102,150.0,7.1,usp0002q31,southeast of the Loyalty Islands
+1877,1986,1986-03-24,-2.488,138.696,29.0,6.7,usp0002s7q,"Papua, Indonesia"
+1886,1986,1986-04-20,-2.394,139.309,33.0,6.8,usp0002t21,"near the north coast of Papua, Indonesia"
+1888,1986,1986-04-30,18.404,-102.973,26.5,7.0,usp0002tcb,"Michoacan, Mexico"
+1890,1986,1986-05-02,55.172,163.843,14.8,6.8,usp0002tee,"off the east coast of the Kamchatka Peninsula, Russia"
+1893,1986,1986-05-07,51.52,-174.776,33.0,8.0,usp0002tmu,"Andreanof Islands, Aleutian Islands, Alaska"
+1896,1986,1986-05-11,26.743,125.205,193.5,6.6,usp0002tvn,northeast of Taiwan
+1902,1986,1986-05-26,-21.819,-179.079,583.4,6.8,usp0002uf3,Fiji region
+1903,1986,1986-05-26,-20.19,178.86,538.3,7.1,usp0002uf4,south of the Fiji Islands
+1910,1986,1986-06-16,-22.037,-178.925,547.0,7.1,usp0002v3n,south of the Fiji Islands
+1912,1986,1986-06-17,5.644,125.259,31.9,6.6,usp0002v4y,"Mindanao, Philippines"
+1914,1986,1986-06-19,56.331,-152.914,16.7,6.8,usp0002v6r,"Kodiak Island region, Alaska"
+1917,1986,1986-06-24,34.794,140.595,62.6,6.6,usp0002vbq,"near the east coast of Honshu, Japan"
+1918,1986,1986-06-24,-4.448,143.943,102.3,7.2,usp0002vbr,"New Guinea, Papua New Guinea"
+1929,1986,1986-07-09,1.904,126.525,27.6,6.8,usp0002vw0,Molucca Sea
+1930,1986,1986-07-16,-19.511,169.165,111.1,6.6,usp0002w2h,Vanuatu
+1938,1986,1986-08-14,1.795,126.519,33.0,7.5,usp0002x57,Molucca Sea
+1947,1986,1986-08-23,-34.549,179.288,32.2,6.6,usp0002xfn,south of the Kermadec Islands
+1949,1986,1986-08-30,45.547,26.316,132.3,7.2,usp0002xpm,Romania
+1957,1986,1986-09-16,19.376,146.301,47.7,6.7,usp0002y54,Mariana Islands region
+1962,1986,1986-10-14,-5.03,153.616,40.9,6.8,usp0002yy6,"New Ireland region, Papua New Guinea"
+1964,1986,1986-10-20,-28.117,-176.367,29.1,7.7,usp0002z3j,Kermadec Islands region
+1969,1986,1986-10-23,-11.037,165.204,18.8,6.7,usp0002z8y,Santa Cruz Islands
+1975,1986,1986-10-30,-21.702,-176.616,188.1,7.2,usp0002zgu,Fiji region
+1979,1986,1986-11-14,23.901,121.574,33.8,7.4,usp0003009,Taiwan
+1982,1986,1986-11-23,-3.342,-77.411,105.7,6.8,usp00030ah,Peru-Ecuador border region
+1999,1987,1987-01-03,-14.998,167.929,14.5,6.7,usp00031cn,Vanuatu
+2001,1987,1987-01-05,52.448,-169.381,33.0,6.8,usp00031dt,"Fox Islands, Aleutian Islands, Alaska"
+2002,1987,1987-01-09,39.895,141.677,67.7,6.6,usp00031hj,"eastern Honshu, Japan"
+2006,1987,1987-01-14,42.565,142.85,102.0,6.8,usp00031nv,"Hokkaido, Japan region"
+2009,1987,1987-01-30,-60.063,-26.916,47.6,7.0,usp000321p,South Sandwich Islands region
+2011,1987,1987-02-06,36.988,141.689,47.7,6.8,usp000327d,"near the east coast of Honshu, Japan"
+2014,1987,1987-02-08,-6.088,147.689,54.9,7.4,usp000329h,"eastern New Guinea region, Papua New Guinea"
+2020,1987,1987-02-13,0.67,126.167,32.2,6.8,usp00032ej,Molucca Sea
+2022,1987,1987-02-17,-32.793,-179.304,10.0,6.8,usp00032jj,south of the Kermadec Islands
+2025,1987,1987-02-23,-15.854,167.891,233.6,6.9,usp00032q7,Vanuatu
+2028,1987,1987-02-27,53.47,-167.291,10.0,6.9,usp00032u7,"Fox Islands, Aleutian Islands, Alaska"
+2031,1987,1987-03-05,-24.388,-70.161,62.3,7.6,usp0003304,"Antofagasta, Chile"
+2032,1987,1987-03-05,-24.495,-70.701,34.8,7.0,usp0003308,"near the coast of Antofagasta, Chile"
+2034,1987,1987-03-06,0.151,-77.821,10.0,7.2,usp000330w,Colombia-Ecuador border region
+2042,1987,1987-03-18,32.034,131.837,54.0,6.7,usp00033dd,"Kyushu, Japan"
+2043,1987,1987-03-19,-20.397,-176.134,213.5,6.6,usp00033f4,Fiji region
+2049,1987,1987-04-01,-22.767,-66.205,248.7,7.0,usp00033th,"Jujuy, Argentina"
+2052,1987,1987-04-07,37.363,141.796,29.4,6.7,usp00033z3,"near the east coast of Honshu, Japan"
+2059,1987,1987-04-22,37.155,141.573,30.3,6.7,usp00034cp,"near the east coast of Honshu, Japan"
+2060,1987,1987-04-25,16.066,120.301,107.0,6.9,usp00034f9,"Luzon, Philippines"
+2065,1987,1987-05-06,51.272,-179.898,20.1,6.8,usp00034ry,"Andreanof Islands, Aleutian Islands, Alaska"
+2067,1987,1987-05-07,46.736,139.232,430.0,6.8,usp00034sx,"Tatar Strait, Russia"
+2069,1987,1987-05-12,7.09,126.701,24.7,6.7,usp00034xs,"Mindanao, Philippines"
+2073,1987,1987-05-18,49.282,147.693,542.0,6.8,usp0003536,Sea of Okhotsk
+2086,1987,1987-06-17,-5.577,130.791,67.3,7.1,usp00035ur,Banda Sea
+2092,1987,1987-06-27,-2.164,138.17,20.7,6.6,usp000363y,"Papua, Indonesia"
+2094,1987,1987-07-06,-26.999,-108.285,10.0,6.7,usp00036cp,Easter Island region
+2095,1987,1987-07-06,-14.074,167.828,47.5,6.6,usp00036ct,Vanuatu
+2102,1987,1987-08-08,-19.022,-69.991,69.7,7.2,usp00037c3,"Tarapaca, Chile"
+2104,1987,1987-08-13,-17.897,-70.931,36.5,6.6,usp00037gc,southern Peru
+2111,1987,1987-09-01,-23.052,-66.529,199.0,6.7,usp00037zn,"Jujuy, Argentina"
+2112,1987,1987-09-03,-58.893,158.513,33.0,7.4,usp000381s,Macquarie Island region
+2113,1987,1987-09-03,-59.538,159.005,33.0,6.8,usp000381u,Macquarie Island region
+2115,1987,1987-09-07,-31.089,-177.968,33.0,6.6,usp0003862,Kermadec Islands region
+2125,1987,1987-09-28,-18.411,168.058,30.7,6.8,usp00038tb,Vanuatu
+2126,1987,1987-09-28,-18.546,168.161,25.1,6.6,usp00038te,Vanuatu
+2131,1987,1987-10-06,-17.94,-172.225,16.0,7.3,usp000390n,Tonga region
+2134,1987,1987-10-12,-7.288,154.371,24.7,7.0,usp000396s,"Bougainville region, Papua New Guinea"
+2135,1987,1987-10-16,-6.266,149.06,47.8,7.4,usp00039av,"New Britain region, Papua New Guinea"
+2138,1987,1987-10-25,-2.323,138.364,33.0,6.8,usp00039kg,"Papua, Indonesia"
+2141,1987,1987-10-29,4.817,127.688,152.9,6.8,usp00039qx,"Kepulauan Talaud, Indonesia"
+2149,1987,1987-11-17,58.586,-143.27,10.0,6.9,usp0003a6c,Gulf of Alaska
+2152,1987,1987-11-24,33.015,-115.852,11.181,6.6,ci628016,"22km W of Westmorland, CA"
+2154,1987,1987-11-26,-8.247,124.155,33.0,6.7,usp0003ajq,"Kepulauan Alor, Indonesia"
+2159,1987,1987-11-30,58.679,-142.786,10.0,7.9,usp0003aq8,Gulf of Alaska
+2167,1987,1987-12-17,35.362,140.214,62.9,6.7,usp0003bbq,"near the east coast of Honshu, Japan"
+2171,1988,1988-01-12,-28.827,-177.423,14.8,6.6,usp0003bzy,Kermadec Islands region
+2173,1988,1988-01-19,-24.71,-70.568,33.0,7.0,usp0003c61,"Antofagasta, Chile"
+2177,1988,1988-01-22,-19.829,133.882,5.0,6.7,usp0003c9n,"Northern Territory, Australia"
+2180,1988,1988-02-05,-24.753,-70.433,36.9,7.2,usp0003crv,"Antofagasta, Chile"
+2190,1988,1988-02-22,-20.833,-69.785,70.3,6.7,usp0003d8y,"Tarapaca, Chile"
+2191,1988,1988-02-24,13.477,124.616,24.9,7.3,usp0003da3,"Catanduanes, Philippines"
+2192,1988,1988-02-26,-37.319,47.989,10.0,6.8,usp0003dc5,Southwest Indian Ridge
+2193,1988,1988-02-29,55.149,167.43,33.0,6.9,usp0003df7,"Komandorskiye Ostrova, Russia region"
+2194,1988,1988-03-06,56.953,-143.032,10.0,7.8,usp0003dnb,Gulf of Alaska
+2197,1988,1988-03-10,10.402,-60.587,56.2,6.7,usp0003dsq,"Trinidad region, Trinidad and Tobago"
+2198,1988,1988-03-10,-20.917,-178.645,623.0,6.6,usp0003dte,Fiji region
+2210,1988,1988-04-12,-17.192,-72.305,33.1,7.1,usp0003ezg,near the coast of southern Peru
+2220,1988,1988-05-06,11.493,-85.911,86.7,6.6,usp0003fq8,Nicaragua
+2227,1988,1988-05-30,-7.501,128.325,86.3,6.9,usp0003gj3,"Kepulauan Barat Daya, Indonesia"
+2228,1988,1988-06-03,-45.003,167.599,82.7,6.7,usp0003gpe,South Island of New Zealand
+2232,1988,1988-06-18,26.856,-110.996,10.0,6.7,usp0003h35,Gulf of California
+2237,1988,1988-07-03,8.919,137.896,14.6,6.6,usp0003hjb,"State of Yap, Federated States of Micronesia"
+2238,1988,1988-07-05,-5.964,148.78,53.4,6.8,usp0003hm4,"New Britain region, Papua New Guinea"
+2243,1988,1988-07-23,-22.127,174.9,18.5,6.6,usp0003j4p,southeast of the Loyalty Islands
+2244,1988,1988-07-23,-6.526,152.779,16.6,7.0,usp0003j4t,"New Britain region, Papua New Guinea"
+2245,1988,1988-07-25,-6.081,133.667,27.7,7.0,usp0003j6r,"Kepulauan Aru region, Indonesia"
+2246,1988,1988-07-27,-13.112,167.051,171.6,6.7,usp0003ja7,Vanuatu
+2249,1988,1988-07-31,-22.212,171.082,55.5,6.6,usp0003jf5,southeast of the Loyalty Islands
+2250,1988,1988-08-06,25.149,95.127,90.5,7.3,usp0003jpw,Myanmar
+2253,1988,1988-08-10,-10.366,160.819,34.0,7.6,usp0003jtm,Solomon Islands
+2254,1988,1988-08-10,-10.199,160.855,39.8,6.6,usp0003jtw,Solomon Islands
+2256,1988,1988-08-10,-14.88,167.293,124.8,6.8,usp0003jud,Vanuatu
+2260,1988,1988-08-14,-27.26,-71.092,32.5,6.7,usp0003jzr,"offshore Atacama, Chile"
+2264,1988,1988-08-20,26.755,86.616,57.4,6.9,usp0003k6t,Nepal-India border region
+2265,1988,1988-09-07,30.245,137.431,485.1,6.7,usp0003ks4,"Izu Islands, Japan region"
+2271,1988,1988-10-08,-18.771,-172.415,35.2,7.1,usp0003mmh,Tonga region
+2275,1988,1988-11-03,13.881,-90.45,68.5,6.6,usp0003ng5,Guatemala
+2279,1988,1988-11-06,22.789,99.611,17.8,7.7,usp0003nks,Myanmar-China border region
+2281,1988,1988-11-07,-22.239,175.018,21.8,6.8,usp0003nn3,south of the Fiji Islands
+2283,1988,1988-11-14,-3.527,150.12,33.0,6.7,usp0003nup,"New Ireland region, Papua New Guinea"
+2285,1988,1988-11-17,12.399,124.537,19.3,6.6,usp0003nxq,"Samar, Philippines"
+2286,1988,1988-11-18,-6.125,149.785,61.0,6.6,usp0003nyw,"New Britain region, Papua New Guinea"
+2291,1988,1988-12-07,40.987,44.185,5.4,6.8,usp0003pmm,Armenia
+2299,1989,1989-01-10,-3.162,130.556,46.6,6.7,usp0003qqn,"Seram, Indonesia"
+2308,1989,1989-02-10,2.305,126.76,44.0,7.1,usp0003rqq,Molucca Sea
+2313,1989,1989-02-25,-29.915,-177.885,30.5,6.8,usp0003sav,"Kermadec Islands, New Zealand"
+2320,1989,1989-03-11,-17.766,-174.761,230.1,6.9,usp0003sub,Tonga
+2325,1989,1989-04-06,-19.306,169.002,165.7,6.9,usp0003tnc,Vanuatu
+2327,1989,1989-04-11,49.488,159.185,16.4,6.8,usp0003tuk,east of the Kuril Islands
+2333,1989,1989-04-25,16.773,-99.328,19.2,6.9,usp0003udb,"Guerrero, Mexico"
+2341,1989,1989-05-05,-8.281,-71.381,593.4,7.1,usp0003uxu,"Acre, Brazil"
+2343,1989,1989-05-14,-30.523,-178.414,43.8,7.0,usp0003v79,"Kermadec Islands, New Zealand"
+2349,1989,1989-05-23,-52.341,160.568,10.0,8.2,usp0003vj7,Macquarie Island region
+2362,1989,1989-07-14,-8.081,125.129,9.8,6.7,usp0003xax,East Timor region
+2366,1989,1989-07-31,-8.048,121.384,13.8,6.8,usp0003xwe,"Flores region, Indonesia"
+2368,1989,1989-08-03,23.043,121.965,10.7,6.6,usp0003y09,Taiwan
+2379,1989,1989-08-21,-4.104,154.459,493.5,6.6,usp0003yr1,"Bougainville region, Papua New Guinea"
+2383,1989,1989-09-04,55.543,-156.835,11.4,7.1,usp0003z7h,south of Alaska
+2395,1989,1989-10-07,51.314,-179.028,19.6,6.8,usp00040e2,"Andreanof Islands, Aleutian Islands, Alaska"
+2400,1989,1989-10-18,37.0361667,-121.8798333,17.214,6.9,nc216859,"1km W of Day Valley, California"
+2406,1989,1989-10-27,-11.022,162.35,24.7,6.9,usp00041c6,Solomon Islands
+2407,1989,1989-10-29,39.571,143.333,9.6,6.9,usp00041dn,"off the east coast of Honshu, Japan"
+2410,1989,1989-11-01,39.837,142.76,28.6,7.4,usp00041kg,"near the east coast of Honshu, Japan"
+2420,1989,1989-12-03,-7.631,-74.459,153.0,6.6,usp00042pu,northern Peru
+2423,1989,1989-12-07,-6.436,146.383,104.4,7.1,usp00042ug,"eastern New Guinea region, Papua New Guinea"
+2425,1989,1989-12-09,0.141,123.34,151.0,6.7,usp00042wq,"Minahasa, Sulawesi, Indonesia"
+2428,1989,1989-12-15,8.337,126.729,24.4,7.6,usp000433j,"Mindanao, Philippines"
+2434,1989,1989-12-30,-3.406,145.966,38.3,6.7,usp00043s3,"near the north coast of New Guinea, Papua New Guinea"
+2447,1990,1990-02-08,9.755,124.694,25.9,6.8,usp000456h,"Bohol, Philippines"
+2448,1990,1990-02-08,9.725,124.625,30.3,6.6,usp000456m,"Bohol, Philippines"
+2452,1990,1990-02-19,-15.465,166.385,12.1,6.9,usp00045mr,Vanuatu
+2456,1990,1990-03-03,-22.122,175.163,33.2,7.6,usp000464d,south of the Fiji Islands
+2458,1990,1990-03-03,-22.405,174.164,33.0,6.6,usp000464f,southeast of the Loyalty Islands
+2460,1990,1990-03-05,-18.318,168.063,20.7,7.1,usp000467e,Vanuatu
+2465,1990,1990-03-21,-31.092,-179.093,144.8,6.6,usp00046wv,Kermadec Islands region
+2467,1990,1990-03-25,9.919,-84.808,22.2,7.3,usp0004720,Costa Rica
+2471,1990,1990-04-03,11.426,-86.301,52.5,6.8,usp00047e5,near the coast of Nicaragua
+2472,1990,1990-04-05,15.125,147.596,11.4,7.6,usp00047gj,Mariana Islands region
+2479,1990,1990-04-18,1.186,122.857,25.7,7.8,usp000482z,"Minahasa, Sulawesi, Indonesia"
+2490,1990,1990-05-01,58.84,-156.858,211.0,6.6,usp00048qg,Alaska Peninsula
+2495,1990,1990-05-12,49.037,141.847,605.7,7.2,usp000496v,"Tatar Strait, Russia"
+2500,1990,1990-05-20,5.121,32.145,14.9,7.2,usp00049hf,Sudan
+2505,1990,1990-05-24,5.358,31.848,16.0,7.1,usp00049qe,Sudan
+2506,1990,1990-05-24,-7.363,120.363,588.9,7.1,usp00049qg,Flores Sea
+2508,1990,1990-05-30,-6.016,-77.229,24.2,6.6,usp00049xz,northern Peru
+2509,1990,1990-05-30,45.841,26.668,89.3,7.0,usp00049yk,Romania
+2515,1990,1990-06-14,11.76,121.899,18.1,7.1,usp0004ag6,"Panay, Philippines"
+2516,1990,1990-06-14,47.869,85.076,57.9,6.6,usp0004agn,Kazakhstan-Xinjiang border region
+2520,1990,1990-06-20,36.957,49.409,18.5,7.4,usp0004arq,northern Iran
+2522,1990,1990-06-23,-21.568,-176.483,180.5,6.9,usp0004axa,Fiji region
+2524,1990,1990-07-09,5.395,31.654,12.6,6.6,usp0004bkr,Sudan
+2529,1990,1990-07-14,0.003,-17.376,11.1,6.6,usp0004bu4,north of Ascension Island
+2530,1990,1990-07-16,15.679,121.172,25.1,7.7,usp0004bxs,"Luzon, Philippines"
+2534,1990,1990-07-27,-15.355,167.464,125.7,7.2,usp0004cm6,Vanuatu
+2541,1990,1990-08-12,-19.435,169.132,140.4,7.1,usp0004dad,Vanuatu
+2544,1990,1990-08-17,-11.164,161.997,29.1,6.7,usp0004dhv,Solomon Islands
+2549,1990,1990-09-02,-0.143,-80.283,14.2,6.6,usp0004e6r,near the coast of Ecuador
+2560,1990,1990-09-28,-13.559,167.079,176.0,6.7,usp0004f5b,Vanuatu
+2562,1990,1990-10-10,-19.503,-66.618,266.0,6.6,usp0004fjz,"Potosi, Bolivia"
+2564,1990,1990-10-15,-2.211,92.249,32.2,6.8,usp0004fsp,"southwest of Sumatra, Indonesia"
+2565,1990,1990-10-17,-10.97,-70.776,598.8,7.0,usp0004fv5,Peru-Brazil border region
+2568,1990,1990-11-06,28.251,55.462,10.6,6.6,usp0004gkf,southern Iran
+2569,1990,1990-11-06,53.452,169.871,24.8,7.1,usp0004gkj,"Komandorskiye Ostrova, Russia region"
+2571,1990,1990-11-15,3.908,97.457,48.4,6.7,usp0004gyj,"northern Sumatra, Indonesia"
+2581,1990,1990-12-13,23.722,121.627,10.0,6.7,usp0004j34,Taiwan
+2584,1990,1990-12-21,-20.467,-174.161,13.3,6.8,usp0004jdq,Tonga
+2588,1990,1990-12-30,-5.097,150.967,178.6,7.5,usp0004k00,"New Britain region, Papua New Guinea"
+2592,1991,1991-01-05,23.613,95.901,19.7,7.0,usp0004k8g,Myanmar
+2601,1991,1991-01-31,35.993,70.423,142.4,6.9,usp0004mdh,"Hindu Kush region, Afghanistan"
+2603,1991,1991-02-09,-9.929,159.139,10.0,6.9,usp0004mrh,Solomon Islands
+2610,1991,1991-02-18,8.87,126.48,23.9,7.0,usp0004n2a,"Mindanao, Philippines"
+2611,1991,1991-02-21,58.427,-175.45,20.2,6.7,usp0004n74,Bering Sea
+2615,1991,1991-03-08,60.904,167.023,13.0,6.6,usp0004ntk,"near the east coast of Koryakskiy Avtonomnyy Okrug, Russia"
+2625,1991,1991-04-05,-5.982,-77.094,19.8,7.1,usp0004pyn,northern Peru
+2627,1991,1991-04-06,-15.008,-175.521,16.0,6.7,usp0004q0u,Tonga
+2631,1991,1991-04-22,9.685,-83.073,10.0,7.6,usp0004qpg,Costa Rica
+2635,1991,1991-04-29,42.453,43.673,17.2,7.0,usp0004qza,Georgia (Sak'art'velo)
+2640,1991,1991-05-03,28.08,139.585,433.1,6.7,usp0004r5x,"Bonin Islands, Japan region"
+2646,1991,1991-05-19,1.156,122.957,33.0,7.0,usp0004ru5,"Minahasa, Sulawesi, Indonesia"
+2647,1991,1991-05-21,-7.517,126.539,18.4,6.6,usp0004rxb,"Kepulauan Barat Daya, Indonesia"
+2648,1991,1991-05-24,-16.506,-70.701,127.7,6.8,usp0004s1v,southern Peru
+2649,1991,1991-05-30,54.567,-161.606,28.4,7.0,usp0004s9h,Alaska Peninsula
+2650,1991,1991-06-07,-7.204,122.533,536.4,6.9,usp0004smx,Flores Sea
+2651,1991,1991-06-09,-20.252,-176.218,265.5,7.0,usp0004sq2,Fiji region
+2654,1991,1991-06-15,-58.285,-24.183,51.7,6.6,usp0004sxp,South Sandwich Islands region
+2656,1991,1991-06-20,1.196,122.787,31.4,7.5,usp0004t6g,"Minahasa, Sulawesi, Indonesia"
+2658,1991,1991-06-23,-26.802,-63.349,558.0,7.3,usp0004taw,"Santiago Del Estero, Argentina"
+2661,1991,1991-07-04,-8.099,124.681,28.8,6.9,usp0004tse,"Kepulauan Alor, Indonesia"
+2663,1991,1991-07-06,-13.108,-72.187,104.5,7.0,usp0004tuc,central Peru
+2664,1991,1991-07-13,42.182,-125.641,11.0,6.9,usp0004u34,off the coast of Oregon
+2666,1991,1991-07-14,36.334,71.119,212.9,6.7,usp0004u5k,"Hindu Kush region, Afghanistan"
+2669,1991,1991-08-08,0.972,122.631,12.4,6.7,usp0004v3k,"Minahasa, Sulawesi, Indonesia"
+2675,1991,1991-08-17,41.679,-125.856,1.303,7.0,nc228064,"136km WSW of Brookings, Oregon"
+2681,1991,1991-09-28,-5.814,150.959,28.0,6.6,usp0004x60,"New Britain region, Papua New Guinea"
+2682,1991,1991-09-30,-20.878,-178.591,566.4,7.0,usp0004x7f,Fiji region
+2686,1991,1991-10-14,-9.094,158.442,23.4,7.2,usp0004xtq,Solomon Islands
+2692,1991,1991-10-19,30.78,78.774,10.3,6.8,usp0004y1r,"Uttaranchal, India"
+2696,1991,1991-11-01,-30.255,-177.981,21.4,6.6,usp0004ypz,"Kermadec Islands, New Zealand"
+2703,1991,1991-11-13,8.361,126.371,35.9,6.8,usp0004z3m,"Mindanao, Philippines"
+2704,1991,1991-11-19,4.554,-77.442,21.3,7.2,usp0004zbt,near the west coast of Colombia
+2713,1991,1991-12-13,45.578,151.56,30.0,6.6,usp00050bq,Kuril Islands
+2719,1991,1991-12-19,45.253,151.176,27.2,6.8,usp00050mu,Kuril Islands
+2720,1991,1991-12-22,45.533,151.021,24.7,7.6,usp00050sq,Kuril Islands
+2722,1991,1991-12-27,-56.032,-25.266,10.0,7.2,usp000510y,South Sandwich Islands region
+2724,1991,1991-12-28,-56.102,-24.614,10.0,6.6,usp0005120,South Sandwich Islands region
+2728,1992,1992-01-20,27.983,139.405,498.5,6.7,usp000520a,"Bonin Islands, Japan region"
+2732,1992,1992-02-13,-15.894,166.318,9.6,6.8,usp00052zw,Vanuatu
+2740,1992,1992-02-27,-6.191,147.576,38.5,6.7,usp00053k1,"eastern New Guinea region, Papua New Guinea"
+2741,1992,1992-03-02,52.915,159.886,38.6,6.9,usp00053rs,"off the east coast of the Kamchatka Peninsula, Russia"
+2746,1992,1992-03-07,10.21,-84.323,78.9,6.6,usp00053yt,Costa Rica
+2750,1992,1992-03-13,39.71,39.605,27.2,6.7,usp000547c,eastern Turkey
+2759,1992,1992-04-06,50.724,-130.092,19.7,6.7,usp00055dh,"Vancouver Island, Canada region"
+2765,1992,1992-04-18,-5.454,103.001,29.3,6.6,usp00055yz,"southern Sumatra, Indonesia"
+2771,1992,1992-04-25,40.3353333,-124.2286667,9.856,7.2,nc269151,"20km SSW of Rio Dell, California"
+2773,1992,1992-04-26,40.3828333,-124.555,21.713,6.57,nc268078,offshore Northern California
+2776,1992,1992-05-12,-16.524,-172.367,15.0,6.7,usp000578t,Samoa Islands region
+2777,1992,1992-05-15,-6.075,147.572,58.0,7.2,usp00057d0,"eastern New Guinea region, Papua New Guinea"
+2781,1992,1992-05-17,7.239,126.645,32.8,7.1,usp00057gu,"Mindanao, Philippines"
+2782,1992,1992-05-17,7.191,126.762,33.0,7.3,usp00057gv,"Mindanao, Philippines"
+2790,1992,1992-05-25,19.613,-77.872,23.1,6.8,usp000582h,Cuba region
+2791,1992,1992-05-27,-11.122,165.239,18.8,7.0,usp000585d,Santa Cruz Islands
+2809,1992,1992-06-28,34.2,-116.437,-0.097,7.3,ci3031111,"Landers, California Earthquake"
+2812,1992,1992-07-11,-22.483,-178.413,377.2,7.2,usp0005ap1,south of the Fiji Islands
+2817,1992,1992-07-18,39.419,143.33,28.6,6.9,usp0005b1c,"off the east coast of Honshu, Japan"
+2822,1992,1992-07-20,78.562,5.523,10.0,6.7,usp0005b5j,Svalbard region
+2826,1992,1992-08-02,-7.126,121.748,485.9,6.6,usp0005bvx,Flores Sea
+2829,1992,1992-08-07,57.589,-142.846,13.6,6.9,usp0005c4e,Gulf of Alaska
+2836,1992,1992-08-19,42.142,73.575,27.4,7.3,usp0005cq0,Kyrgyzstan
+2839,1992,1992-08-19,42.104,73.237,18.5,6.6,usp0005cq6,Kyrgyzstan
+2842,1992,1992-08-28,-0.965,-13.562,15.5,6.9,usp0005d7u,north of Ascension Island
+2845,1992,1992-09-02,11.742,-87.34,44.8,7.7,usp0005ddn,near the coast of Nicaragua
+2846,1992,1992-09-02,-6.046,112.138,624.6,6.7,usp0005dew,"Java, Indonesia"
+2854,1992,1992-09-26,1.289,129.118,27.7,6.7,usp0005ejh,"Halmahera, Indonesia"
+2858,1992,1992-09-30,51.281,-178.037,33.0,6.6,usp0005er3,"Andreanof Islands, Aleutian Islands, Alaska"
+2862,1992,1992-10-11,-19.247,168.948,129.0,7.4,usp0005f79,Vanuatu
+2863,1992,1992-10-15,-14.537,166.711,25.0,6.8,usp0005fct,Vanuatu
+2865,1992,1992-10-17,6.845,-76.806,14.3,6.7,usp0005fey,northern Colombia
+2867,1992,1992-10-18,7.075,-76.862,10.0,7.2,usp0005fha,northern Colombia
+2871,1992,1992-10-22,-30.227,-177.205,26.3,6.6,usp0005fqc,"Kermadec Islands, New Zealand"
+2876,1992,1992-10-24,-29.536,-177.279,18.7,6.6,usp0005ftz,"Kermadec Islands, New Zealand"
+2887,1992,1992-11-08,-15.727,-179.703,9.7,6.7,usp0005gh3,Fiji region
+2890,1992,1992-11-21,-56.665,-26.405,20.1,6.6,usp0005h5p,South Sandwich Islands region
+2896,1992,1992-12-12,-8.48,121.896,27.7,7.8,usp0005j5a,"Flores region, Indonesia"
+2900,1992,1992-12-20,-6.582,130.393,77.7,7.3,usp0005jjt,Banda Sea
+2902,1992,1992-12-26,-0.564,-19.318,27.1,6.8,usp0005jwt,central Mid-Atlantic Ridge
+2906,1993,1993-01-10,-59.274,-26.205,61.0,6.7,usp0005kjj,South Sandwich Islands region
+2909,1993,1993-01-15,43.3,143.691,102.2,7.6,usp0005ktj,"Hokkaido, Japan region"
+2911,1993,1993-01-19,38.649,133.465,448.3,6.6,usp0005kz3,Sea of Japan
+2914,1993,1993-02-07,37.634,137.245,10.6,6.6,usp0005mrp,"near the west coast of Honshu, Japan"
+2919,1993,1993-03-06,-10.972,164.181,20.4,7.1,usp0005p26,Santa Cruz Islands region
+2921,1993,1993-03-06,-26.536,-177.355,18.2,6.6,usp0005p2v,south of the Fiji Islands
+2922,1993,1993-03-06,-11.062,163.386,25.3,6.7,usp0005p35,Solomon Islands
+2927,1993,1993-03-15,-26.708,-70.918,28.9,6.7,usp0005pj6,"offshore Atacama, Chile"
+2935,1993,1993-04-16,-17.778,-178.864,565.1,6.9,usp0005r9f,Fiji region
+2939,1993,1993-04-19,4.015,128.204,23.6,6.8,usp0005reu,"north of Halmahera, Indonesia"
+2944,1993,1993-05-11,7.219,126.57,58.7,7.0,usp0005sm4,"Mindanao, Philippines"
+2945,1993,1993-05-13,55.177,-160.458,32.3,6.9,usp0005sqc,Alaska Peninsula
+2948,1993,1993-05-15,51.374,-178.669,32.0,6.9,usp0005suz,"Andreanof Islands, Aleutian Islands, Alaska"
+2949,1993,1993-05-16,-15.286,-173.332,21.3,6.6,usp0005swx,Tonga
+2952,1993,1993-05-18,19.914,122.45,168.6,6.8,usp0005t13,"Babuyan Islands region, Philippines"
+2954,1993,1993-05-24,-22.671,-66.543,221.0,7.0,usp0005te6,"Jujuy, Argentina"
+2961,1993,1993-06-08,51.218,157.829,70.6,7.5,usp0005u7b,"near the east coast of the Kamchatka Peninsula, Russia"
+2967,1993,1993-06-18,-29.053,-176.753,15.6,6.6,usp0005usp,Kermadec Islands region
+2968,1993,1993-06-18,-28.678,-176.893,10.7,6.7,usp0005ute,Kermadec Islands region
+2971,1993,1993-06-30,-20.836,172.957,12.6,6.7,usp0005vf1,Vanuatu region
+2975,1993,1993-07-11,-25.304,-70.166,47.5,6.6,usp0005vyp,"Antofagasta, Chile"
+2976,1993,1993-07-12,42.851,139.197,16.7,7.7,usp0005w12,"Hokkaido, Japan region"
+2987,1993,1993-08-07,-23.866,179.846,523.1,6.7,usp0005y2v,south of the Fiji Islands
+2989,1993,1993-08-08,12.982,144.801,59.3,7.8,usp0005y3k,Guam region
+2991,1993,1993-08-09,36.379,70.868,214.5,7.0,usp0005y6k,"Hindu Kush region, Afghanistan"
+2992,1993,1993-08-10,-45.277,166.927,28.1,7.0,usp0005y7g,off the west coast of the South Island of New Zealand
+3001,1993,1993-09-03,14.523,-92.713,26.5,6.8,usp0005zpf,"offshore Chiapas, Mexico"
+3004,1993,1993-09-06,-4.641,153.231,49.0,6.6,usp0005ztm,"New Ireland region, Papua New Guinea"
+3007,1993,1993-09-10,14.717,-92.645,34.1,7.2,usp0006030,"offshore Chiapas, Mexico"
+3016,1993,1993-09-27,-53.651,-51.621,33.0,6.6,usp000614g,South Atlantic Ocean
+3024,1993,1993-10-05,-6.13,128.965,13.1,6.6,usp00061gr,Banda Sea
+3026,1993,1993-10-11,32.02,137.832,350.7,6.9,usp00061tu,"Izu Islands, Japan region"
+3027,1993,1993-10-13,-5.889,146.02,25.3,6.9,usp00061w1,"eastern New Guinea region, Papua New Guinea"
+3033,1993,1993-10-24,16.755,-98.717,20.7,6.7,usp00062jn,"Guerrero, Mexico"
+3034,1993,1993-10-25,-5.909,145.99,30.4,6.7,usp00062n7,"eastern New Guinea region, Papua New Guinea"
+3040,1993,1993-11-13,51.934,158.647,34.0,7.0,usp00063mj,"near the east coast of the Kamchatka Peninsula, Russia"
+3045,1993,1993-12-09,0.486,125.995,14.5,6.9,usp00064w3,Molucca Sea
+3046,1993,1993-12-09,0.425,125.891,15.9,6.8,usp00064wp,Molucca Sea
+3051,1993,1993-12-29,-20.23,169.789,33.0,7.0,usp00065sh,Vanuatu
+3055,1994,1994-01-10,-13.339,-69.446,596.0,6.9,usp000669u,southern Peru
+3057,1994,1994-01-17,34.213,-118.537,18.202,6.7,ci3144585,"1km NNW of Reseda, CA"
+3058,1994,1994-01-19,-3.176,135.97,23.2,6.8,usp00066x3,"Papua, Indonesia"
+3060,1994,1994-01-21,1.015,127.733,19.9,7.0,usp0006744,"Halmahera, Indonesia"
+3066,1994,1994-02-11,-18.773,169.169,205.7,6.9,usp00068d2,Vanuatu
+3067,1994,1994-02-12,-10.786,-128.798,15.0,6.7,usp00068dm,South Pacific Ocean
+3068,1994,1994-02-12,-20.553,169.361,27.7,7.0,usp00068eg,Vanuatu
+3070,1994,1994-02-15,-4.967,104.302,23.1,6.9,usp00068jd,"southern Sumatra, Indonesia"
+3084,1994,1994-03-09,-18.039,-178.413,562.5,7.6,usp00069fm,Fiji region
+3087,1994,1994-03-14,-1.278,-23.569,10.0,7.0,usp00069pg,central Mid-Atlantic Ridge
+3088,1994,1994-03-14,15.994,-92.428,164.2,6.9,usp00069qa,"Chiapas, Mexico"
+3097,1994,1994-04-18,-6.47,154.934,26.3,6.7,usp0006b9h,"Bougainville region, Papua New Guinea"
+3098,1994,1994-04-21,-5.702,154.12,28.0,6.7,usp0006bdm,"Bougainville region, Papua New Guinea"
+3102,1994,1994-04-29,-28.299,-63.252,561.5,6.9,usp0006bt7,"Santiago Del Estero, Argentina"
+3107,1994,1994-05-10,-28.501,-63.096,600.5,6.9,usp0006cbq,"Santiago Del Estero, Argentina"
+3114,1994,1994-05-24,23.959,122.448,16.3,6.6,usp0006d02,Taiwan region
+3119,1994,1994-06-02,-10.477,112.835,18.4,7.8,usp0006djk,"south of Java, Indonesia"
+3120,1994,1994-06-03,-10.362,112.892,25.9,6.6,usp0006dnc,"south of Java, Indonesia"
+3124,1994,1994-06-06,2.917,-76.057,12.1,6.8,usp0006dv8,Colombia
+3125,1994,1994-06-09,-13.841,-67.553,631.3,8.2,usp0006dzc,"La Paz, Bolivia"
+3132,1994,1994-06-18,-42.963,171.658,13.6,6.8,usp0006efu,South Island of New Zealand
+3137,1994,1994-07-13,-16.62,167.518,33.0,7.2,usp0006fjg,Vanuatu
+3138,1994,1994-07-13,-16.812,167.249,33.0,6.7,usp0006fjp,Vanuatu
+3140,1994,1994-07-21,42.34,132.865,471.4,7.3,usp0006fyv,"Primor'ye, Russia"
+3143,1994,1994-07-25,-56.362,-27.365,81.3,6.6,usp0006g4b,South Sandwich Islands region
+3149,1994,1994-08-18,44.767,150.158,14.7,6.6,usp0006h3e,east of the Kuril Islands
+3154,1994,1994-08-28,44.783,150.061,18.6,6.6,usp0006hm5,east of the Kuril Islands
+3157,1994,1994-09-01,40.4055,-126.3028333,4.972,7.0,nc30056327,off the coast of Northern California
+3164,1994,1994-09-16,22.528,118.711,13.1,6.8,usp0006jhk,Taiwan region
+3167,1994,1994-09-28,-5.786,110.352,637.5,6.6,usp0006k55,Java Sea
+3171,1994,1994-10-04,43.773,147.321,14.0,8.3,usp0006kdp,Kuril Islands
+3181,1994,1994-10-08,-1.258,127.98,16.6,6.8,usp0006ktd,"Kepulauan Obi, Indonesia"
+3182,1994,1994-10-09,43.905,147.916,33.0,7.3,usp0006ku9,Kuril Islands
+3187,1994,1994-10-16,45.749,149.167,116.6,6.7,usp0006m6j,Kuril Islands
+3191,1994,1994-10-27,-25.778,179.339,518.7,6.7,usp0006mtj,south of the Fiji Islands
+3195,1994,1994-11-14,13.525,121.067,31.5,7.1,usp0006nn2,"Mindoro, Philippines"
+3207,1994,1994-12-28,40.525,143.419,26.5,7.8,usp0006qh3,"off the east coast of Honshu, Japan"
+3214,1995,1995-01-06,40.246,142.175,26.9,7.0,usp0006qyz,"near the east coast of Honshu, Japan"
+3220,1995,1995-01-16,34.583,135.018,21.9,6.9,usp0006rew,"near the south coast of western Honshu, Japan"
+3226,1995,1995-01-27,-4.434,134.476,22.3,6.8,usp0006rzb,"near the south coast of Papua, Indonesia"
+3230,1995,1995-02-05,-37.759,178.752,21.1,7.1,usp0006sef,off the east coast of the North Island of New Zealand
+3236,1995,1995-02-13,-1.318,127.438,14.2,6.7,usp0006svx,"Kepulauan Obi, Indonesia"
+3239,1995,1995-02-19,40.5918333,-125.7566667,4.622,6.6,nc30068187,off the coast of Northern California
+3250,1995,1995-03-19,-4.183,135.109,33.0,6.9,usp0006uef,"near the south coast of Papua, Indonesia"
+3255,1995,1995-04-07,-15.199,-173.529,21.2,7.4,usp0006vb3,Tonga
+3262,1995,1995-04-17,45.928,151.283,23.1,6.8,usp0006vua,Kuril Islands
+3264,1995,1995-04-20,6.279,126.777,94.1,6.6,usp0006vxw,"Mindanao, Philippines"
+3266,1995,1995-04-21,12.011,125.656,20.1,6.9,usp0006vz4,"Samar, Philippines"
+3267,1995,1995-04-21,11.925,125.564,17.4,6.8,usp0006vz8,"Samar, Philippines"
+3268,1995,1995-04-21,12.059,125.58,20.7,7.2,usp0006vz9,"Samar, Philippines"
+3269,1995,1995-04-21,12.047,125.92,27.4,6.8,usp0006w0m,"Samar, Philippines"
+3271,1995,1995-04-23,12.39,125.396,24.1,6.8,usp0006w5w,"Samar, Philippines"
+3275,1995,1995-04-28,44.072,148.004,28.8,6.9,usp0006wgc,Kuril Islands
+3278,1995,1995-05-02,-3.792,-76.917,97.0,6.7,usp0006wq1,northern Peru
+3281,1995,1995-05-05,12.626,125.297,16.0,7.1,usp0006ww5,"Samar, Philippines"
+3286,1995,1995-05-13,40.149,21.695,14.0,6.6,usp0006x90,Greece
+3287,1995,1995-05-14,-8.378,125.127,11.2,6.9,usp0006xbu,East Timor region
+3289,1995,1995-05-16,-23.008,169.9,20.2,7.7,usp0006xg1,southeast of the Loyalty Islands
+3292,1995,1995-05-18,-0.893,-21.996,12.2,6.8,usp0006xma,central Mid-Atlantic Ridge
+3295,1995,1995-05-23,-55.945,-3.361,10.0,6.8,usp0006xwq,southern Mid-Atlantic Ridge
+3297,1995,1995-05-27,52.629,142.827,11.0,7.1,usp0006y50,"Sakhalin, Russia"
+3300,1995,1995-06-14,12.128,-88.36,25.0,6.6,usp0006z26,off the coast of El Salvador
+3302,1995,1995-06-21,-61.673,154.766,10.0,6.7,usp0006zgn,Balleny Islands region
+3303,1995,1995-06-24,-3.959,153.93,386.0,6.8,usp0006zmh,"New Ireland region, Papua New Guinea"
+3308,1995,1995-06-29,-19.544,169.287,139.4,6.6,usp0006zwa,Vanuatu
+3310,1995,1995-07-03,-29.211,-177.589,35.3,7.2,usp000702z,"Kermadec Islands, New Zealand"
+3315,1995,1995-07-11,21.966,99.196,12.5,6.8,usp00070g4,Myanmar
+3321,1995,1995-07-30,-23.34,-70.294,45.6,8.0,usp000714t,"Antofagasta, Chile"
+3327,1995,1995-08-14,-4.836,151.515,127.9,6.7,usp00071ty,"New Britain region, Papua New Guinea"
+3328,1995,1995-08-16,-5.799,154.178,30.1,7.7,usp00071w4,"Bougainville region, Papua New Guinea"
+3329,1995,1995-08-16,-5.429,153.773,18.7,6.6,usp00071ww,"New Ireland region, Papua New Guinea"
+3330,1995,1995-08-16,-5.771,154.347,33.0,7.2,usp00071xh,"Bougainville region, Papua New Guinea"
+3336,1995,1995-08-19,5.139,-75.577,119.6,6.6,usp000724g,Colombia
+3337,1995,1995-08-23,18.856,145.218,594.9,7.1,usp00072a1,"Pagan region, Northern Mariana Islands"
+3344,1995,1995-08-28,26.092,-110.284,12.2,6.6,usp00072k0,Gulf of California
+3350,1995,1995-09-14,16.779,-98.597,23.0,7.4,usp00073c5,"Guerrero, Mexico"
+3362,1995,1995-10-03,-2.75,-77.881,24.4,7.0,usp00074c4,Peru-Ecuador border region
+3365,1995,1995-10-06,-2.045,101.436,33.0,6.8,usp00074ph,"southern Sumatra, Indonesia"
+3367,1995,1995-10-09,19.055,-104.205,33.0,8.0,usp00074vc,"Colima, Mexico"
+3375,1995,1995-10-18,27.929,130.175,28.4,7.1,usp00075bd,"Ryukyu Islands, Japan"
+3378,1995,1995-10-19,28.094,130.148,19.7,6.8,usp00075db,"Ryukyu Islands, Japan"
+3380,1995,1995-10-21,16.84,-93.469,159.3,7.2,usp00075gf,"Chiapas, Mexico"
+3384,1995,1995-11-01,-28.906,-71.417,19.9,6.7,usp000762s,"Atacama, Chile"
+3386,1995,1995-11-08,1.833,95.05,33.0,6.9,usp00076fh,off the west coast of northern Sumatra
+3390,1995,1995-11-22,28.826,34.799,10.0,7.2,usp0007788,Egypt
+3392,1995,1995-11-24,44.537,149.103,27.8,6.6,usp00077e6,Kuril Islands
+3396,1995,1995-12-01,10.16,-104.0,10.0,6.6,usp00077vd,northern East Pacific Rise
+3397,1995,1995-12-02,44.505,149.237,18.1,6.6,usp00077yv,Kuril Islands
+3398,1995,1995-12-03,44.663,149.3,33.0,7.9,usp000782n,Kuril Islands
+3410,1995,1995-12-25,-6.903,129.151,141.9,7.1,usp00079k5,Banda Sea
+3414,1996,1996-01-01,0.729,119.931,24.0,7.9,usp00079zv,"Minahasa, Sulawesi, Indonesia"
+3415,1996,1996-01-01,53.826,159.586,33.0,6.6,usp0007a08,"near the east coast of the Kamchatka Peninsula, Russia"
+3423,1996,1996-02-03,27.291,100.276,11.1,6.6,usp0007c7g,"Sichuan-Yunnan border region, China"
+3425,1996,1996-02-07,45.324,149.892,42.6,7.2,usp0007chh,Kuril Islands
+3429,1996,1996-02-16,-1.496,-15.279,10.6,6.6,usp0007d0f,north of Ascension Island
+3431,1996,1996-02-16,37.353,142.38,40.8,6.7,usp0007d0t,"off the east coast of Honshu, Japan"
+3432,1996,1996-02-17,-0.891,136.952,33.0,8.2,usp0007d1w,"Biak region, Indonesia"
+3437,1996,1996-02-18,-1.266,-14.273,10.0,6.6,usp0007dds,north of Ascension Island
+3439,1996,1996-02-21,-9.593,-79.587,10.0,7.5,usp0007dmb,off the coast of northern Peru
+3443,1996,1996-02-25,15.978,-98.07,21.1,7.1,usp0007dv6,"offshore Oaxaca, Mexico"
+3447,1996,1996-03-03,11.657,-86.856,33.0,6.6,usp0007e9k,near the coast of Nicaragua
+3448,1996,1996-03-03,11.905,-86.772,33.0,6.7,usp0007e9s,near the coast of Nicaragua
+3451,1996,1996-03-16,28.983,138.944,477.2,6.7,usp0007evx,"Bonin Islands, Japan region"
+3452,1996,1996-03-17,-14.705,167.297,164.4,6.7,usp0007ex5,Vanuatu
+3455,1996,1996-03-22,51.221,178.695,20.4,6.8,usp0007f34,"Rat Islands, Aleutian Islands, Alaska"
+3463,1996,1996-04-16,-24.061,-177.036,110.9,7.2,usp0007g84,south of the Fiji Islands
+3464,1996,1996-04-19,-23.944,-70.093,49.5,6.6,usp0007gbg,"Antofagasta, Chile"
+3466,1996,1996-04-29,-6.518,154.999,44.0,7.2,usp0007gqq,"Bougainville region, Papua New Guinea"
+3470,1996,1996-05-02,-4.548,154.833,500.0,6.6,usp0007gvt,"Bougainville region, Papua New Guinea"
+3477,1996,1996-06-02,10.797,-42.254,10.0,7.0,usp0007j1e,northern Mid-Atlantic Ridge
+3484,1996,1996-06-10,-13.481,167.13,200.1,6.7,usp0007jck,Vanuatu
+3485,1996,1996-06-10,51.564,-177.632,33.0,7.9,usp0007jcu,"Andreanof Islands, Aleutian Islands, Alaska"
+3486,1996,1996-06-10,51.478,-176.847,26.3,7.3,usp0007jfz,"Andreanof Islands, Aleutian Islands, Alaska"
+3487,1996,1996-06-11,12.614,125.154,33.0,7.1,usp0007jkw,"Samar, Philippines"
+3489,1996,1996-06-17,-7.137,122.589,587.3,7.9,usp0007jw8,Flores Sea
+3491,1996,1996-06-21,51.568,159.119,20.0,6.7,usp0007k2n,"off the east coast of the Kamchatka Peninsula, Russia"
+3498,1996,1996-07-15,17.6,-100.965,18.3,6.8,usp0007m35,"Guerrero, Mexico"
+3500,1996,1996-07-16,1.016,120.254,33.0,6.6,usp0007m42,"Minahasa, Sulawesi, Indonesia"
+3502,1996,1996-07-22,1.0,120.45,33.0,7.0,usp0007me1,"Minahasa, Sulawesi, Indonesia"
+3508,1996,1996-08-02,-10.769,161.445,33.0,6.9,usp0007n0p,Solomon Islands
+3509,1996,1996-08-05,-15.267,-173.126,41.2,6.7,usp0007n46,Tonga
+3511,1996,1996-08-05,-20.69,-178.31,550.2,7.4,usp0007n5m,Fiji region
+3522,1996,1996-09-05,-22.118,-113.436,10.0,6.9,usp0007pet,Easter Island region
+3525,1996,1996-09-05,21.898,121.498,20.0,6.8,usp0007pfw,Taiwan region
+3531,1996,1996-09-20,9.463,126.284,33.0,6.6,usp0007q50,"Mindanao, Philippines"
+3532,1996,1996-09-20,9.454,126.334,33.0,6.6,usp0007q51,"Mindanao, Philippines"
+3540,1996,1996-10-09,34.556,32.126,33.0,6.8,usp0007r4u,Cyprus region
+3543,1996,1996-10-14,-7.133,155.568,24.0,6.8,usp0007rdr,Solomon Islands
+3545,1996,1996-10-18,30.568,131.093,10.0,6.6,usp0007rku,"Kyushu, Japan"
+3546,1996,1996-10-19,31.885,131.468,22.0,6.7,usp0007rp0,"Kyushu, Japan"
+3547,1996,1996-10-19,-20.412,-178.51,590.8,6.9,usp0007rp1,Fiji region
+3550,1996,1996-11-05,-31.16,179.998,369.4,6.8,usp0007sfm,Kermadec Islands region
+3552,1996,1996-11-06,27.999,143.538,9.0,6.6,usp0007sja,"Bonin Islands, Japan region"
+3556,1996,1996-11-12,-14.993,-75.675,33.0,7.7,usp0007swp,near the coast of central Peru
+3564,1996,1996-11-19,35.345,78.133,33.0,6.9,usp0007t7m,Kashmir-Xinjiang border region
+3568,1996,1996-12-02,31.789,131.314,49.2,6.7,usp0007tw5,"Kyushu, Japan"
+3572,1996,1996-12-10,0.87,-30.039,10.0,6.7,usp0007u7a,central Mid-Atlantic Ridge
+3578,1997,1997-01-11,18.219,-102.756,33.0,7.2,usp0007vrx,"Michoacan, Mexico"
+3581,1997,1997-01-23,-21.999,-65.719,276.2,7.1,usp0007w7v,"Potosi, Bolivia"
+3589,1997,1997-02-27,29.976,68.208,33.0,7.1,usp0007xx2,Pakistan
+3594,1997,1997-03-11,7.742,127.647,10.0,6.9,usp0007yp6,Philippine Islands region
+3598,1997,1997-03-26,51.277,179.533,33.0,6.7,usp0007zea,"Rat Islands, Aleutian Islands, Alaska"
+3608,1997,1997-04-21,-12.584,166.676,33.0,7.7,usp00080wt,Santa Cruz Islands
+3612,1997,1997-04-22,11.112,-60.892,5.0,6.7,usp000810j,"Tobago region, Trinidad and Tobago"
+3616,1997,1997-04-28,-42.504,42.686,10.0,6.8,usp00081ec,Prince Edward Islands region
+3617,1997,1997-05-01,18.993,-107.35,33.0,6.9,usp00081jx,"off the coast of Jalisco, Mexico"
+3618,1997,1997-05-03,-31.791,-179.382,108.3,6.9,usp00081pj,Kermadec Islands region
+3622,1997,1997-05-10,33.825,59.809,10.0,7.3,usp000820p,eastern Iran
+3627,1997,1997-05-21,-20.438,169.287,57.0,6.8,usp00082mx,Vanuatu
+3631,1997,1997-05-25,-32.115,179.791,332.7,7.1,usp00082uf,south of the Kermadec Islands
+3642,1997,1997-07-06,-30.058,-71.872,19.0,6.8,usp00084ez,"offshore Coquimbo, Chile"
+3644,1997,1997-07-09,10.598,-63.486,19.9,7.0,usp00084m2,"Sucre, Venezuela"
+3647,1997,1997-07-19,16.333,-98.216,33.0,6.9,usp000851t,"Oaxaca, Mexico"
+3657,1997,1997-08-08,-15.477,-179.14,10.0,6.6,usp00085yy,Fiji region
+3665,1997,1997-08-29,-3.562,144.362,22.8,6.6,usp00086u4,"near the north coast of New Guinea, Papua New Guinea"
+3666,1997,1997-09-02,3.849,-75.749,198.7,6.8,usp000871m,Colombia
+3668,1997,1997-09-04,-26.569,178.336,624.7,6.8,usp0008740,south of the Fiji Islands
+3672,1997,1997-09-20,-28.683,-177.624,30.0,7.0,usp00087s6,Kermadec Islands region
+3682,1997,1997-10-14,-22.101,-176.772,167.3,7.8,usp000890q,south of the Fiji Islands
+3683,1997,1997-10-15,-30.933,-71.22,58.0,7.1,usp000892b,"Coquimbo, Chile"
+3687,1997,1997-10-28,-4.368,-76.681,112.0,7.2,usp00089q2,northern Peru
+3690,1997,1997-11-08,35.069,87.325,33.0,7.5,usp0008a97,western Xizang
+3695,1997,1997-11-15,-15.145,167.375,123.1,7.0,usp0008aqx,Vanuatu
+3696,1997,1997-11-18,37.57,20.656,33.0,6.6,usp0008aw5,Ionian Sea
+3698,1997,1997-11-25,1.241,122.536,24.0,7.0,usp0008baj,"Minahasa, Sulawesi, Indonesia"
+3699,1997,1997-11-28,-13.74,-68.788,586.0,6.7,usp0008bg2,"La Paz, Bolivia"
+3701,1997,1997-12-05,54.841,162.035,33.0,7.8,usp0008btk,"near the east coast of the Kamchatka Peninsula, Russia"
+3707,1997,1997-12-17,51.187,178.871,20.0,6.6,usp0008cs8,"Rat Islands, Aleutian Islands, Alaska"
+3710,1997,1997-12-22,-5.495,147.867,179.3,7.2,usp0008d0r,"eastern New Guinea region, Papua New Guinea"
+3715,1998,1998-01-04,-22.301,170.911,100.6,7.5,usp0008dqq,southeast of the Loyalty Islands
+3717,1998,1998-01-10,14.374,-91.473,33.0,6.6,usp0008e1g,Guatemala
+3718,1998,1998-01-12,-30.985,-71.41,34.8,6.6,usp0008e5f,"Coquimbo, Chile"
+3719,1998,1998-01-12,-15.848,-179.376,23.4,6.7,usp0008e6m,Fiji region
+3720,1998,1998-01-14,-15.731,-179.329,33.0,6.6,usp0008eb7,Fiji region
+3726,1998,1998-01-30,-23.913,-70.207,42.0,7.1,usp0008f7c,"Antofagasta, Chile"
+3730,1998,1998-02-16,52.718,-33.677,10.0,6.8,usp0008g3e,Reykjanes Ridge
+3734,1998,1998-03-14,30.154,57.605,9.0,6.6,usp0008hg7,eastern Iran
+3735,1998,1998-03-20,-50.008,163.107,10.0,6.7,usp0008hs8,"Auckland Islands, New Zealand region"
+3738,1998,1998-03-25,-62.877,149.527,10.0,8.1,usp0008hzd,Balleny Islands region
+3741,1998,1998-03-29,-17.552,-179.092,537.2,7.2,usp0008j7s,Fiji region
+3742,1998,1998-04-01,-0.544,99.261,55.7,7.0,usp0008jd7,"southern Sumatra, Indonesia"
+3743,1998,1998-04-01,-40.316,-74.874,9.0,6.7,usp0008jdq,"offshore Los Lagos, Chile"
+3744,1998,1998-04-03,-8.148,-74.238,164.6,6.6,usp0008jhh,central Peru
+3751,1998,1998-05-03,22.306,125.308,33.0,7.5,usp0008mdk,southeast of Taiwan
+3753,1998,1998-05-13,-5.147,151.714,61.4,6.6,usp0008n0d,"New Britain region, Papua New Guinea"
+3756,1998,1998-05-16,-22.227,-179.519,586.1,6.9,usp0008n5q,south of the Fiji Islands
+3757,1998,1998-05-21,0.207,119.584,33.0,6.7,usp0008nfm,"Minahasa, Sulawesi, Indonesia"
+3759,1998,1998-05-22,-17.731,-65.431,24.0,6.6,usp0008nhp,"Cochabamba, Bolivia"
+3763,1998,1998-05-30,37.106,70.11,33.0,6.6,usp0008nze,"Hindu Kush region, Afghanistan"
+3775,1998,1998-07-09,-30.487,-178.994,129.5,6.9,usp0008r86,"Kermadec Islands, New Zealand"
+3777,1998,1998-07-16,-11.04,166.16,110.2,7.0,usp0008rm2,Santa Cruz Islands
+3778,1998,1998-07-17,-2.961,141.926,10.0,7.0,usp0008rpa,"near the north coast of New Guinea, Papua New Guinea"
+3784,1998,1998-07-29,-2.693,138.901,33.0,6.7,usp0008sd0,"Papua, Indonesia"
+3787,1998,1998-08-04,-0.593,-80.393,33.0,7.2,usp0008ssb,near the coast of Ecuador
+3790,1998,1998-08-20,28.932,139.329,440.5,7.1,usp0008tje,"Bonin Islands, Japan region"
+3793,1998,1998-08-23,11.663,-88.038,54.6,6.7,usp0008trh,off the coast of Central America
+3799,1998,1998-09-02,5.41,126.764,50.0,6.8,usp0008u8z,"Mindanao, Philippines"
+3800,1998,1998-09-03,-29.45,-71.715,27.0,6.6,usp0008uc5,"offshore Coquimbo, Chile"
+3808,1998,1998-09-28,-8.194,112.413,151.6,6.6,usp0008vnn,"Java, Indonesia"
+3816,1998,1998-10-28,0.839,125.966,33.0,6.6,usp0008x6n,Molucca Sea
+3818,1998,1998-11-09,-6.954,129.022,33.0,6.7,usp0008xw6,Banda Sea
+3819,1998,1998-11-09,-6.92,128.946,33.0,7.0,usp0008xw8,Banda Sea
+3826,1998,1998-11-29,-2.071,124.891,33.0,7.7,usp0008yx2,Banda Sea
+3827,1998,1998-12-06,1.253,126.198,33.0,6.6,usp0008z7q,Molucca Sea
+3833,1998,1998-12-27,-21.632,-176.376,144.3,6.8,usp000907z,Fiji region
+3837,1999,1999-01-19,-4.596,153.235,114.1,7.0,usp00091ag,"New Ireland region, Papua New Guinea"
+3842,1999,1999-01-28,52.886,-169.123,67.2,6.6,usp00091uc,"Fox Islands, Aleutian Islands, Alaska"
+3846,1999,1999-02-06,-12.853,166.697,90.1,7.3,usp00092cr,Santa Cruz Islands
+3852,1999,1999-03-04,28.343,57.193,33.0,6.6,usp00093tj,southern Iran
+3853,1999,1999-03-04,5.397,121.937,33.0,7.1,usp00093u0,"Sulu Archipelago, Philippines"
+3856,1999,1999-03-08,52.056,159.52,56.6,6.9,usp000943c,"off the east coast of the Kamchatka Peninsula, Russia"
+3857,1999,1999-03-20,51.587,-177.668,33.0,6.9,usp00094ud,"Andreanof Islands, Aleutian Islands, Alaska"
+3858,1999,1999-03-28,30.512,79.403,15.0,6.6,usp00095cb,"Uttaranchal, India"
+3862,1999,1999-04-03,-16.66,-72.662,87.2,6.8,usp00095q7,near the coast of southern Peru
+3864,1999,1999-04-05,-5.591,149.568,150.0,7.4,usp00095u8,"New Britain region, Papua New Guinea"
+3866,1999,1999-04-08,43.607,130.35,565.7,7.1,usp00095z9,"Jilin-Heilongjiang border region, China"
+3869,1999,1999-04-13,-21.422,-176.46,164.2,6.8,usp000967d,Fiji region
+3876,1999,1999-05-10,-5.159,150.88,138.0,7.1,usp00097rj,"New Britain region, Papua New Guinea"
+3879,1999,1999-05-16,-4.751,152.486,73.7,7.1,usp000982a,"New Britain region, Papua New Guinea"
+3881,1999,1999-05-17,-5.165,152.877,27.0,6.6,usp000985t,"New Britain region, Papua New Guinea"
+3885,1999,1999-06-15,18.386,-97.436,70.0,7.0,usp00099y6,"Puebla, Mexico"
+3893,1999,1999-07-11,15.782,-88.33,10.0,6.7,usp0009bed,Guatemala
+3902,1999,1999-08-17,40.748,29.864,17.0,7.6,usp0009d4z,western Turkey
+3903,1999,1999-08-20,9.044,-84.159,20.0,6.9,usp0009dcg,Costa Rica
+3906,1999,1999-08-22,-16.117,168.039,33.0,6.6,usp0009dg4,Vanuatu
+3915,1999,1999-09-20,23.772,120.982,33.0,7.7,usp0009eq0,Taiwan
+3926,1999,1999-09-30,16.059,-96.931,60.6,7.5,usp0009f7v,"Oaxaca, Mexico"
+3929,1999,1999-10-16,34.6033333,-116.265,13.73,7.1,ci9108652,"16km SW of Ludlow, CA"
+3938,1999,1999-11-12,40.758,31.161,10.0,7.2,usp0009hev,western Turkey
+3939,1999,1999-11-15,-1.339,88.976,10.0,7.0,usp0009hnt,South Indian Ocean
+3941,1999,1999-11-17,-5.978,148.82,47.5,6.9,usp0009hra,"New Britain region, Papua New Guinea"
+3944,1999,1999-11-19,-6.351,148.763,33.0,7.0,usp0009huj,"New Britain region, Papua New Guinea"
+3947,1999,1999-11-26,-16.423,168.214,33.0,7.5,usp0009j4n,Vanuatu
+3949,1999,1999-11-30,-18.901,-69.171,128.1,6.6,usp0009jav,"Tarapaca, Chile"
+3951,1999,1999-12-06,57.413,-154.489,66.0,7.0,usp0009jj1,"Kodiak Island region, Alaska"
+3957,1999,1999-12-11,15.766,119.74,33.0,7.3,usp0009jr8,"Luzon, Philippines"
+3968,1999,1999-12-29,-10.86,165.354,33.0,6.9,usp0009kej,Santa Cruz Islands
+3976,2000,2000-01-08,-16.925,-174.248,183.4,7.2,usp0009kx3,Tonga
+3983,2000,2000-01-28,43.046,146.837,61.1,6.8,usp0009msf,Kuril Islands
+3985,2000,2000-02-06,-5.844,150.876,33.0,6.6,usp0009n4c,"New Britain region, Papua New Guinea"
+3987,2000,2000-02-25,-19.528,173.818,33.0,7.1,usp0009nxg,Vanuatu region
+3994,2000,2000-03-03,-6.817,143.807,10.0,6.6,usp0009p81,"New Guinea, Papua New Guinea"
+3998,2000,2000-03-28,22.338,143.73,126.5,7.6,usp0009qb4,"Volcano Islands, Japan region"
+4003,2000,2000-04-23,-28.307,-62.99,608.5,7.0,usp0009rrc,"Santiago Del Estero, Argentina"
+4006,2000,2000-05-04,-1.105,123.573,26.0,7.6,usp0009sbh,"Sulawesi, Indonesia"
+4010,2000,2000-05-12,-23.548,-66.452,225.0,7.2,usp0009suu,"Jujuy, Argentina"
+4017,2000,2000-06-04,-4.721,102.087,33.0,7.9,usp0009txv,"southern Sumatra, Indonesia"
+4018,2000,2000-06-04,-4.646,102.102,33.0,6.7,usp0009txx,"southern Sumatra, Indonesia"
+4024,2000,2000-06-07,-4.612,101.905,33.0,6.7,usp0009u6r,"southern Sumatra, Indonesia"
+4030,2000,2000-06-11,-50.579,139.55,10.0,6.6,usp0009ue0,western Indian-Antarctic Ridge
+4037,2000,2000-06-18,-13.802,97.453,10.0,7.9,usp0009ut0,South Indian Ocean
+4041,2000,2000-07-11,57.369,-154.206,43.6,6.6,usp0009w6c,"Kodiak Island region, Alaska"
+4044,2000,2000-07-16,-7.747,150.917,10.0,6.6,usp0009wkp,"New Britain region, Papua New Guinea"
+4052,2000,2000-08-03,-12.037,166.448,33.0,6.6,usp0009xp4,Santa Cruz Islands
+4053,2000,2000-08-04,48.786,142.246,10.0,6.8,usp0009xws,"Sakhalin, Russia"
+4054,2000,2000-08-06,28.856,139.556,394.8,7.4,usp0009xzy,"Bonin Islands, Japan region"
+4061,2000,2000-08-15,-31.511,179.725,357.7,6.6,usp0009yfk,Kermadec Islands region
+4063,2000,2000-08-28,-4.11,127.394,16.0,6.8,usp0009z9y,Banda Sea
+4080,2000,2000-10-04,-15.421,166.91,23.0,7.0,usp000a18v,Vanuatu
+4083,2000,2000-10-06,35.456,133.134,10.0,6.7,usp000a1b0,"western Honshu, Japan"
+4087,2000,2000-10-25,-6.549,105.63,38.0,6.8,usp000a2ck,"Sunda Strait, Indonesia"
+4090,2000,2000-10-29,-4.766,153.945,50.0,7.0,usp000a2mw,"New Ireland region, Papua New Guinea"
+4094,2000,2000-11-07,-55.627,-29.876,10.0,6.8,usp000a345,South Sandwich Islands region
+4099,2000,2000-11-16,-3.98,152.169,33.0,8.0,usp000a3qq,"New Ireland region, Papua New Guinea"
+4101,2000,2000-11-16,-5.233,153.102,30.0,7.8,usp000a3sp,"New Ireland region, Papua New Guinea"
+4104,2000,2000-11-17,-5.496,151.781,33.0,7.8,usp000a45f,"New Britain region, Papua New Guinea"
+4105,2000,2000-11-18,-5.097,153.181,33.0,6.6,usp000a470,"New Ireland region, Papua New Guinea"
+4106,2000,2000-11-18,-5.228,151.771,33.0,6.8,usp000a48b,"New Britain region, Papua New Guinea"
+4113,2000,2000-11-25,40.245,49.946,50.4,6.8,usp000a4xu,"Caspian Sea, offshore Azerbaijan"
+4117,2000,2000-12-06,39.566,54.799,30.0,7.0,usp000a5m7,Turkmenistan
+4121,2000,2000-12-18,-21.178,-179.124,628.2,6.6,usp000a68h,Fiji region
+4124,2000,2000-12-20,-9.231,154.353,33.0,6.6,usp000a6ep,D'Entrecasteaux Islands region
+4130,2001,2001-01-01,6.898,126.579,33.0,7.5,usp000a70h,"Mindanao, Philippines"
+4131,2001,2001-01-01,6.631,126.899,33.0,6.8,usp000a70q,"Mindanao, Philippines"
+4134,2001,2001-01-09,-14.928,167.17,103.0,7.1,usp000a7cv,Vanuatu
+4135,2001,2001-01-10,57.078,-153.211,33.0,7.0,usp000a7f2,"Kodiak Island region, Alaska"
+4137,2001,2001-01-13,13.049,-88.66,60.0,7.7,usp000a7m5,offshore El Salvador
+4140,2001,2001-01-16,-4.022,101.776,28.0,6.9,usp000a7t0,"southern Sumatra, Indonesia"
+4144,2001,2001-01-26,23.419,70.232,16.0,7.7,usp000a8ds,"Gujarat, India"
+4147,2001,2001-02-13,13.671,-88.938,10.0,6.6,usp000a9jv,El Salvador
+4148,2001,2001-02-13,-4.68,102.562,36.0,7.4,usp000a9kc,"southern Sumatra, Indonesia"
+4154,2001,2001-02-24,1.271,126.249,35.0,7.1,usp000aa8b,Molucca Sea
+4158,2001,2001-02-28,-21.986,170.207,10.0,6.7,usp000aake,southeast of the Loyalty Islands
+4161,2001,2001-02-28,47.149,-122.7266667,51.798,6.8,uw10530748,"Puget Sound region, Washington"
+4169,2001,2001-03-24,34.083,132.526,50.0,6.8,usp000abyg,"western Honshu, Japan"
+4172,2001,2001-04-09,-32.668,-73.109,11.0,6.7,usp000acv4,"off the coast of Valparaiso, Chile"
+4177,2001,2001-04-19,-7.41,155.865,17.0,6.7,usp000adkn,Solomon Islands
+4179,2001,2001-04-28,-18.064,-176.937,351.8,6.9,usp000ae2r,Fiji region
+4185,2001,2001-05-25,44.268,148.393,33.0,6.7,usp000afg1,Kuril Islands
+4190,2001,2001-06-03,-29.666,-178.633,178.1,7.2,usp000afyg,"Kermadec Islands, New Zealand"
+4198,2001,2001-06-23,-16.265,-73.641,33.0,8.4,official20010623203314130_33,near the coast of southern Peru
+4201,2001,2001-06-26,-17.745,-71.649,24.0,6.7,usp000ahfr,near the coast of southern Peru
+4208,2001,2001-07-05,-16.086,-73.987,62.0,6.6,usp000aj1a,near the coast of southern Peru
+4209,2001,2001-07-07,-17.543,-72.077,33.0,7.6,usp000aj40,near the coast of southern Peru
+4214,2001,2001-07-28,59.025,-155.116,131.3,6.8,usp000akb7,Southern Alaska
+4216,2001,2001-08-06,-55.537,-123.422,10.0,6.7,usp000akwv,southern East Pacific Rise
+4219,2001,2001-08-21,-36.813,-179.575,33.0,7.1,usp000amsn,east of the North Island of New Zealand
+4237,2001,2001-10-12,12.686,144.98,37.0,7.0,usp000aqsu,Guam region
+4240,2001,2001-10-19,-4.102,123.907,33.0,7.5,usp000ar78,Banda Sea
+4241,2001,2001-10-21,-37.137,178.982,18.0,6.7,usp000araj,off the east coast of the North Island of New Zealand
+4243,2001,2001-10-31,-5.912,150.196,33.0,7.0,usp000arz5,"New Britain region, Papua New Guinea"
+4248,2001,2001-11-14,35.946,90.541,10.0,7.8,usp000asvm,"southern Qinghai, China"
+4262,2001,2001-12-12,-42.813,124.688,10.0,7.1,usp000aufx,south of Australia
+4263,2001,2001-12-18,23.954,122.734,14.0,6.8,usp000ausw,Taiwan region
+4265,2001,2001-12-23,-9.613,159.53,16.0,6.8,usp000av52,Solomon Islands
+4271,2002,2002-01-02,-17.6,167.856,21.0,7.2,usp000avpw,Vanuatu
+4273,2002,2002-01-03,-17.664,168.004,10.0,6.6,usp000avrk,Vanuatu
+4274,2002,2002-01-10,-3.212,142.427,11.0,6.7,usp000aw5z,"near the north coast of New Guinea, Papua New Guinea"
+4286,2002,2002-02-05,-5.345,151.248,39.0,6.6,usp000axuy,"New Britain region, Papua New Guinea"
+4291,2002,2002-03-03,36.502,70.482,225.6,7.4,usp000azhc,"Hindu Kush region, Afghanistan"
+4292,2002,2002-03-05,6.033,124.249,31.0,7.5,usp000azqw,"Mindanao, Philippines"
+4300,2002,2002-03-31,24.279,122.179,32.8,7.1,usp000b1e2,Taiwan region
+4305,2002,2002-04-18,16.985,-100.865,24.9,6.8,usp000b2mv,"offshore Guerrero, Mexico"
+4306,2002,2002-04-18,-27.535,-70.586,62.0,6.7,usp000b2p9,"Atacama, Chile"
+4309,2002,2002-04-26,13.088,144.619,85.7,7.1,usp000b37m,Guam region
+4319,2002,2002-06-13,-47.801,99.751,10.0,6.6,usp000b628,southeast Indian Ridge
+4322,2002,2002-06-17,-12.592,166.383,33.0,6.7,usp000b6cd,Santa Cruz Islands
+4323,2002,2002-06-18,-30.805,-71.124,54.0,6.6,usp000b6du,"Coquimbo, Chile"
+4328,2002,2002-06-28,43.752,130.666,566.0,7.3,usp000b73z,"Jilin-Heilongjiang border region, China"
+4343,2002,2002-08-19,-21.696,-179.513,580.0,7.7,usp000ba6g,Fiji region
+4344,2002,2002-08-19,-23.884,178.495,675.4,7.7,usp000ba6m,south of the Fiji Islands
+4352,2002,2002-09-08,-3.302,142.945,13.0,7.6,usp000bbpf,"near the north coast of New Guinea, Papua New Guinea"
+4368,2002,2002-10-10,-1.757,134.297,10.0,7.6,usp000be54,"near the north coast of Papua, Indonesia"
+4369,2002,2002-10-10,-1.511,133.973,10.0,6.7,usp000be5x,"Papua, Indonesia"
+4372,2002,2002-10-12,-8.295,-71.738,534.3,6.9,usp000bed7,"Acre, Brazil"
+4384,2002,2002-10-23,63.514,-147.912,4.2,6.7,usp000bf2u,Central Alaska
+4387,2002,2002-11-02,2.824,96.085,30.0,7.4,usp000bfuz,"Simeulue, Indonesia"
+4390,2002,2002-11-03,63.517,-147.444,4.9,7.9,usp000bg0m,Central Alaska
+4391,2002,2002-11-07,51.197,179.334,33.0,6.6,usp000bgz7,"Rat Islands, Aleutian Islands, Alaska"
+4394,2002,2002-11-15,-56.051,-36.404,10.0,6.6,usp000bhrf,South Georgia Island region
+4395,2002,2002-11-17,47.824,146.209,459.1,7.3,usp000bhv1,northwest of the Kuril Islands
+4401,2002,2002-12-12,-4.786,153.275,34.0,6.7,usp000bkjf,"New Ireland region, Papua New Guinea"
+4410,2003,2003-01-10,-5.311,153.701,71.9,6.7,usp000bnbn,"New Ireland region, Papua New Guinea"
+4412,2003,2003-01-20,-10.491,160.77,33.0,7.3,usp000bnvq,Solomon Islands
+4414,2003,2003-01-22,18.77,-104.104,24.0,7.6,usp000bnyr,"offshore Colima, Mexico"
+4420,2003,2003-02-19,53.645,-164.643,19.0,6.6,usp000br01,"Unimak Island region, Alaska"
+4426,2003,2003-03-11,-4.694,153.238,40.2,6.8,usp000bsdd,"New Ireland region, Papua New Guinea"
+4431,2003,2003-03-17,51.272,177.978,33.0,7.1,usp000bsvs,"Rat Islands, Aleutian Islands, Alaska"
+4448,2003,2003-05-04,-30.531,-178.232,62.4,6.7,usp000bwkr,"Kermadec Islands, New Zealand"
+4456,2003,2003-05-14,18.266,-58.633,41.5,6.7,usp000bx7j,North Atlantic Ocean
+4460,2003,2003-05-21,36.964,3.634,12.0,6.8,usp000bxpg,northern Algeria
+4461,2003,2003-05-26,38.849,141.568,68.0,7.0,usp000by66,"near the east coast of Honshu, Japan"
+4462,2003,2003-05-26,2.354,128.855,31.0,7.0,usp000by7n,"Halmahera, Indonesia"
+4463,2003,2003-05-26,6.761,123.707,565.8,6.9,usp000by7z,"Moro Gulf, Mindanao, Philippines"
+4466,2003,2003-06-07,-5.095,152.502,33.0,6.6,usp000bz8p,"New Britain region, Papua New Guinea"
+4470,2003,2003-06-16,55.492,159.999,174.8,6.9,usp000c01m,"Kamchatka Peninsula, Russia"
+4471,2003,2003-06-20,-7.606,-71.722,558.1,7.1,usp000c0ag,"Amazonas, Brazil"
+4472,2003,2003-06-20,-30.608,-71.637,33.0,6.8,usp000c0bb,"Coquimbo, Chile"
+4473,2003,2003-06-23,51.439,176.783,20.0,6.9,usp000c0rc,"Rat Islands, Aleutian Islands, Alaska"
+4482,2003,2003-07-15,-2.598,68.382,10.0,7.6,usp000c2ka,Carlsberg Ridge
+4489,2003,2003-07-27,-21.08,-176.585,212.9,6.6,usp000c3f7,Fiji region
+4490,2003,2003-07-27,47.151,139.248,470.3,6.8,usp000c3fr,"Primor'ye, Russia"
+4492,2003,2003-08-04,-60.532,-43.411,10.0,7.6,usp000c41f,Scotia Sea
+4497,2003,2003-08-21,-45.104,167.144,28.0,7.2,usp000c5h6,South Island of New Zealand
+4508,2003,2003-09-21,19.917,95.672,10.0,6.6,usp000c87f,Myanmar
+4511,2003,2003-09-25,41.815,143.91,27.0,8.3,usp000c8kv,"Hokkaido, Japan region"
+4512,2003,2003-09-25,41.774,143.593,33.0,7.4,usp000c8mb,"Hokkaido, Japan region"
+4514,2003,2003-09-27,50.038,87.813,16.0,7.3,usp000c8sz,"southwestern Siberia, Russia"
+4520,2003,2003-10-01,50.211,87.721,10.0,6.7,usp000c96t,"southwestern Siberia, Russia"
+4522,2003,2003-10-08,42.648,144.57,32.0,6.7,usp000c9x7,"Hokkaido, Japan region"
+4530,2003,2003-10-31,37.812,142.619,10.0,7.0,usp000cbpa,"off the east coast of Honshu, Japan"
+4533,2003,2003-11-06,-19.262,168.892,113.7,6.6,usp000cc6u,Vanuatu
+4534,2003,2003-11-09,-0.674,-19.689,10.0,6.6,usp000ccg3,central Mid-Atlantic Ridge
+4542,2003,2003-11-17,51.146,178.65,33.0,7.8,usp000cd1n,"Rat Islands, Aleutian Islands, Alaska"
+4544,2003,2003-11-25,-5.581,150.88,35.0,6.6,usp000cdw2,"New Britain region, Papua New Guinea"
+4546,2003,2003-12-05,55.538,165.78,10.0,6.7,usp000ceks,"Komandorskiye Ostrova, Russia region"
+4548,2003,2003-12-10,23.039,121.362,10.0,6.8,usp000cexg,Taiwan
+4549,2003,2003-12-21,-0.769,-20.601,10.0,6.6,usp000cfqj,central Mid-Atlantic Ridge
+4555,2003,2003-12-26,28.995,58.311,10.0,6.6,usp000cg2d,southeastern Iran
+4556,2003,2003-12-26,-22.273,169.314,10.0,6.8,usp000cg55,southeast of the Loyalty Islands
+4558,2003,2003-12-27,-22.015,169.766,10.0,7.3,usp000cg90,southeast of the Loyalty Islands
+4559,2003,2003-12-27,-21.672,169.835,10.0,6.7,usp000cgae,southeast of the Loyalty Islands
+4566,2004,2004-01-03,-22.253,169.683,22.0,7.1,usp000cgz9,southeast of the Loyalty Islands
+4573,2004,2004-01-25,-16.83,-174.196,129.8,6.7,usp000cjn2,Tonga
+4574,2004,2004-01-28,-3.12,127.4,17.4,6.7,usp000cjwh,"Seram, Indonesia"
+4577,2004,2004-02-05,-3.615,135.538,16.6,7.0,usp000ckg7,"Papua, Indonesia"
+4578,2004,2004-02-07,-4.003,135.023,10.0,7.3,usp000ckks,"near the south coast of Papua, Indonesia"
+4579,2004,2004-02-08,-3.665,135.339,25.7,6.7,usp000ckq7,"Papua, Indonesia"
+4581,2004,2004-02-21,-58.425,-14.963,10.0,6.6,usp000cmqq,east of the South Sandwich Islands
+4599,2004,2004-04-05,36.512,71.029,187.1,6.6,usp000crt6,"Hindu Kush region, Afghanistan"
+4612,2004,2004-04-23,-9.362,122.839,65.8,6.7,usp000ct64,Savu Sea
+4616,2004,2004-05-03,-37.695,-73.406,21.0,6.6,usp000cu1z,"Bio-Bio, Chile"
+4625,2004,2004-06-10,55.682,160.003,188.6,6.9,usp000cxkw,"Kamchatka Peninsula, Russia"
+4628,2004,2004-06-28,54.8,-134.25,20.0,6.8,usp000cz21,"Haida Gwaii Region, Canada"
+4636,2004,2004-07-15,-17.656,-178.76,565.5,7.1,usp000d06s,Fiji region
+4640,2004,2004-07-25,-2.427,103.981,582.1,7.3,usp000d0v4,"southern Sumatra, Indonesia"
+4647,2004,2004-09-05,33.07,136.618,14.0,7.2,usp000d3ka,"near the south coast of western Honshu, Japan"
+4648,2004,2004-09-05,33.184,137.071,10.0,7.4,usp000d3mb,"near the south coast of Honshu, Japan"
+4649,2004,2004-09-06,-55.372,-28.976,10.0,6.9,usp000d3qv,South Sandwich Islands region
+4650,2004,2004-09-06,33.205,137.227,10.0,6.6,usp000d3sx,"near the south coast of Honshu, Japan"
+4661,2004,2004-10-08,-10.951,162.161,36.0,6.8,usp000d600,Solomon Islands
+4663,2004,2004-10-09,11.422,-86.665,35.0,7.0,usp000d63h,near the coast of Nicaragua
+4664,2004,2004-10-15,24.53,122.694,94.0,6.7,usp000d6dm,Taiwan region
+4666,2004,2004-10-23,37.226,138.779,16.0,6.6,usp000d6vk,"near the west coast of Honshu, Japan"
+4672,2004,2004-11-02,49.277,-128.772,10.0,6.7,usp000d7h4,"Vancouver Island, Canada region"
+4677,2004,2004-11-09,-11.15,163.706,13.0,6.9,usp000d81v,Solomon Islands
+4679,2004,2004-11-11,-11.128,162.208,10.0,6.7,usp000d855,Solomon Islands
+4680,2004,2004-11-11,-8.152,124.868,10.0,7.5,usp000d85g,"Kepulauan Alor, Indonesia"
+4683,2004,2004-11-15,4.695,-77.508,15.0,7.2,usp000d8gx,near the west coast of Colombia
+4685,2004,2004-11-17,-20.068,-178.71,622.6,6.6,usp000d8nz,Fiji region
+4690,2004,2004-11-22,-46.676,164.721,10.0,7.1,usp000d8ze,off the west coast of the South Island of New Zealand
+4691,2004,2004-11-26,-3.609,135.404,10.0,7.1,usp000d975,"Papua, Indonesia"
+4692,2004,2004-11-28,-26.525,-113.834,10.0,6.6,usp000d9f2,Easter Island region
+4694,2004,2004-11-28,43.006,145.119,39.0,7.0,usp000d9h1,"Hokkaido, Japan region"
+4695,2004,2004-12-06,42.9,145.228,35.0,6.8,usp000da6m,"Hokkaido, Japan region"
+4698,2004,2004-12-14,18.958,-81.409,10.0,6.8,usp000daqt,Cayman Islands region
+4701,2004,2004-12-23,-49.312,161.345,10.0,8.1,usp000db93,north of Macquarie Island
+4702,2004,2004-12-26,3.295,95.982,30.0,9.1,official20041226005853450_30,off the west coast of northern Sumatra
+4707,2004,2004-12-26,6.91,92.958,39.2,7.2,usp000dbg6,"Nicobar Islands, India region"
+4709,2004,2004-12-26,8.879,92.375,16.1,6.6,usp000dbj1,"Nicobar Islands, India region"
+4719,2005,2005-01-01,5.099,92.304,11.7,6.7,usp000dcbh,off the west coast of northern Sumatra
+4726,2005,2005-01-12,-0.878,-21.194,10.0,6.8,usp000dd5a,central Mid-Atlantic Ridge
+4730,2005,2005-01-16,10.934,140.842,24.9,6.6,usp000ddgf,"State of Yap, Federated States of Micronesia"
+4733,2005,2005-01-19,34.064,141.491,27.8,6.6,usp000ddrk,"off the east coast of Honshu, Japan"
+4743,2005,2005-02-05,16.011,145.867,142.7,6.6,usp000dfhb,"Anatahan region, Northern Mariana Islands"
+4745,2005,2005-02-05,5.293,123.337,525.0,7.1,usp000dfj2,Celebes Sea
+4747,2005,2005-02-08,-14.252,167.259,206.3,6.7,usp000dfqj,Vanuatu
+4753,2005,2005-02-16,-36.32,-16.558,10.0,6.6,usp000dgad,southern Mid-Atlantic Ridge
+4757,2005,2005-02-26,2.908,95.592,36.0,6.8,usp000dh0k,"Simeulue, Indonesia"
+4758,2005,2005-03-02,-6.527,129.933,201.7,7.1,usp000dhc1,Banda Sea
+4765,2005,2005-03-20,33.807,130.131,10.0,6.6,usp000djku,"Kyushu, Japan"
+4766,2005,2005-03-21,-24.983,-63.47,579.1,6.9,usp000djqf,"Salta, Argentina"
+4769,2005,2005-03-28,2.085,97.108,30.0,8.6,official20050328160936530_30,"northern Sumatra, Indonesia"
+4781,2005,2005-04-10,-1.644,99.607,19.0,6.7,usp000dmtx,"Kepulauan Mentawai region, Indonesia"
+4785,2005,2005-04-11,-3.484,145.909,11.4,6.6,usp000dn1w,"near the north coast of New Guinea, Papua New Guinea"
+4787,2005,2005-04-11,-21.975,170.612,68.0,6.7,usp000dn2k,southeast of the Loyalty Islands
+4793,2005,2005-05-14,0.587,98.459,34.0,6.7,usp000dqs0,"Nias region, Indonesia"
+4794,2005,2005-05-16,-32.589,-179.353,34.0,6.6,usp000dqxx,south of the Kermadec Islands
+4798,2005,2005-05-19,1.989,97.041,30.0,6.9,usp000dr4t,"Nias region, Indonesia"
+4805,2005,2005-06-13,-19.987,-69.197,115.6,7.8,usp000dsw1,"Tarapaca, Chile"
+4806,2005,2005-06-14,51.239,179.314,17.0,6.8,usp000dszm,"Rat Islands, Aleutian Islands, Alaska"
+4807,2005,2005-06-15,41.292,-125.953,16.0,7.2,usp000dt25,off the coast of Northern California
+4810,2005,2005-06-17,40.773,-126.574,12.0,6.6,usp000dt8h,off the coast of Northern California
+4812,2005,2005-07-02,11.245,-86.172,27.0,6.6,usp000dubj,near the coast of Nicaragua
+4814,2005,2005-07-05,1.819,97.082,21.0,6.7,usp000dujc,"Nias region, Indonesia"
+4818,2005,2005-07-24,7.92,92.19,16.0,7.2,usp000dvtc,"Nicobar Islands, India region"
+4828,2005,2005-08-16,38.276,142.039,36.0,7.2,usp000dxe2,"near the east coast of Honshu, Japan"
+4835,2005,2005-09-09,-4.539,153.474,90.0,7.6,usp000dz2j,"New Ireland region, Papua New Guinea"
+4838,2005,2005-09-26,-5.678,-76.398,115.0,7.5,usp000e09h,northern Peru
+4839,2005,2005-09-29,-5.437,151.84,25.0,6.6,usp000e0h0,"New Britain region, Papua New Guinea"
+4841,2005,2005-10-08,34.539,73.588,26.0,7.6,usp000e12e,Pakistan
+4848,2005,2005-11-14,38.107,144.896,11.0,7.0,usp000e462,"off the east coast of Honshu, Japan"
+4849,2005,2005-11-17,-22.361,-67.895,147.0,6.8,usp000e4cy,"Potosi, Bolivia"
+4857,2005,2005-12-05,-6.224,29.83,22.0,6.8,usp000e5jx,"Lake Tanganyika region, Dem. Republic of the Congo-Tanzania"
+4860,2005,2005-12-11,-6.584,152.223,17.0,6.6,usp000e5zd,"New Britain region, Papua New Guinea"
+4862,2005,2005-12-13,-15.265,-178.571,10.0,6.7,usp000e62c,Fiji region
+4870,2006,2006-01-02,-60.957,-21.606,13.0,7.4,usp000e7dd,east of the South Sandwich Islands
+4871,2006,2006-01-02,-19.926,-178.178,582.9,7.2,usp000e7f0,Fiji region
+4872,2006,2006-01-04,28.164,-112.117,14.0,6.6,usp000e7jp,Gulf of California
+4874,2006,2006-01-08,36.311,23.212,66.0,6.7,usp000e7u3,southern Greece
+4878,2006,2006-01-27,-5.473,128.131,397.0,7.6,usp000e8ys,Banda Sea
+4879,2006,2006-02-02,-17.747,-178.39,597.5,6.7,usp000e9aq,Fiji region
+4883,2006,2006-02-22,-21.324,33.583,11.0,7.0,usp000eamh,Mozambique
+4895,2006,2006-03-14,-3.595,127.214,30.1,6.7,usp000ec4d,"Seram, Indonesia"
+4908,2006,2006-04-20,60.949,167.089,22.0,7.6,usp000ef1h,"near the east coast of Koryakskiy Avtonomnyy Okrug, Russia"
+4914,2006,2006-04-29,60.491,167.516,11.0,6.6,usp000efs5,"near the east coast of Koryakskiy Avtonomnyy Okrug, Russia"
+4916,2006,2006-04-30,-27.017,-71.022,12.0,6.7,usp000efv7,"offshore Atacama, Chile"
+4919,2006,2006-05-03,-20.187,-174.123,55.0,8.0,usp000eg5g,Tonga
+4924,2006,2006-05-16,-31.81,-179.307,152.0,7.4,usp000eh87,Kermadec Islands region
+4925,2006,2006-05-16,0.093,97.05,12.0,6.8,usp000eh8s,"Nias region, Indonesia"
+4929,2006,2006-05-22,60.772,165.743,19.0,6.6,usp000ehph,"near the east coast of Koryakskiy Avtonomnyy Okrug, Russia"
+4948,2006,2006-07-08,51.214,-179.312,22.0,6.6,usp000en5e,"Andreanof Islands, Aleutian Islands, Alaska"
+4950,2006,2006-07-17,-9.284,107.419,20.0,7.7,usp000ensm,"south of Java, Indonesia"
+4957,2006,2006-08-07,-15.798,167.789,150.0,6.8,usp000eqf9,Vanuatu
+4962,2006,2006-08-20,-61.029,-34.371,13.0,7.0,usp000erc2,Scotia Sea
+4964,2006,2006-08-25,-24.403,-67.028,184.0,6.6,usp000erpk,"Salta, Argentina"
+4965,2006,2006-09-01,-6.759,155.512,38.0,6.8,usp000es7n,"Bougainville region, Papua New Guinea"
+4972,2006,2006-09-28,-16.592,-172.033,28.0,6.9,usp000etzf,Samoa Islands region
+4975,2006,2006-09-30,46.351,153.166,11.0,6.6,usp000eu5f,Kuril Islands
+4983,2006,2006-10-15,19.878,-155.935,38.9,6.7,usp000ev94,"Hawaii region, Hawaii"
+4985,2006,2006-10-17,-5.881,150.982,32.0,6.7,usp000evbu,"New Britain region, Papua New Guinea"
+4987,2006,2006-10-20,-13.457,-76.677,23.0,6.7,usp000evkn,near the coast of central Peru
+4993,2006,2006-11-07,-6.482,151.195,11.0,6.6,usp000ewu6,"New Britain region, Papua New Guinea"
+4995,2006,2006-11-13,-26.052,-63.283,572.0,6.8,usp000ex8r,"Santiago Del Estero, Argentina"
+4998,2006,2006-11-15,46.592,153.266,10.0,8.3,usp000exfn,Kuril Islands
+5003,2006,2006-11-15,46.483,154.726,10.0,6.7,usp000exg0,east of the Kuril Islands
+5018,2006,2006-12-26,21.799,120.547,10.0,7.1,usp000f114,Taiwan region
+5019,2006,2006-12-26,21.974,120.493,10.0,6.9,usp000f115,Taiwan region
+5022,2006,2006-12-30,13.313,51.365,15.0,6.6,usp000f1ab,Gulf of Aden
+5027,2007,2007-01-13,46.243,154.524,10.0,8.1,usp000f2ab,east of the Kuril Islands
+5032,2007,2007-01-21,1.065,126.282,22.0,7.5,usp000f34b,Molucca Sea
+5035,2007,2007-01-30,-54.74,146.298,11.0,6.9,usp000f3xh,west of Macquarie Island
+5036,2007,2007-01-30,20.98,144.705,20.0,6.6,usp000f3za,"Maug Islands region, Northern Mariana Islands"
+5043,2007,2007-02-20,-1.034,126.976,12.0,6.7,usp000f57a,"Kepulauan Sula, Indonesia"
+5057,2007,2007-03-25,-20.617,169.357,34.0,7.1,usp000f7b4,Vanuatu
+5058,2007,2007-03-25,37.336,136.588,8.0,6.7,usp000f7b5,"near the west coast of Honshu, Japan"
+5059,2007,2007-03-25,-20.754,169.354,35.0,6.9,usp000f7b9,Vanuatu
+5061,2007,2007-04-01,-8.466,157.043,24.0,8.1,usp000f83m,Solomon Islands
+5063,2007,2007-04-01,-7.169,155.777,10.0,6.6,usp000f83p,Solomon Islands
+5064,2007,2007-04-01,-7.306,155.741,10.0,6.9,usp000f83w,Solomon Islands
+5105,2007,2007-06-13,13.554,-90.618,23.0,6.7,usp000fdyv,offshore Guatemala
+5109,2007,2007-06-28,-7.979,154.635,18.0,6.7,usp000ff08,"Bougainville region, Papua New Guinea"
+5116,2007,2007-07-16,37.535,138.446,12.0,6.6,usp000fg9t,"near the west coast of Honshu, Japan"
+5117,2007,2007-07-16,36.808,134.85,350.4,6.8,usp000fgc3,Sea of Japan
+5123,2007,2007-07-26,2.872,127.464,25.0,6.9,usp000fh3s,Molucca Sea
+5126,2007,2007-08-01,-15.595,167.68,120.0,7.2,usp000fhm9,Vanuatu
+5128,2007,2007-08-02,51.307,-179.971,21.0,6.7,usp000fhn5,"Andreanof Islands, Aleutian Islands, Alaska"
+5133,2007,2007-08-08,-5.859,107.419,280.0,7.5,usp000fj6k,"Java, Indonesia"
+5137,2007,2007-08-15,-13.386,-76.603,39.0,8.0,usp000fjta,near the coast of central Peru
+5147,2007,2007-09-02,-11.61,165.762,35.0,7.2,usp000fm6b,Santa Cruz Islands
+5151,2007,2007-09-10,2.966,-77.963,15.0,6.8,usp000fmtk,near the west coast of Colombia
+5152,2007,2007-09-12,-4.438,101.367,34.0,8.4,official20070912111026830_34,"southern Sumatra, Indonesia"
+5153,2007,2007-09-12,-2.625,100.841,35.0,7.9,usp000fn2b,"Kepulauan Mentawai region, Indonesia"
+5155,2007,2007-09-13,-2.13,99.627,22.0,7.0,usp000fn3d,"Kepulauan Mentawai region, Indonesia"
+5161,2007,2007-09-20,-1.999,100.141,30.0,6.7,usp000fnrx,"southern Sumatra, Indonesia"
+5163,2007,2007-09-26,-4.99,153.5,40.0,6.8,usp000fp59,"New Ireland region, Papua New Guinea"
+5168,2007,2007-09-28,22.013,142.668,260.0,7.5,usp000fpca,"Volcano Islands, Japan region"
+5170,2007,2007-09-30,10.454,145.718,14.0,6.9,usp000fpg6,south of the Mariana Islands
+5171,2007,2007-09-30,-49.271,164.115,10.0,7.4,usp000fpgq,"Auckland Islands, New Zealand region"
+5172,2007,2007-09-30,-49.138,164.11,18.0,6.6,usp000fphp,"Auckland Islands, New Zealand region"
+5179,2007,2007-10-15,-44.796,167.553,18.0,6.8,usp000fqks,South Island of New Zealand
+5181,2007,2007-10-16,-25.775,179.53,509.3,6.6,usp000fqqn,south of the Fiji Islands
+5183,2007,2007-10-24,-3.899,101.02,21.0,6.8,usp000fr6r,"southern Sumatra, Indonesia"
+5185,2007,2007-10-31,18.9,145.388,207.0,7.2,usp000frnh,"Pagan region, Northern Mariana Islands"
+5188,2007,2007-11-10,-51.777,161.318,10.0,6.6,usp000fs9s,north of Macquarie Island
+5189,2007,2007-11-14,-22.247,-69.89,40.0,7.7,usp000fshy,"Antofagasta, Chile"
+5191,2007,2007-11-15,-22.925,-70.237,26.0,6.8,usp000fsmf,"Antofagasta, Chile"
+5192,2007,2007-11-16,-2.312,-77.838,122.9,6.8,usp000fsnz,Peru-Ecuador border region
+5198,2007,2007-11-22,-5.757,147.098,53.0,6.8,usp000ft2k,"eastern New Guinea region, Papua New Guinea"
+5202,2007,2007-11-27,-10.95,162.149,16.0,6.6,usp000ftdp,Solomon Islands
+5204,2007,2007-11-29,14.944,-61.274,156.0,7.4,usp000ftj1,"Martinique region, Windward Islands"
+5205,2007,2007-12-09,-25.996,-177.514,152.5,7.8,usp000fu3q,south of the Fiji Islands
+5211,2007,2007-12-16,-22.954,-70.182,45.0,6.7,usp000fujd,"Antofagasta, Chile"
+5212,2007,2007-12-19,51.36,-179.509,34.0,7.2,usp000fuse,"Andreanof Islands, Aleutian Islands, Alaska"
+5213,2007,2007-12-20,-39.011,178.291,20.0,6.6,usp000fuvt,off the east coast of the North Island of New Zealand
+5221,2008,2008-01-05,51.254,-130.746,15.0,6.6,usp000fw0w,"Haida Gwaii Region, Canada"
+5235,2008,2008-02-08,10.671,-41.899,9.0,6.9,usp000fyep,northern Mid-Atlantic Ridge
+5237,2008,2008-02-10,-60.797,-25.586,8.0,6.6,usp000fykt,South Sandwich Islands region
+5240,2008,2008-02-14,36.501,21.67,29.0,6.9,usp000fyw4,southern Greece
+5243,2008,2008-02-20,2.768,95.964,26.0,7.4,usp000fzau,"Simeulue, Indonesia"
+5246,2008,2008-02-23,-57.335,-23.433,14.0,6.8,usp000fzsd,South Sandwich Islands region
+5248,2008,2008-02-25,-2.486,99.972,25.0,7.2,usp000fzx4,"Kepulauan Mentawai region, Indonesia"
+5249,2008,2008-02-25,-2.332,99.891,25.0,6.6,usp000fzy8,"Kepulauan Mentawai region, Indonesia"
+5250,2008,2008-02-25,-2.245,99.808,25.0,6.7,usp000fzyk,"Kepulauan Mentawai region, Indonesia"
+5255,2008,2008-03-03,13.351,125.63,24.0,6.9,usp000g0k9,Philippine Islands region
+5263,2008,2008-03-20,35.49,81.467,10.0,7.2,usp000g1w2,Xinjiang-Xizang border region
+5269,2008,2008-04-09,-20.071,168.892,33.0,7.3,usp000g3eq,"Loyalty Islands, New Caledonia"
+5272,2008,2008-04-12,-55.664,158.453,16.0,7.1,usp000g3q9,Macquarie Island region
+5277,2008,2008-04-16,51.878,-179.165,13.0,6.6,usp000g41s,"Andreanof Islands, Aleutian Islands, Alaska"
+5288,2008,2008-05-02,51.864,-177.528,14.0,6.6,usp000g59v,"Andreanof Islands, Aleutian Islands, Alaska"
+5291,2008,2008-05-07,36.164,141.526,27.0,6.9,usp000g5rx,"near the east coast of Honshu, Japan"
+5292,2008,2008-05-09,12.516,143.181,76.0,6.8,usp000g5yf,Guam region
+5293,2008,2008-05-12,31.002,103.322,19.0,7.9,usp000g650,"eastern Sichuan, China"
+5309,2008,2008-06-13,39.03,140.881,7.8,6.9,usp000g9h6,"eastern Honshu, Japan"
+5313,2008,2008-06-27,11.005,91.824,17.0,6.6,usp000gapt,"Andaman Islands, India region"
+5316,2008,2008-06-30,-58.227,-22.099,8.0,7.0,usp000gazv,South Sandwich Islands region
+5318,2008,2008-07-05,53.882,152.886,632.8,7.7,usp000gbc0,Sea of Okhotsk
+5323,2008,2008-07-19,37.552,142.214,22.0,7.0,usp000gcjg,"off the east coast of Honshu, Japan"
+5324,2008,2008-07-19,-11.041,164.493,11.0,6.6,usp000gckc,Santa Cruz Islands region
+5328,2008,2008-07-23,39.802,141.464,108.0,6.8,usp000gczp,"eastern Honshu, Japan"
+5341,2008,2008-08-25,30.901,83.52,12.0,6.7,usp000gfga,western Xizang
+5350,2008,2008-09-08,-13.501,166.967,110.0,6.9,usp000ggp4,Vanuatu
+5352,2008,2008-09-10,8.093,-38.705,9.0,6.6,usp000ggsv,central Mid-Atlantic Ridge
+5353,2008,2008-09-11,1.885,127.363,96.0,6.6,usp000ggu7,"Halmahera, Indonesia"
+5354,2008,2008-09-11,41.892,143.754,25.0,6.8,usp000ggu8,"Hokkaido, Japan region"
+5358,2008,2008-09-29,-29.756,-177.683,36.0,7.0,usp000ghyg,"Kermadec Islands, New Zealand"
+5360,2008,2008-10-05,39.533,73.824,27.4,6.7,usp000gjd4,Kyrgyzstan
+5365,2008,2008-10-16,14.423,-92.364,24.0,6.7,usp000gkde,"offshore Chiapas, Mexico"
+5366,2008,2008-10-19,-21.863,-173.819,29.0,6.9,usp000gkje,Tonga
+5380,2008,2008-11-16,1.271,122.091,30.0,7.4,usp000gnur,"Minahasa, Sulawesi, Indonesia"
+5386,2008,2008-11-24,54.203,154.322,492.3,7.3,usp000gpbs,Sea of Okhotsk
+5390,2008,2008-12-09,-31.232,-176.924,18.0,6.8,usp000gq7y,Kermadec Islands region
+5398,2009,2009-01-03,-0.414,132.885,17.0,7.7,usp000gs2d,"near the north coast of Papua, Indonesia"
+5399,2009,2009-01-03,36.419,70.743,204.8,6.6,usp000gs2v,"Hindu Kush region, Afghanistan"
+5400,2009,2009-01-03,-0.691,133.305,23.0,7.4,usp000gs3t,"near the north coast of Papua, Indonesia"
+5404,2009,2009-01-15,-22.352,170.635,27.0,6.7,usp000gsm5,southeast of the Loyalty Islands
+5405,2009,2009-01-15,46.857,155.154,36.0,7.4,usp000gsmz,east of the Kuril Islands
+5407,2009,2009-01-19,-22.596,170.911,12.0,6.6,usp000gstk,southeast of the Loyalty Islands
+5414,2009,2009-02-11,3.886,126.387,20.0,7.2,usp000gtnc,"Kepulauan Talaud, Indonesia"
+5421,2009,2009-02-18,-27.424,-176.33,25.0,7.0,usp000gu5x,Kermadec Islands region
+5427,2009,2009-03-19,-23.043,-174.66,31.0,7.6,usp000gv5p,Tonga region
+5433,2009,2009-04-07,46.049,151.548,31.0,6.9,usp000gvv4,Kuril Islands
+5435,2009,2009-04-16,-60.203,-26.858,20.0,6.7,usp000gw7m,South Sandwich Islands region
+5437,2009,2009-04-18,46.015,151.427,35.0,6.6,usp000gwbe,Kuril Islands
+5446,2009,2009-05-28,16.731,-86.217,19.0,7.3,usp000gxkj,offshore Honduras
+5454,2009,2009-06-23,-5.157,153.782,64.0,6.7,usp000gyhq,"New Ireland region, Papua New Guinea"
+5463,2009,2009-07-15,-45.762,166.562,12.0,7.8,usp000gz8j,off the west coast of the South Island of New Zealand
+5467,2009,2009-08-03,29.039,-112.903,10.0,6.9,usp000gzyb,"Sonora, Mexico"
+5471,2009,2009-08-09,33.167,137.944,292.0,7.1,usp000h04j,"near the south coast of Honshu, Japan"
+5472,2009,2009-08-10,-11.612,166.09,35.0,6.6,usp000h054,Santa Cruz Islands
+5473,2009,2009-08-10,14.099,92.902,24.0,7.5,usp000h05x,"Andaman Islands, India region"
+5475,2009,2009-08-12,32.821,140.395,53.0,6.6,usp000h093,"Izu Islands, Japan region"
+5476,2009,2009-08-16,-1.479,99.49,20.0,6.7,usp000h0ew,"Kepulauan Mentawai region, Indonesia"
+5477,2009,2009-08-17,23.501,123.499,20.0,6.7,usp000h0gm,"southwestern Ryukyu Islands, Japan"
+5481,2009,2009-08-28,-7.146,123.427,642.4,6.9,usp000h0y7,Banda Sea
+5483,2009,2009-08-30,-15.223,-172.571,11.0,6.6,usp000h121,Samoa Islands region
+5484,2009,2009-09-02,-7.782,107.297,46.0,7.0,usp000h152,"Java, Indonesia"
+5495,2009,2009-09-29,-15.489,-172.095,18.0,8.1,usp000h1ys,Samoa Islands region
+5498,2009,2009-09-30,-0.72,99.867,81.0,7.6,usp000h237,"southern Sumatra, Indonesia"
+5499,2009,2009-10-01,-2.482,101.524,9.0,6.6,usp000h24c,"southern Sumatra, Indonesia"
+5503,2009,2009-10-04,6.74,123.378,620.0,6.6,usp000h2c1,"Moro Gulf, Mindanao, Philippines"
+5504,2009,2009-10-07,4.079,122.371,574.0,6.8,usp000h2g6,Celebes Sea
+5505,2009,2009-10-07,-13.006,166.51,45.0,7.7,usp000h2g9,Vanuatu
+5506,2009,2009-10-07,-12.517,166.382,35.0,7.8,usp000h2gd,Santa Cruz Islands
+5507,2009,2009-10-07,-12.39,166.086,21.0,6.8,usp000h2gj,Santa Cruz Islands
+5508,2009,2009-10-07,-13.093,166.497,31.1,7.4,usp000h2gr,Vanuatu
+5509,2009,2009-10-08,-13.298,165.91,35.0,6.8,usp000h2js,Vanuatu
+5528,2009,2009-10-24,-6.133,130.385,130.0,6.9,usp000h3c5,Banda Sea
+5532,2009,2009-10-30,29.218,129.782,34.0,6.8,usp000h3jp,"Ryukyu Islands, Japan"
+5535,2009,2009-11-08,-8.207,118.631,18.0,6.6,usp000h3vc,"Sumbawa region, Indonesia"
+5536,2009,2009-11-09,-17.239,178.331,595.0,7.3,usp000h3wn,Fiji
+5540,2009,2009-11-17,52.123,-131.395,17.0,6.6,usp000h44s,"Haida Gwaii, Canada"
+5543,2009,2009-11-24,-20.708,-174.035,18.0,6.8,usp000h4cs,Tonga
+5560,2010,2010-01-03,-8.726,157.487,10.0,6.6,usp000h5nd,Solomon Islands
+5561,2010,2010-01-03,-8.783,157.354,10.0,7.1,usp000h5np,Solomon Islands
+5562,2010,2010-01-05,-58.173,-14.695,13.0,6.8,usp000h5ra,east of the South Sandwich Islands
+5563,2010,2010-01-05,-9.019,157.551,15.4,6.8,usp000h5rn,Solomon Islands
+5567,2010,2010-01-12,18.443,-72.571,13.0,7.0,usp000h60h,Haiti region
+5577,2010,2010-02-18,42.587,130.703,577.7,6.9,usp000h7dn,China-Russia-North Korea border region
+5579,2010,2010-02-26,25.93,128.425,25.0,7.0,usp000h7qu,"Ryukyu Islands, Japan"
+5580,2010,2010-02-27,-36.122,-72.898,22.9,8.8,official20100227063411530_30,"offshore Bio-Bio, Chile"
+5585,2010,2010-02-27,-37.773,-75.048,35.0,7.4,usp000h7sq,"off the coast of Bio-Bio, Chile"
+5600,2010,2010-03-05,-36.665,-73.374,18.0,6.6,usp000h8rt,"offshore Bio-Bio, Chile"
+5601,2010,2010-03-05,-3.762,100.991,26.0,6.8,usp000h8s3,"Kepulauan Mentawai region, Indonesia"
+5605,2010,2010-03-11,-34.29,-71.891,11.0,6.9,usp000h94t,"Libertador General Bernardo O'Higgins, Chile"
+5606,2010,2010-03-11,-34.326,-71.799,18.0,7.0,usp000h94v,"Libertador General Bernardo O'Higgins, Chile"
+5611,2010,2010-03-16,-36.217,-73.257,18.0,6.7,usp000h9fs,"offshore Bio-Bio, Chile"
+5612,2010,2010-03-20,-3.361,152.245,414.6,6.6,usp000h9ra,"New Ireland region, Papua New Guinea"
+5616,2010,2010-03-30,13.667,92.831,34.0,6.6,usp000ha59,"Andaman Islands, India region"
+5618,2010,2010-04-04,32.2861667,-115.2953333,9.987,7.2,ci14607652,"12km SW of Delta, B.C., MX"
+5620,2010,2010-04-06,2.383,97.048,31.0,7.8,usp000hat0,"northern Sumatra, Indonesia"
+5623,2010,2010-04-11,-10.878,161.116,21.0,6.9,usp000hb6a,Solomon Islands
+5625,2010,2010-04-13,33.165,96.548,17.0,6.9,usp000hbbt,"southern Qinghai, China"
+5638,2010,2010-05-09,3.748,96.018,38.0,7.2,usp000hchk,"northern Sumatra, Indonesia"
+5646,2010,2010-05-27,-13.698,166.643,31.0,7.2,usp000hd84,Vanuatu
+5652,2010,2010-06-12,7.881,91.936,35.0,7.5,usp000hdwb,"Nicobar Islands, India region"
+5654,2010,2010-06-16,-2.174,136.543,18.0,7.0,usp000he3f,"near the north coast of Papua, Indonesia"
+5655,2010,2010-06-16,-2.329,136.484,10.5,6.6,usp000he3n,"near the north coast of Papua, Indonesia"
+5659,2010,2010-06-26,-10.627,161.447,35.0,6.7,usp000hej3,Solomon Islands
+5666,2010,2010-07-14,-38.067,-73.31,22.0,6.6,usp000hf8z,"Bio-Bio, Chile"
+5667,2010,2010-07-18,52.876,-169.848,14.0,6.7,usp000hfdm,"Fox Islands, Aleutian Islands, Alaska"
+5668,2010,2010-07-18,-5.966,150.428,28.0,6.9,usp000hfka,"New Britain region, Papua New Guinea"
+5669,2010,2010-07-18,-5.931,150.59,35.0,7.3,usp000hfku,"New Britain region, Papua New Guinea"
+5674,2010,2010-07-23,6.718,123.409,607.1,7.3,usp000hgmd,"Moro Gulf, Mindanao, Philippines"
+5675,2010,2010-07-23,6.497,123.48,578.0,7.6,usp000hgmh,"Moro Gulf, Mindanao, Philippines"
+5676,2010,2010-07-23,6.776,123.259,640.6,7.5,usp000hgmq,"Moro Gulf, Mindanao, Philippines"
+5677,2010,2010-07-24,6.218,123.519,553.0,6.6,usp000hgnj,"Moro Gulf, Mindanao, Philippines"
+5678,2010,2010-07-29,6.548,123.222,618.0,6.6,usp000hh3f,"Moro Gulf, Mindanao, Philippines"
+5684,2010,2010-08-04,-5.746,150.765,44.0,7.0,usp000hhhx,"New Britain region, Papua New Guinea"
+5686,2010,2010-08-10,-17.541,168.069,25.0,7.3,usp000hhuc,Vanuatu
+5687,2010,2010-08-12,-1.266,-77.306,206.7,7.1,usp000hj05,Ecuador
+5688,2010,2010-08-13,12.487,141.474,16.0,6.9,usp000hj2j,Mariana Islands region
+5690,2010,2010-08-14,12.273,141.429,13.0,6.6,usp000hj6r,Mariana Islands region
+5698,2010,2010-09-03,-43.522,171.83,12.0,7.0,usp000hk46,South Island of New Zealand
+5706,2010,2010-09-29,-4.963,133.76,26.0,7.0,usp000hmbq,"near the south coast of Papua, Indonesia"
+5711,2010,2010-10-21,24.696,-109.156,13.0,6.7,usp000hncm,Gulf of California
+5712,2010,2010-10-25,-3.487,100.082,20.1,7.8,usp000hnj4,"Kepulauan Mentawai region, Indonesia"
+5720,2010,2010-11-30,28.349,139.187,470.0,6.8,usp000hqaw,"Bonin Islands, Japan region"
+5722,2010,2010-12-02,-6.001,149.977,33.0,6.6,usp000hqdx,"New Britain region, Papua New Guinea"
+5726,2010,2010-12-20,28.412,59.18,12.0,6.7,usp000hr7k,southeastern Iran
+5727,2010,2010-12-21,26.901,143.698,14.0,7.4,usp000hr97,"Bonin Islands, Japan region"
+5730,2010,2010-12-25,-19.702,167.947,16.0,7.3,usp000hrw0,Vanuatu region
+5734,2011,2011-01-01,-26.803,-63.136,576.8,7.0,usp000hsdc,"Santiago Del Estero, Argentina"
+5735,2011,2011-01-02,-38.355,-73.326,24.0,7.2,usp000hsfq,"Araucania, Chile"
+5740,2011,2011-01-13,-20.628,168.471,9.0,7.0,usp000ht15,"Loyalty Islands, New Caledonia"
+5742,2011,2011-01-18,28.777,63.951,68.0,7.2,usp000htb4,southwestern Pakistan
+5751,2011,2011-02-10,4.077,123.039,525.0,6.6,usp000huac,Celebes Sea
+5752,2011,2011-02-11,-36.422,-72.96,26.0,6.9,usp000huc2,"offshore Bio-Bio, Chile"
+5756,2011,2011-02-14,-35.38,-72.834,21.0,6.7,usp000hugg,"offshore Maule, Chile"
+5765,2011,2011-03-09,38.435,142.842,32.0,7.3,usp000hvhj,"near the east coast of Honshu, Japan"
+5771,2011,2011-03-11,38.297,142.373,29.0,9.1,official20110311054624120_30,"near the east coast of Honshu, Japan"
+5778,2011,2011-03-11,38.969,143.37,2.8,6.7,usp000hvp5,"off the east coast of Honshu, Japan"
+5782,2011,2011-03-11,36.281,141.111,42.6,7.9,usp000hvpa,"near the east coast of Honshu, Japan"
+5783,2011,2011-03-11,36.023,142.269,16.0,6.6,usp000hvpc,"off the east coast of Honshu, Japan"
+5787,2011,2011-03-11,38.058,144.59,18.6,7.7,usp000hvpg,"off the east coast of Honshu, Japan"
+5806,2011,2011-03-11,39.241,142.463,25.7,6.6,usp000hvuu,"near the east coast of Honshu, Japan"
+5827,2011,2011-03-24,20.687,99.822,8.0,6.9,usp000hyfx,Myanmar
+5836,2011,2011-04-03,-9.848,107.693,14.0,6.7,usp000hz7h,"south of Java, Indonesia"
+5838,2011,2011-04-07,17.208,-94.338,166.2,6.6,usp000hzf3,"Veracruz, Mexico"
+5839,2011,2011-04-07,38.276,141.588,42.0,7.1,usp000hzf6,"near the east coast of Honshu, Japan"
+5840,2011,2011-04-11,37.001,140.401,11.0,6.6,usp000hzq8,"eastern Honshu, Japan"
+5843,2011,2011-04-18,-34.336,179.874,86.0,6.6,usp000j06q,south of the Kermadec Islands
+5845,2011,2011-04-23,-10.375,161.2,79.0,6.8,usp000j0eh,Solomon Islands
+5849,2011,2011-05-10,-20.244,168.226,11.0,6.8,usp000j1a8,"Loyalty Islands, New Caledonia"
+5860,2011,2011-06-22,39.955,142.205,33.0,6.7,usp000j3k6,"near the east coast of Honshu, Japan"
+5861,2011,2011-06-24,52.05,-171.836,52.0,7.3,usp000j3mq,"Fox Islands, Aleutian Islands, Alaska"
+5864,2011,2011-07-06,-29.539,-176.34,17.0,7.6,usp000j48h,Kermadec Islands region
+5867,2011,2011-07-10,38.034,143.264,23.0,7.0,usp000j4gp,"off the east coast of Honshu, Japan"
+5879,2011,2011-07-29,-23.801,179.751,532.0,6.7,usp000j5nv,south of the Fiji Islands
+5882,2011,2011-07-31,-3.518,144.828,10.0,6.6,usp000j5t4,"near the north coast of New Guinea, Papua New Guinea"
+5889,2011,2011-08-20,-18.365,168.143,32.0,7.2,usp000j6r4,Vanuatu
+5891,2011,2011-08-20,-18.311,168.218,28.0,7.1,usp000j6rj,Vanuatu
+5893,2011,2011-08-24,-7.641,-74.525,147.0,7.0,usp000j6z8,northern Peru
+5895,2011,2011-08-30,-6.362,126.752,469.8,6.9,usp000j78h,Banda Sea
+5897,2011,2011-09-02,52.171,-171.708,32.0,6.9,usp000j7dc,"Fox Islands, Aleutian Islands, Alaska"
+5898,2011,2011-09-02,-28.398,-63.029,578.9,6.7,usp000j7ee,"Santiago Del Estero, Argentina"
+5900,2011,2011-09-03,-20.671,169.716,185.1,7.0,usp000j7jb,Vanuatu
+5902,2011,2011-09-05,2.965,97.893,91.0,6.7,usp000j7nn,"northern Sumatra, Indonesia"
+5907,2011,2011-09-15,-21.611,-179.528,644.6,7.3,usp000j83e,Fiji region
+5908,2011,2011-09-16,40.273,142.779,30.0,6.7,usp000j84y,"near the east coast of Honshu, Japan"
+5909,2011,2011-09-18,27.73,88.155,50.0,6.9,usp000j88b,"Sikkim, India"
+5917,2011,2011-10-21,-28.993,-176.238,33.0,7.4,usp000j9nm,Kermadec Islands region
+5918,2011,2011-10-23,38.721,43.508,18.0,7.1,usp000j9rr,eastern Turkey
+5920,2011,2011-10-28,-14.438,-75.966,24.0,6.9,usp000ja1p,near the coast of central Peru
+5924,2011,2011-11-08,27.324,125.621,224.9,6.9,usp000jajd,northeast of Taiwan
+5928,2011,2011-11-22,-15.364,-65.09,549.9,6.6,usp000jb98,"Beni, Bolivia"
+5937,2011,2011-12-14,-7.551,146.809,135.0,7.1,usp000jc5z,"eastern New Guinea region, Papua New Guinea"
+5940,2011,2011-12-27,51.842,95.911,15.0,6.6,usp000jcq2,"southwestern Siberia, Russia"
+5941,2012,2012-01-01,31.456,138.072,365.3,6.8,usp000jcws,"Izu Islands, Japan region"
+5943,2012,2012-01-10,2.433,93.21,19.0,7.2,usp000jdar,off the west coast of northern Sumatra
+5944,2012,2012-01-15,-60.948,-56.113,8.0,6.6,usp000jdhq,South Shetland Islands
+5951,2012,2012-02-02,-17.827,167.133,23.0,7.1,usp000jeag,Vanuatu
+5955,2012,2012-02-06,9.999,123.206,11.0,6.7,usp000jejw,"Negros - Cebu region, Philippines"
+5959,2012,2012-02-26,51.708,95.991,12.0,6.7,usp000jfdj,"southwestern Siberia, Russia"
+5960,2012,2012-03-03,-22.141,170.34,14.0,6.6,usp000jfqx,southeast of the Loyalty Islands
+5962,2012,2012-03-09,-19.125,169.613,16.0,6.7,usp000jfzj,Vanuatu
+5963,2012,2012-03-14,40.887,144.944,12.0,6.9,usp000jg7e,"off the east coast of Honshu, Japan"
+5968,2012,2012-03-20,16.493,-98.231,20.0,7.4,usp000jghj,"Oaxaca, Mexico"
+5969,2012,2012-03-21,-6.242,145.955,118.0,6.6,usp000jgm3,"New Guinea, Papua New Guinea"
+5970,2012,2012-03-25,-35.2,-72.217,40.7,7.1,usp000jgsw,"Maule, Chile"
+5975,2012,2012-04-11,2.327,93.063,20.0,8.6,official20120411083836720_20,off the west coast of northern Sumatra
+5977,2012,2012-04-11,0.802,92.463,25.1,8.2,usp000jhjb,off the west coast of northern Sumatra
+5981,2012,2012-04-12,28.696,-113.104,13.0,7.0,usp000jhr6,"Baja California, Mexico"
+5985,2012,2012-04-17,-32.625,-71.365,29.0,6.7,usp000jj3u,"Valparaiso, Chile"
+5986,2012,2012-04-17,-5.462,147.117,198.0,6.8,usp000jj41,"eastern New Guinea region, Papua New Guinea"
+5988,2012,2012-04-21,-1.617,134.276,16.0,6.7,usp000jjaq,"near the north coast of Papua, Indonesia"
+5991,2012,2012-04-28,-18.685,-174.705,134.7,6.6,usp000jjqf,Tonga
+6000,2012,2012-05-28,-28.043,-63.094,586.9,6.7,usp000jm15,"Santiago Del Estero, Argentina"
+6018,2012,2012-07-26,-17.592,66.391,20.0,6.7,usp000jpfh,Mauritius - Reunion region
+6026,2012,2012-08-14,49.8,145.064,583.2,7.7,usp000jq9h,Sea of Okhotsk
+6029,2012,2012-08-26,2.19,126.837,91.1,6.6,usp000jqrz,Molucca Sea
+6030,2012,2012-08-27,12.139,-88.59,28.0,7.3,usp000jqvm,off the coast of El Salvador
+6031,2012,2012-08-30,71.441,-10.605,14.0,6.8,usp000jr55,Jan Mayen Island region
+6032,2012,2012-08-31,10.811,126.638,28.0,7.6,usp000jr83,Philippine Islands region
+6035,2012,2012-09-05,10.085,-85.315,35.0,7.6,usp000jrsw,Costa Rica
+6040,2012,2012-09-30,1.929,-76.362,170.0,7.3,usp000jta1,Colombia
+6043,2012,2012-10-09,-60.326,153.699,10.0,6.6,usp000jtsk,west of Macquarie Island
+6044,2012,2012-10-12,-4.892,134.03,13.0,6.6,usp000jtvw,"near the south coast of Papua, Indonesia"
+6048,2012,2012-10-28,52.788,-132.101,14.0,7.8,usp000juhz,"Haida Gwaii, Canada"
+6052,2012,2012-11-07,13.988,-91.895,24.0,7.4,usp000jv5f,offshore Guatemala
+6055,2012,2012-11-11,23.005,95.885,13.7,6.8,usp000jvbq,Myanmar
+6064,2012,2012-12-07,37.89,143.949,31.0,7.3,usp000jwjn,"off the east coast of Honshu, Japan"
+6067,2012,2012-12-10,-6.533,129.825,155.0,7.1,usp000jwt8,Banda Sea
+6073,2012,2012-12-21,-14.344,167.286,200.7,6.7,usp000jx85,Vanuatu
+6074,2013,2013-01-05,55.393,-134.652,10.0,7.5,usp000jxum,Southeastern Alaska
+6078,2013,2013-01-30,-28.094,-70.653,45.0,6.8,usc000eyp3,"56km NNE of Vallenar, Chile"
+6084,2013,2013-02-02,42.77,143.092,107.0,6.9,usc000f03a,"19km SSW of Obihiro, Japan"
+6087,2013,2013-02-06,-10.799,165.114,24.0,8.0,usc000f1s0,"76km W of Lata, Solomon Islands"
+6088,2013,2013-02-06,-11.183,164.882,10.0,7.1,usc000f1se,"114km WSW of Lata, Solomon Islands"
+6089,2013,2013-02-06,-10.499,165.588,8.8,7.0,usc000f1ts,"27km NNW of Lata, Solomon Islands"
+6094,2013,2013-02-07,-10.997,165.655,11.0,6.7,usc000f3fx,"36km SSW of Lata, Solomon Islands"
+6095,2013,2013-02-08,-10.838,165.969,12.0,6.8,usc000f3x8,"21km SSE of Lata, Solomon Islands"
+6096,2013,2013-02-08,-10.928,166.018,21.0,7.1,usc000f40j,"31km SE of Lata, Solomon Islands"
+6097,2013,2013-02-09,1.135,-77.393,145.0,6.9,usc000f4ij,"2km N of Yacuanquer, Colombia"
+6098,2013,2013-02-09,-10.994,165.741,18.0,6.6,usc000f4n5,"25km S of Lata, Solomon Islands"
+6100,2013,2013-02-14,67.631,142.508,11.0,6.6,usc000f76f,"135km WSW of Druzhina, Russia"
+6103,2013,2013-02-28,50.954,157.283,41.0,6.9,usc000febi,"84km SE of Ozernovskiy, Russia"
+6111,2013,2013-04-06,-3.517,138.476,66.0,7.0,usb000g13s,"240km E of Enarotali, Indonesia"
+6114,2013,2013-04-14,-6.475,154.607,31.0,6.6,usb000g6lc,"98km W of Panguna, Papua New Guinea"
+6115,2013,2013-04-16,28.033,61.996,80.0,7.7,usb000g7x7,"83km E of Khash, Iran"
+6116,2013,2013-04-16,-3.214,142.542,13.0,6.6,usb000g8my,"23km ESE of Aitape, Papua New Guinea"
+6117,2013,2013-04-19,46.221,150.788,110.0,7.2,usb000gbf8,"251km ENE of Kuril'sk, Russia"
+6119,2013,2013-04-20,30.308,102.888,14.0,6.6,usb000gcdd,"56km WSW of Linqiong, China"
+6128,2013,2013-05-14,18.728,145.288,602.2,6.8,usc000gw27,"40km W of Agrihan, Northern Mariana Islands"
+6134,2013,2013-05-23,-23.009,-177.232,173.7,7.4,usb000h3k3,"282km SW of Vaini, Tonga"
+6136,2013,2013-05-24,54.892,153.221,598.1,8.3,usb000h4jh,Sea of Okhotsk
+6137,2013,2013-05-24,52.235,151.444,624.0,6.7,usb000h543,Sea of Okhotsk
+6140,2013,2013-06-13,-10.004,107.236,9.0,6.7,usc000hpsd,"177km ENE of Flying Fish Cove, Christmas Island"
+6145,2013,2013-06-24,10.701,-42.594,10.0,6.6,usc000hzfk,Northern Mid-Atlantic Ridge
+6149,2013,2013-07-07,-3.917,153.927,385.5,7.3,usb000i89z,"115km ENE of Taron, Papua New Guinea"
+6150,2013,2013-07-07,-6.029,149.706,56.0,6.6,usb000i8ey,"29km NE of Kandrian, Papua New Guinea"
+6151,2013,2013-07-15,-60.857,-25.07,11.0,7.3,usb000ief9,"218km SSE of Bristol Island, South Sandwich Islands"
+6161,2013,2013-08-13,5.7732,-78.1999,12.0,6.7,usb000j275,"101km WSW of Mutis, Colombia"
+6166,2013,2013-08-30,51.537,-175.2297,29.0,7.0,usb000jdt7,"101km SW of Atka, Alaska"
+6179,2013,2013-09-24,26.951,65.5009,15.0,7.7,usb000jyiv,"61km NNE of Awaran, Pakistan"
+6181,2013,2013-09-25,-15.8385,-74.5112,40.0,7.1,usb000jzma,"46km SSE of Acari, Peru"
+6182,2013,2013-09-28,27.1825,65.5052,12.0,6.8,usb000k1gb,"85km NNE of Awaran, Pakistan"
+6184,2013,2013-10-01,53.1995,152.7864,573.0,6.7,usb000k3c1,Sea of Okhotsk
+6190,2013,2013-10-12,35.5142,23.2523,40.0,6.6,usb000kbn7,"31km W of Platanos, Greece"
+6191,2013,2013-10-15,9.8796,124.1167,19.04,7.1,usb000kdb4,"4km SE of Sagbayan, Philippines"
+6192,2013,2013-10-16,-6.4456,154.931,35.0,6.8,usb000kemb,"62km WSW of Panguna, Papua New Guinea"
+6193,2013,2013-10-19,26.0913,-110.3209,9.45,6.6,usb000khbc,"99km SW of Etchoropo, Mexico"
+6195,2013,2013-10-24,-58.153,-12.7964,22.87,6.7,usc000kmfw,East of the South Sandwich Islands
+6196,2013,2013-10-25,37.1557,144.6611,35.0,7.1,usc000kn4n,"Off the east coast of Honshu, Japan"
+6199,2013,2013-10-31,-30.2921,-71.5215,27.0,6.6,usb000kqnc,"41km SSW of Coquimbo, Chile"
+6204,2013,2013-11-16,-60.2627,-47.0621,9.97,6.9,usb000kznc,Scotia Sea
+6205,2013,2013-11-17,-60.2738,-46.4011,10.0,7.7,usb000l0gq,Scotia Sea
+6210,2013,2013-11-25,-53.9451,-55.0033,11.78,7.0,usb000l5zn,Falkland Islands region
+6227,2014,2014-02-12,35.9053,82.5864,10.0,6.9,usc000mnvj,"272km ESE of Hotan, China"
+6234,2014,2014-03-10,40.8286667,-125.1338333,16.441,6.8,nc72182046,"78km WNW of Ferndale, California"
+6240,2014,2014-03-16,-19.9807,-70.7022,20.0,6.7,usc000ndnj,"64km WNW of Iquique, Chile"
+6247,2014,2014-04-01,-19.6097,-70.7691,25.0,8.2,usc000nzvd,"94km NW of Iquique, Chile"
+6248,2014,2014-04-01,-19.8927,-70.9455,28.42,6.9,usc000nzwm,"91km WNW of Iquique, Chile"
+6251,2014,2014-04-03,-20.5709,-70.4931,22.4,7.7,usc000p27i,"53km SW of Iquique, Chile"
+6257,2014,2014-04-11,-6.5858,155.0485,60.53,7.1,usc000pft9,"56km WSW of Panguna, Papua New Guinea"
+6259,2014,2014-04-11,11.642,-85.8779,135.0,6.6,usc000pgsi,"15km N of Belen, Nicaragua"
+6261,2014,2014-04-12,-11.2701,162.1481,22.56,7.6,usc000phx5,"93km SSE of Kirakira, Solomon Islands"
+6262,2014,2014-04-13,-11.4633,162.0511,39.0,7.4,usc000piqj,"112km S of Kirakira, Solomon Islands"
+6263,2014,2014-04-13,-11.1284,162.052,10.0,6.6,usc000pish,"75km S of Kirakira, Solomon Islands"
+6264,2014,2014-04-15,-53.4967,8.722,11.18,6.8,usb000pkxl,Bouvet Island region
+6267,2014,2014-04-18,17.397,-100.9723,24.0,7.2,usb000pq41,"33km ESE of Petatlan, Mexico"
+6268,2014,2014-04-19,-6.6558,155.0869,29.0,6.6,usb000pqwe,"57km SW of Panguna, Papua New Guinea"
+6269,2014,2014-04-19,-6.7547,155.0241,43.37,7.5,usb000pr89,"70km SW of Panguna, Papua New Guinea"
+6273,2014,2014-05-01,-21.4542,170.3546,106.0,6.6,usb000q66s,"204km WNW of Ile Hunter, New Caledonia"
+6274,2014,2014-05-04,-24.6108,179.0856,527.0,6.6,usb000q98a,South of the Fiji Islands
+6289,2014,2014-05-24,40.2893,25.3889,6.43,6.9,usb000r2hc,"22km SSW of Kamariotissa, Greece"
+6293,2014,2014-06-23,-29.9772,-177.7247,20.0,6.9,usc000rkg5,"80km SSE of Raoul Island, New Zealand"
+6295,2014,2014-06-23,-29.9414,-177.6073,26.59,6.7,usc000rkhj,"79km SSE of Raoul Island, New Zealand"
+6296,2014,2014-06-23,51.8486,178.7352,109.0,7.9,usc000rki5,"19km SE of Little Sitkin Island, Alaska"
+6302,2014,2014-06-29,-55.4703,-28.3669,8.0,6.9,usc000rngj,"154km NNW of Visokoi Island, "
+6305,2014,2014-06-29,-14.9831,-175.5096,18.0,6.7,usc000rnku,"201km SSE of Mata-Utu, Wallis and Futuna"
+6311,2014,2014-07-07,14.724,-92.4614,53.0,6.9,usc000rr6a,"4km W of Puerto Madero, Mexico"
+6319,2014,2014-07-21,-19.8015,-178.4001,615.42,6.9,usb000ruzk,"99km NNE of Ndoi Island, Fiji"
+6324,2014,2014-08-03,0.8295,146.1688,13.0,6.9,usb000rzki,Federated States of Micronesia region
+6332,2014,2014-08-24,-14.598,-73.5714,101.0,6.8,usb000s5x1,"43km ENE of Tambo, Peru"
+6337,2014,2014-09-17,13.7641,144.4294,130.0,6.7,usb000sdcr,"43km NW of Piti Village, Guam"
+6344,2014,2014-10-09,-32.1082,-110.8112,16.54,7.0,usb000sk6k,Southern East Pacific Rise
+6345,2014,2014-10-09,-32.0953,-110.8647,10.0,6.6,usb000sk6q,Southern East Pacific Rise
+6347,2014,2014-10-14,12.5262,-88.1225,40.0,7.3,usb000slwn,"74km S of Intipuca, El Salvador"
+6350,2014,2014-11-01,-19.6903,-177.7587,434.0,7.1,usc000stdc,"144km NE of Ndoi Island, Fiji"
+6353,2014,2014-11-07,-5.9873,148.2315,53.19,6.6,usc000sv94,"79km NNE of Finschhafen, Papua New Guinea"
+6355,2014,2014-11-15,1.8929,126.5217,45.0,7.1,usc000sxh8,"154km NW of Kota Ternate, Indonesia"
+6356,2014,2014-11-16,-37.6478,179.6621,22.0,6.7,usc000sxye,"183km NE of Gisborne, New Zealand"
+6360,2014,2014-11-26,1.9604,126.5751,39.0,6.8,usb000t08w,"157km NW of Kota Ternate, Indonesia"
+6361,2014,2014-12-02,6.1572,123.1261,614.0,6.6,usb000t20t,"106km WSW of Sangay, Philippines"
+6364,2014,2014-12-07,-6.5108,154.4603,23.0,6.6,usc000t4cz,"115km W of Panguna, Papua New Guinea"
+6366,2014,2014-12-08,7.9401,-82.6865,20.0,6.6,usc000t4iq,"22km ESE of Punta de Burica, Panama"
+6372,2015,2015-01-23,-17.0309,168.52,219.96,6.8,usc000tihy,"80km NNE of Port-Vila, Vanuatu"
+6376,2015,2015-02-11,-23.1125,-66.688,223.0,6.7,usc000tp1s,"102km W of El Aguilar, Argentina"
+6377,2015,2015-02-13,52.6487,-31.9016,16.68,7.1,usb000tp5q,Northern Mid-Atlantic Ridge
+6380,2015,2015-02-16,39.8558,142.8808,23.0,6.7,usb000tpvj,"83km ENE of Miyako, Japan"
+6386,2015,2015-02-27,-7.2968,122.5348,552.06,7.0,usc000ttkd,"130km N of Nebe, Indonesia"
+6394,2015,2015-03-29,-4.7294,152.5623,41.0,7.5,us10001rvu,"53km SE of Kokopo, Papua New Guinea"
+6408,2015,2015-04-25,28.2305,84.7314,8.22,7.8,us20002926,"36km E of Khudi, Nepal"
+6410,2015,2015-04-25,28.2244,84.8216,10.0,6.6,us2000292y,"44km E of Lamjung, Nepal"
+6411,2015,2015-04-26,27.7711,86.0173,22.91,6.7,us200029bt,"21km SSE of Kodari, Nepal"
+6413,2015,2015-04-30,-5.375,151.7706,31.0,6.7,us20002ag9,"125km SSW of Kokopo, Papua New Guinea"
+6414,2015,2015-05-01,-5.2005,151.7773,44.0,6.8,us20002am6,"108km SSW of Kokopo, Papua New Guinea"
+6417,2015,2015-05-05,-5.4624,151.8751,55.0,7.5,us20002bnf,"130km SSW of Kokopo, Papua New Guinea"
+6418,2015,2015-05-07,-7.2175,154.5567,10.0,7.1,us20002das,"143km SW of Panguna, Papua New Guinea"
+6420,2015,2015-05-12,27.8087,86.0655,15.0,7.3,us20002ejl,"19km SE of Kodari, Nepal"
+6422,2015,2015-05-12,38.9056,142.0317,35.0,6.8,us20002et4,"32km SE of Ofunato, Japan"
+6424,2015,2015-05-19,-54.3312,-132.1618,7.2,6.7,us10002aj3,Pacific-Antarctic Ridge
+6426,2015,2015-05-20,-10.8759,164.1694,11.0,6.8,us10002b03,"182km W of Lata, Solomon Islands"
+6427,2015,2015-05-22,-11.0559,163.6959,11.19,6.9,us10002bnk,"205km ESE of Kirakira, Solomon Islands"
+6428,2015,2015-05-22,-11.1093,163.2154,10.0,6.8,us10002bpw,"159km ESE of Kirakira, Solomon Islands"
+6431,2015,2015-05-29,56.594,-156.43,72.6,6.7,ak11610140,"99km NNW of Chirikof Island, Alaska"
+6432,2015,2015-05-30,27.8386,140.4931,664.0,7.8,us20002ki3,"189km WNW of Chichi-shima, Japan"
+6439,2015,2015-06-17,-35.3639,-17.1605,10.0,7.0,us20002qn7,Southern Mid-Atlantic Ridge
+6449,2015,2015-07-10,-9.307,158.403,12.0,6.7,us20002whh,"155km SSW of Dadali, Solomon Islands"
+6451,2015,2015-07-18,-10.4012,165.1409,11.0,7.0,us20002yaw,"83km WNW of Lata, Solomon Islands"
+6452,2015,2015-07-27,52.376,-169.4458,29.0,6.9,us200030aq,"73km SSW of Nikolski, Alaska"
+6453,2015,2015-07-27,-2.6286,138.5277,48.0,7.0,us200030kn,"228km W of Abepura, Indonesia"
+6456,2015,2015-08-10,-9.3438,158.0525,22.0,6.6,us100030pg,"179km SW of Dadali, Solomon Islands"
+6465,2015,2015-09-13,24.913,-109.6226,10.0,6.7,us20003j4u,"95km SW of Topolobampo, Mexico"
+6468,2015,2015-09-16,-31.5729,-71.6744,22.44,8.3,us20003k7a,"48km W of Illapel, Chile"
+6472,2015,2015-09-16,-31.5622,-71.4262,28.41,7.0,us20003k7w,"25km WNW of Illapel, Chile"
+6475,2015,2015-09-17,-31.5173,-71.804,23.0,6.7,us20003kfv,"61km WNW of Illapel, Chile"
+6481,2015,2015-09-21,-31.7275,-71.3792,35.0,6.6,us20003mi0,"22km WSW of Illapel, Chile"
+6483,2015,2015-09-24,-0.6212,131.2622,18.0,6.6,us20003nqr,"29km N of Sorong, Indonesia"
+6488,2015,2015-10-20,-14.8595,167.3028,135.0,7.1,us10003q0q,"34km NE of Port-Olry, Vanuatu"
+6491,2015,2015-10-26,36.5244,70.3676,231.0,7.5,us10003re5,"45km E of Farkhar, Afghanistan"
+6494,2015,2015-11-07,-30.8796,-71.4519,46.0,6.8,us10003vgt,"39km SW of Ovalle, Chile"
+6495,2015,2015-11-08,6.8431,94.648,10.0,6.6,us10003vry,"128km NW of Sabang, Indonesia"
+6497,2015,2015-11-11,-29.5067,-72.0068,12.0,6.9,us10003x8t,"81km NW of Coquimbo, Chile"
+6498,2015,2015-11-11,-29.5097,-72.0585,10.0,6.9,us10003x9g,"84km NW of Coquimbo, Chile"
+6499,2015,2015-11-13,31.0009,128.8729,12.0,6.7,us10003y71,"140km WSW of Makurazaki, Japan"
+6501,2015,2015-11-18,-8.8994,158.4217,12.59,6.8,us10003zcp,"115km SW of Dadali, Solomon Islands"
+6504,2015,2015-11-24,-10.5372,-70.9437,606.21,7.6,us100040ww,"173km WNW of Iberia, Peru"
+6505,2015,2015-11-24,-10.0598,-71.0184,620.56,7.6,us100040x6,"211km S of Tarauaca, Brazil"
+6506,2015,2015-11-26,-9.1825,-71.2574,602.75,6.7,us100041f1,"125km SSW of Tarauaca, Brazil"
+6508,2015,2015-12-04,-47.6165,85.0913,35.0,7.1,us100043z2,Southeast Indian Ridge
+6509,2015,2015-12-07,38.2107,72.7797,22.0,7.2,us100044k6,"104km W of Murghob, Tajikistan"
+6510,2015,2015-12-09,-4.1064,129.5079,21.0,6.9,us20004ft7,"107km SE of Amahai, Indonesia"
+6512,2015,2015-12-17,15.8015,-93.633,85.0,6.6,us100047zq,"12km SW of Tres Picos, Mexico"
+6518,2016,2016-01-03,24.8036,93.6505,55.0,6.7,us10004b2n,"30km W of Imphal, India"
+6523,2016,2016-01-14,41.9723,142.781,46.0,6.7,us10004ebx,"52km SE of Shizunai, Japan"
+6524,2016,2016-01-21,18.8239,-106.9337,10.0,6.6,us10004g4l,"215km SW of Tomatlan, Mexico"
+6525,2016,2016-01-24,59.6363,-153.4051,129.0,7.1,us10004gqp,"86km E of Old Iliamna, Alaska"
+6528,2016,2016-01-30,53.9776,158.5463,177.0,7.2,us20004vvx,"88km N of Yelizovo, Russia"
+6540,2016,2016-03-02,-4.9521,94.3299,24.0,7.8,us10004u1y,"Southwest of Sumatra, Indonesia"
+6546,2016,2016-04-03,-14.3235,166.8551,26.0,6.9,us20005e8t,"83km NNW of Port-Olry, Vanuatu"
+6547,2016,2016-04-06,-14.0683,166.6245,24.0,6.7,us20005fsi,"102km WSW of Sola, Vanuatu"
+6549,2016,2016-04-07,-13.9805,166.5943,27.59,6.7,us20005fzn,"103km W of Sola, Vanuatu"
+6550,2016,2016-04-10,36.4725,71.1311,212.0,6.6,us20005gsg,"42km WSW of Ashkasham, Afghanistan"
+6551,2016,2016-04-13,23.0944,94.8654,136.0,6.9,us20005hqz,"75km SE of Mawlaik, Burma"
+6557,2016,2016-04-15,32.7906,130.7543,10.0,7.0,us20005iis,"1km E of Kumamoto-shi, Japan"
+6558,2016,2016-04-16,0.3819,-79.9218,20.59,7.8,us20005j32,"27km SSE of Muisne, Ecuador"
+6565,2016,2016-04-28,-16.0429,167.3786,24.0,7.0,us10005c88,"2km N of Norsup, Vanuatu"
+6566,2016,2016-04-29,10.2752,-103.7363,10.0,6.6,us10005cc4,Northern East Pacific Rise
+6567,2016,2016-05-18,0.4261,-79.7899,16.0,6.7,us10005i5t,"33km SE of Muisne, Ecuador"
+6568,2016,2016-05-18,0.4947,-79.616,29.95,6.9,us10005i9n,"24km NW of Rosa Zarate, Ecuador"
+6571,2016,2016-05-28,-21.9724,-178.2038,405.69,6.9,us20005yqp,"155km SSE of Ndoi Island, Fiji"
+6572,2016,2016-05-28,-56.2409,-26.9353,78.0,7.2,us20005ysu,"53km NNE of Visokoi Island, South Georgia and the South Sandwich Islands"
+6574,2016,2016-06-01,-2.0967,100.6654,50.0,6.6,us20005zt1,"79km W of Sungaipenuh, Indonesia"
+6595,2016,2016-07-29,18.5429,145.5073,196.0,7.7,us100068jg,"29km SW of Agrihan, Northern Mariana Islands"
+6598,2016,2016-08-12,-22.4765,173.1167,16.37,7.2,us10006d5h,"110km E of Ile Hunter, New Caledonia"
+6601,2016,2016-08-19,-55.2852,-31.8766,10.0,7.4,us10006exl,South Georgia Island region
+6606,2016,2016-08-24,20.9228,94.569,82.0,6.8,us10006gbf,"26km W of Chauk, Burma"
+6607,2016,2016-08-29,-0.0456,-17.8255,10.0,7.1,us20006uy6,North of Ascension Island
+6608,2016,2016-08-31,-3.6849,152.7915,476.0,6.8,us10006iy0,"39km E of Namatanai, Papua New Guinea"
+6609,2016,2016-09-01,-37.3586,179.1461,19.0,7.0,us10006jbi,"175km NE of Gisborne, New Zealand"
+6621,2016,2016-09-24,-19.7819,-178.2443,596.4,6.9,us10006scr,"107km NNE of Ndoi Island, Fiji"
+6623,2016,2016-10-17,-6.0033,148.8871,42.0,6.8,us20007ept,"77km WNW of Kandrian, Papua New Guinea"
+6624,2016,2016-10-19,-4.8626,108.1627,614.0,6.6,us20007f7j,"161km NNE of Pamanukan, Indonesia"
+6629,2016,2016-10-30,42.8621,13.0961,8.0,6.6,us1000731j,"7km N of Norcia, Italy"
+6634,2016,2016-11-13,-42.7373,173.054,15.11,7.8,us1000778i,"54km NNE of Amberley, New Zealand"
+6640,2016,2016-11-21,37.3931,141.387,9.0,6.9,us10007b88,"35km ESE of Namie, Japan"
+6641,2016,2016-11-24,11.9097,-88.8968,10.0,6.9,us10007c4w,"156km SSW of Puerto El Triunfo, El Salvador"
+6642,2016,2016-11-25,39.2732,73.9776,17.0,6.6,us10007ca5,"47km NE of Karakul, Tajikistan"
+6647,2016,2016-12-08,40.4535,-126.1936,8.45,6.6,us20007z6r,"164km W of Ferndale, California"
+6648,2016,2016-12-08,-10.6812,161.3273,40.0,7.8,us20007z80,"69km WSW of Kirakira, Solomon Islands"
+6650,2016,2016-12-09,-10.749,161.1316,19.73,6.9,us20007zlq,"92km WSW of Kirakira, Solomon Islands"
+6653,2016,2016-12-17,-4.5049,153.5216,94.54,7.9,us200081v8,"54km E of Taron, Papua New Guinea"
+6659,2016,2016-12-21,-7.5082,127.9206,152.0,6.7,us10007lkw,"283km ENE of Dili, East Timor"
+6661,2016,2016-12-25,-43.4064,-73.9413,38.0,7.6,us10007mn3,"41km SW of Puerto Quellon, Chile"
+6664,2017,2017-01-03,-19.3733,176.0518,12.0,6.9,us10007pj6,"226km SW of Nadi, Fiji"
+6667,2017,2017-01-10,4.4782,122.6171,627.17,7.3,us10007s9c,"189km SSE of Tabiauan, Philippines"
+6670,2017,2017-01-22,-6.2464,155.1718,135.0,7.9,us10007uph,"35km WNW of Panguna, Papua New Guinea"
+6675,2017,2017-02-24,-23.2593,-178.8036,414.5,6.9,us20008m3t,"289km S of Ndoi Island, Fiji"
+6681,2017,2017-03-29,56.9401,162.7861,17.0,6.6,us20008vhl,"81km NNE of Ust'-Kamchatsk Staryy, Russia"
+6687,2017,2017-04-24,-33.0375,-72.0617,28.0,6.9,us10008kce,"40km W of Valparaiso, Chile"
+6688,2017,2017-04-28,5.5043,125.0658,26.0,6.9,us10008ls4,"31km SW of Burias, Philippines"
+6694,2017,2017-05-09,-14.5884,167.3767,169.0,6.8,us10008qsb,"62km NE of Port-Olry, Vanuatu"
+6699,2017,2017-05-29,-1.2923,120.4313,12.0,6.6,us10008w1z,"28km WNW of Kasiguncu, Indonesia"
+6700,2017,2017-06-02,54.0312,170.9196,5.0,6.8,us20009jd6,"200km NW of Attu Station, Alaska"
+6702,2017,2017-06-14,14.9091,-92.0092,93.0,6.9,us20009mbt,"2km SSW of San Pablo, Guatemala"
+6705,2017,2017-06-22,13.7174,-90.9718,38.12,6.8,us20009p1a,"28km SW of Puerto San Jose, Guatemala"
+6711,2017,2017-07-11,-49.4837,164.0157,10.0,6.6,us100098qm,"204km NW of Auckland Island, New Zealand"
+6714,2017,2017-07-17,54.4434,168.857,10.0,7.7,us20009x42,"202km ESE of Nikol'skoye, Russia"
+6717,2017,2017-07-20,36.9293,27.4139,7.0,6.6,us20009ynd,"11km ENE of Kos, Greece"
+6724,2017,2017-08-18,-1.112,-13.6605,35.0,6.6,us2000a98r,North of Ascension Island
+6731,2017,2017-09-08,15.0222,-93.8993,47.39,8.2,us2000ahv0,"101km SSW of Tres Picos, Mexico"
+6732,2017,2017-09-19,18.5499,-98.4887,48.0,7.1,us2000ar20,"1km E of Ayutla, Mexico"
+6743,2017,2017-10-10,-54.2632,8.6086,9.0,6.7,us1000apql,Bouvet Island region
+6745,2017,2017-10-24,-7.2168,123.0735,553.81,6.7,us1000aw8q,"144km NNE of Palue, Indonesia"
+6746,2017,2017-10-31,-21.6971,169.1485,24.0,6.7,us1000aytk,"131km E of Tadine, New Caledonia"
+6749,2017,2017-11-01,-21.6484,168.8585,22.0,6.6,us1000azjt,"101km E of Tadine, New Caledonia"
+6750,2017,2017-11-04,-15.3197,-173.1682,10.0,6.8,us2000bibm,"93km NE of Hihifo, Tonga"
+6754,2017,2017-11-12,34.9109,45.9592,19.0,7.3,us2000bmcg,"29km S of Halabjah, Iraq"
+6758,2017,2017-11-19,-21.5027,168.5984,13.0,6.6,us2000brgk,"74km E of Tadine, New Caledonia"
+6759,2017,2017-11-19,-21.3246,168.6715,10.0,7.0,us2000brlf,"85km ENE of Tadine, New Caledonia"
+6774,2018,2018-01-10,17.4825,-83.52,19.0,7.5,us1000c2zy,"44km E of Great Swan Island, Honduras"
+6776,2018,2018-01-14,-15.7675,-74.7092,39.0,7.1,us2000cjfy,"38km SSW of Acari, Peru"
+6779,2018,2018-01-23,56.0039,-149.1658,14.06,7.9,us2000cmy3,"280km SE of Kodiak, Alaska"
+6783,2018,2018-01-28,-53.0623,9.6842,10.0,6.6,us2000cqnn,Southwest of Africa
+6790,2018,2018-02-16,16.4169,-97.9579,22.0,7.2,us2000d3km,"2km E of San Pedro Jicayan, Mexico"
+6791,2018,2018-02-25,-6.0699,142.7536,25.21,7.5,us2000d7q6,"83km SW of Porgera, Papua New Guinea"
+6797,2018,2018-03-06,-6.3043,142.6116,20.49,6.7,us2000dcx1,"113km SW of Porgera, Papua New Guinea"
+6798,2018,2018-03-08,-4.3762,153.1996,22.86,6.8,us1000d1kv,"21km ENE of Taron, Papua New Guinea"
+6802,2018,2018-03-26,-5.5024,151.4025,40.0,6.7,us1000d937,"139km E of Kimbe, Papua New Guinea"
+6803,2018,2018-03-29,-5.5321,151.4999,35.0,6.9,us1000db40,"150km E of Kimbe, Papua New Guinea"
+6805,2018,2018-04-02,-20.6588,-63.0058,559.0,6.8,us1000dce2,"11km NNE of Carandayti, Bolivia"
+6811,2018,2018-05-04,19.3702,-155.0321,5.0,6.9,us1000dyad,"16km SW of Leilani Estates, Hawaii"
