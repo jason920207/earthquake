@@ -2,21 +2,26 @@
  * @Author: xiaojiezhang
  * @Date:   2018-05-06T08:43:10-04:00
  * @Last modified by:   xiaojiezhang
- * @Last modified time: 2018-05-06T08:59:38-04:00
+ * @Last modified time: 2018-05-06T16:21:44-04:00
  */
 
   			var parseDate = d3.timeParse("%Y-%m-%d");
  			var parseDate1 = d3.timeParse("%Y");
 
- 			var margin = {top: 20, right: 20, bottom: 110, left: 40},
- 	        margin2 = {top: 250, right: 20, bottom: 30, left: 40},
+ 			var margin = {top: 20, right: 20, bottom: 180, left: 40},
+ 	        margin2 = {top: 250, right: 20, bottom: 50, left: 40},
+
  	        width = 900 - margin.left - margin.right,
- 	        height = 320  - margin.top - margin.bottom,
- 	        height2 = 320 - margin2.top - margin2.bottom;
+ 	        height = 400  - margin.top - margin.bottom,
+ 	        height2 = 400 - margin2.top - margin2.bottom;
+
+          console.log(height)
+          console.log(height2)
+
 
 
  		var baseUrl = "https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicmVtaWZhbGxzIiwiYSI6ImNpem9saGxuZzAwMDgycnFnZnN4cDAwdnkifQ.NL-iJC6Y9lqAjwD0z9fEWw";
-         var map = L.map('map').setView([0, 0], 2);
+         var map = L.map('map').setView([0, 0], 1);
          mapLink =
              '<a href="http://openstreetmap.org">OpenStreetMap</a>';
          L.tileLayer(
@@ -45,12 +50,7 @@
  		})
  		rScale.domain(d3.extent(collection, d => d.mag));
  		// rScale_death.domain(d3.extent(collection.features, d => d.properties.DEATHS));
- 		var expenseMetrics = d3.nest()
-   			.key(function(d) { return d.time1;})
-   			.rollup(function(v) { return {
-   		  count: v.length,
-   			}; })
-   			.entries(collection);
+
 
 
 
@@ -96,7 +96,6 @@
 
 
  		update();
- 		createHist(expenseMetrics)
  		createScatter(collection)
  		d3.select("#options").on("change",function(){
  			currentkey=d3.select(this).property("value");
@@ -145,11 +144,7 @@
  					.duration(1200)
  					.attr("r",  d => rScale(d.mag))
 
- 					// d3.selectAll(".bar")
- 					// 	.filter(function(d){return d.mag>=currentkey})
- 					// 	.transition()
- 					// 	.duration(1200)
- 					// 	.attr("r",  d => rScale(d.mag))
+
 
 
  		}
@@ -171,69 +166,26 @@
  					 .select("#country")
  					 .text("Country: " + d.place)
 
+           tooltip
+             .select("#depth")
+             .text("Depth: " + d.depth)
+
+
 
   }
- 	function createHist(data){
+  function tool_tip_show1(left,top,d){
+       tooltip
+         .style("left", left)
+         .style("top", top)
+         .select("#year")
+         .text("Year: " + d.key)
 
- 		var margin = {top: 20, right: 20, bottom: 20, left: 40};
- 			width = 700 - margin.left - margin.right;
- 			height = height - margin.top - margin.bottom;
+         tooltip
+           .select("#count")
+           .text("Count: " + d.value.count)
 
+  }
 
- 							var svg = d3.select("#hist").append("svg")
- 									.attr("width", width + margin.left + margin.right)
- 									.attr("height", height + margin.top + margin.bottom);
-
-
- 					g = svg.append("g") .attr("transform", `translate(${margin2.left},${margin2.top})`);
-
-
- 					var x = d3.scaleBand().rangeRound([0, width]).padding(0.1)
- 					var y = d3.scaleLinear().range([height, 0]);
-
- 					x.domain(data.map(function(d) { return d.key; }));
- 					y.domain([0, d3.max(data, function(d) { return d.value.count; })]);
-
-
- 					var xaxis = svg.append("g")
-        .attr("transform", "translate(0," + height + ")")
-        .attr("class", "x axis")
-        .call(d3.axisBottom(x)
-           //.ticks(d3.timeMonth)
-           .tickSize(0, 0)
-           //.tickFormat(d3.timeFormat("%B"))
-           .tickSizeInner(0)
-           .tickPadding(10));
-
-   		// Add the Y Axis
-   			 var yaxis = svg.append("g")
-     			   .attr("class", "y axis")
-        			.call(d3.axisLeft(y)
-         		  .ticks(5)
-           	.tickSizeInner(0)
-           		.tickPadding(6)
-           	.tickSize(0, 0));
-
- 					svg.append('text')
- 							 .attr('transform', 'rotate(-90)')
- 							 .attr('y', 0 - margin.left)
- 							 .attr('x', 0 - (height / 2))
- 							 .attr('dy', '1em')
- 							 .style('text-anchor', 'middle')
- 							 .text('Magnitude');
-
- 	  // Draw the bars
- 	  svg.selectAll(".rect")
- 	      .data(data)
- 	      .enter()
- 	      .append("rect")
- 	      	  .attr("class", "bar")
- 		      .attr("x", function(d) { return x(d.key); })
- 		      .attr("y", function(d) { return y(d.value.count); })
- 		      .attr("width", x.bandwidth())
- 		      .attr("height", function(d) { return height - y(d.value.count); });
-
- 	}
 
  			function createScatter(data,currentkey){
 
@@ -257,21 +209,33 @@
        			maxDate_plus = new Date(maxDate.getTime() + 300*144000000)
 
 
+            var expenseMetrics = d3.nest()
+                .key(function(d) { return d.time1;})
+                .rollup(function(v) { return {
+                count: v.length,
+                }; })
+                .entries(data);
+
  				var x = d3.scaleTime()
  							 .domain([minDate, maxDate_plus])
  							 .range([0, width]);
 
  					var x2 = d3.scaleTime()
  								.domain(x.domain())
- 								.range([0, width]);
+ 								.rangeRound([0, width]);
+
+
  				var y = d3.scaleLinear()
  							 .domain(d3.extent([6.5,d3.max(data,d=>d.mag)+0.5]))
  					     .range([height, 0]);
 
- 				var y2 = d3.scaleLinear()
- 									 .domain(y.domain())
- 									 .range([height2, 0]);
-
+ 				// var y2 = d3.scaleLinear()
+ 				// 					 .domain(y.domain())
+ 				// 					 .range([height2, 0]);
+        // var x2 = d3.scaleBand().rangeRound([0, width]).padding(0.1)
+        var y2 = d3.scaleLinear().range([height2, 0]);
+        // x2.domain(expenseMetrics.map(function(d) { return d.key; }));
+        y2.domain([0, d3.max(expenseMetrics, function(d) { return d.value.count; })]);
 
 
 
@@ -355,77 +319,135 @@
  	 				dots.attr("clip-path", "url(#clip)");
 
 
- 				 dots.selectAll("dot")
- 							.data(data)
- 							.enter()
- 							.append("circle")
- 							.attr('class', 'dotContext')
- 							.attr("cx", d=>x2(parseDate(d.time))
- 						)
- 							.attr("cy",d=>y2(d.mag)
 
- 						)
- 							.attr("r",d => (rScale(d.mag)/3))
- 						.attr('fill', d => eqColorScale(d.mag))
+
+ 				 dots.selectAll("dot")
+         .data(expenseMetrics)
+         .enter()
+         .append("rect")
+             .attr("class", "bar")
+           .attr("x", function(d) { return x2(parseDate1(d.key)); })
+           .attr("y", function(d) { return y2(d.value.count); })
+           .attr("width", 15)
+           .attr("height", function(d) { return height2 - y2(d.value.count); })
+          .style("fill", "#e6550d")
+          // draw the scatter
+           	 //dots.selectAll("dot")
+ 						// 	.data(data)
+ 						// 	.enter()
+ 						// 	.append("circle")
+ 						// 	.attr('class', 'dotContext')
+ 						// 	.attr("cx", d=>x2(parseDate(d.time))
+ 						// )
+ 						// 	.attr("cy",d=>y2(d.mag)
+            //
+ 						// )
+ 						// 	.attr("r",d => (rScale(d.mag)/3))
+ 						// .attr('fill', d => eqColorScale(d.mag))
 
  		 context.append("g")
  				 .attr("class", "axis axis--x")
  				 .attr("transform", "translate(0," + height2 + ")")
  				 .call(xAxis2);
 
+
+// // creat histogram
+//
+//
+//
+//    var svg = d3.select("#hist").append("svg")
+//        .attr("width", width + margin.left + margin.right)
+//        .attr("height", height + margin.top + margin.bottom);
+//
+//        bar = svg.append("g") .attr("transform", `translate(${margin2.left},${margin2.top})`);
+//
+//
+//        var x3 = d3.scaleBand().rangeRound([0, width]).padding(0.1)
+//        var y3 = d3.scaleLinear().range([height, 0]);
+//
+//        x3.domain(expenseMetrics.map(function(d) { return d.key; }));
+//        y3.domain([0, d3.max(expenseMetrics, function(d) { return d.value.count; })]);
+//
+//
+//        var xaxis = svg.append("g")
+//     .attr("transform", "translate(0," + height + ")")
+//     .attr("class", "x axis")
+//     .call(xAxis)
+//
+//     .selectAll("text")
+//       .style("text-anchor", "end")
+//       .attr("dx", "-.8em")
+//       .attr("dy", "1em");
+//
+//
+//  // Draw the bars
+//  svg.selectAll(".rect")
+//      .data(expenseMetrics)
+//      .enter()
+//      .append("rect")
+//          .attr("class", "bar")
+//        .attr("x", function(d) { return x3(d.key); })
+//        .attr("y", function(d) { return y3(d.value.count); })
+//        .attr("width", x3.bandwidth())
+//        .attr("height", function(d) { return height - y3(d.value.count); })
+//       .style("fill", "#e6550d")
+//       .on("mouseover", function(d) {
+//           d3.select(this)
+//           .transition()
+//           .style('fill',"#800000")
+//
+//          })
+//        .on("mouseout", function(d) {
+//          d3.select(this)
+//          .transition()
+//          .style('fill',"#e6550d")
+//
+//          });
+
+
+
  		 context.append("g")
  							 .attr("class", "brush")
  							 .call(brush)
  							 .call(brush.move, x.range());
 
+    function brushed() {
+              const selection = d3.event.selection;
+              x.domain(selection.map(x2.invert, x2));
+              focus.selectAll(".dot")
+              .attr("cx", d=>x(parseDate(d.time)))
+              .attr("cy", d=>y(d.mag))
+              focus.select(".axis--x").call(xAxis);
+              if (d3.event.type == "end") {
+                change_map_points()
+              }
+        }
+               function change_map_points () {
 
- 					function brushed() {
- 				 			const selection = d3.event.selection;
- 							console.log(selection)
- 				 			x.domain(selection.map(x2.invert, x2));
- 				 			focus.selectAll(".dot")
- 				 							.filter(function (d) {return d.mag != null})
- 				 							.attr("cx", d=>x(parseDate(d.time))
- 											// function(d) {
- 				 							// 	 return x(parseDate(d.properties.Date));
- 				 							// }
- 										)
- 				 							.attr("cy", d=>y(d.mag)
- 											// function(d) {
- 				 							// 	 return y(d.properties.EQ_PRIMARY);
- 				 							// }
- 										)
+                    var curr_view_erth = []
+                    var time=[0,0]
+                      d3.selectAll(".dot").each(
+                        function(d, i) {
+                          if (parseDate(d.time) >= x.domain()[0] && parseDate(d.time) <= x.domain()[1] ) {
+                              curr_view_erth.push(d.id.toString());
+                              }
+                          time=[x.domain()[0],x.domain()[1]]
+                            })
+                      d3.selectAll(".mapcircle")
+                          .filter(function(d) {
+                            return curr_view_erth.indexOf(d.id) != -1;} )
+                          .attr('r', 10)
+                          .transition()
+                          .duration(1200)
+                          .attr("r", d => rScale(d.mag))
+                       .attr('fill', d => eqColorScale(d.mag))
 
- 							focus.select(".axis--x").call(xAxis);
+                      d3.selectAll(".mapcircle")
+                          .filter(function(d) {return curr_view_erth.indexOf(d.id) == -1;} )
+                          .transition()
+                          .duration(1250)
+                          .attr('r', 0 )
+                          }
 
- 				 				 if (d3.event.type == "end") {
- 				 							 change_map_points()
 
- 				 							}
-
- 				 		}
- 				 		function change_map_points () {
-
- 				         var curr_view_erth = []
- 				           d3.selectAll(".dot").each(
- 				             function(d, i) {
- 				               if (parseDate(d.time) >= x.domain()[0] && parseDate(d.time) <= x.domain()[1] ) {
- 				                   curr_view_erth.push(d.id.toString());
- 				                   }})
- 				           map_points_change = d3.selectAll(".mapcircle")
- 				               .filter(function(d) {
- 												 return curr_view_erth.indexOf(d.id) != -1;} )
- 				               .attr('r', 10)
- 				               .transition()
- 				               .duration(1200)
- 											 .attr("r", d => rScale(d.mag))
- 				 						.attr('fill', d => eqColorScale(d.mag))
-
- 				           d3.selectAll(".mapcircle")
- 				               .filter(function(d) {return curr_view_erth.indexOf(d.id) == -1;} )
- 				               .transition()
- 				               .duration(1250)
- 				               .attr('r', 0 )
-
- 				               }
  			}

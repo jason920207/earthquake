@@ -9,7 +9,7 @@
 	<style type="text/css">
 
 	#map{
-		float: absolute;
+  		width: 70%;
 	}
 	#scatter{
 		float:absolute;
@@ -43,10 +43,37 @@
         line-height: 14px;
 }
 
-.bar {
-		fill: purple;
-		opacity: 0.8;
+#tooltip1 {
+			position: absolute;
+			width: 200px;
+			height: auto;
+			padding: 10px;
+			background-color: rgba(128, 128, 128, 0.4);
+			-webkit-border-radius: 10px;
+			-moz-border-radius: 10px;
+			border-radius: 10px;
+			-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			pointer-events: none;
+			opacity: 0.8;
 }
+
+
+#tooltip1.hidden {
+			display: none;
+}
+
+#tooltip1 p {
+			margin: 0;
+			font-family: sans-serif;
+			font-size: 12px;
+			line-height: 14px;
+}
+
+
+
+
 .class{
 	position: absolute;
 }
@@ -60,7 +87,7 @@
 </head>
 <body>
 <div>
-	<h3>earthquake magnitude </h3>
+	<h3>Significant Earthquakes magnitude </h3>
 	<select id="options" name="earthquake">
 		<option value="6.5">"all"</option>
 		<option value="8">">=8"</option>
@@ -70,7 +97,7 @@
 
 	</select>
 </div>
-<div id="map" style="width: 700px; height: 400px;position:left"></div>
+<div id="map" style="width: 900px; height: 400px;"></div>
 
 </div>
 <div id="tooltip" class="hidden">
@@ -78,13 +105,20 @@
 		<p><span id="date"></span></p>
 		<p><span id="magnitude"></span></p>
 		<p><span id="country"></span></p>
+		<p><span id="depth"></span></p>
 </div>
-
+<div id="tooltip1" class="hidden">
+		<p><strong>Earthquake Info</strong></p>
+		<p><span id="year"></span></p>
+		<p><span id="count"></span></p>
+</div>
 <div id="scatter">
 
 </div>
 
-<div id="hist" style="width: 400px; height: 300px;position:right" >
+<!-- <div id="hist" >
+	<h3> count of the earthquake </h3>
+</div> -->
 <script type="text/javascript" src="earthquake.js"></script>
 </body>
 </html>
