@@ -2,7 +2,7 @@
  * @Author: xiaojiezhang
  * @Date:   2018-05-06T08:43:10-04:00
  * @Last modified by:   xiaojiezhang
- * @Last modified time: 2018-05-06T18:07:12-04:00
+ * @Last modified time: 2018-05-06T19:33:20-04:00
  */
 
   			var parseDate = d3.timeParse("%Y-%m-%d");
@@ -19,7 +19,7 @@
 
 
  		var baseUrl = "https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicmVtaWZhbGxzIiwiYSI6ImNpem9saGxuZzAwMDgycnFnZnN4cDAwdnkifQ.NL-iJC6Y9lqAjwD0z9fEWw";
-         var map = L.map('map').setView([0, 0], 1);
+         var map = L.map('map').setView([40, 11], 1);
          mapLink =
              '<a href="http://openstreetmap.org">OpenStreetMap</a>';
          L.tileLayer(
