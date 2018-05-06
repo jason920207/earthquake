@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Testing d3.js in Leaflet.js</title>
+	<title>Significant Earthquakes magnitude</title>
 
-	<link rel="stylesheet" href="leaflet.css"></link>
+
+	<link rel="stylesheet" href="leaflet.css" />
 	<script src="https://d3js.org/d3.v4.min.js"></script>
 	<script src="leaflet.js"></script>
 	<style type="text/css">
@@ -70,8 +71,30 @@
 			font-size: 12px;
 			line-height: 14px;
 }
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 10px;
+    height: 10px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
 
-
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
 
 
 .class{
@@ -87,7 +110,7 @@
 </head>
 <body>
 <div>
-	<h3>Significant Earthquakes magnitude </h3>
+	<h3>Significant Earthquakes magnitude ----xiaojie zhang</h3>
 	<select id="options" name="earthquake">
 		<option value="6.5">"all"</option>
 		<option value="8">">=8"</option>

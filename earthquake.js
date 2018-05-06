@@ -2,7 +2,7 @@
  * @Author: xiaojiezhang
  * @Date:   2018-05-06T08:43:10-04:00
  * @Last modified by:   xiaojiezhang
- * @Last modified time: 2018-05-06T16:21:44-04:00
+ * @Last modified time: 2018-05-06T17:43:34-04:00
  */
 
   			var parseDate = d3.timeParse("%Y-%m-%d");
@@ -15,8 +15,6 @@
  	        height = 400  - margin.top - margin.bottom,
  	        height2 = 400 - margin2.top - margin2.bottom;
 
-          console.log(height)
-          console.log(height2)
 
 
 
@@ -30,9 +28,40 @@
              maxZoom: 18,
              }).addTo(map);
 
+             function getColor(d) {
+           return d > 1000 ? '#b30000' :
+                  d > 100  ? '#e34a33' :
+                  d > 30   ? '#fc8d59' :
+                  d > 10   ? '#fdcc8a' :
+                             '#fef0d9';
+       }
+
+       var legend = L.control({position: 'bottomright'});
+
+   legend.onAdd = function (map) {
+
+       var div = L.DomUtil.create('div', 'info legend'),
+           grades = [0, 10,30,  100,  1000],
+           labels = [];
+
+       // loop through our density intervals and generate a label with a colored square for each interval
+       for (var i = 0; i < grades.length; i++) {
+           div.innerHTML +=
+               '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
+               grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+       }
+
+       return div;
+   };
+
+   legend.addTo(map);
+
  	var eqColorScale = d3.scaleLinear()
- 			.domain([6.5,7,7.5,8])
- 			.range(["#fdbe85", "#fd8d3c", "#e6550d","#ff220d"]);
+ 			.domain([0,10,30,100,1000])
+ 			// .range(["#fdbe85", "#fd8d3c", "#e6550d","#ff220d"]);
+      // .range(["#D2C4C4", "#C8ABAB", "#BE9393","#B37A7A","#A96262","#9F4949","#8A1818"]);
+      .range(["#fef0d9","#fdcc8a","#fc8d59", "#e34a33", "#b30000"]);
+
 
  	/* Initialize the SVG layer */
  	map._initPathRoot()
@@ -47,6 +76,7 @@
  		collection.forEach(function(d) {
  			d.LatLng = new L.LatLng(d.latitude,d.longitude);
  			 d.mag=+ d.mag;
+       d.depth=+d.depth;
  		})
  		rScale.domain(d3.extent(collection, d => d.mag));
  		// rScale_death.domain(d3.extent(collection.features, d => d.properties.DEATHS));
@@ -60,11 +90,11 @@
  		  .enter().append("circle")
  			.attr('class', "mapcircle")
  		  .attr("r",d => rScale(d.mag))
- 		  .style("opacity", 0.6)
+ 		  .style("opacity", 0.8)
  			// .style("fill", function(d){
  	 		// 		return eqColorScale(d.mag);
  			// })
- 			.style("fill", d => eqColorScale(d.mag))
+ 			.style("fill", d => eqColorScale(d.depth))
 
 
      	.style("stroke", "rgba(255, 255, 255, 0.5)")
@@ -119,7 +149,7 @@
  				.transition()
  				.duration(1200)
  				.attr("r",  d => rScale(d.mag))
- 		 .attr('fill', d => eqColorScale(d.mag))
+ 		 .attr('fill', d => eqColorScale(d.depth))
  			d3.selectAll(".mapcircle")
  				.filter(function(d){return d.mag<currentkey})
  				.transition()
@@ -267,12 +297,12 @@
  	          .attr("cx", d=>x(parseDate(d.time)))
  	          .attr("cy", d=>y(d.mag))
  						.attr("r",d => rScale(d.mag))
- 							 .attr('fill', d => eqColorScale(d.mag))
- 							 .style("opacity", .4)
+ 							 .attr('fill', d => eqColorScale(d.depth))
+ 							 .style("opacity", 0.8)
  							 .on("mouseover", function(d) {
  										d3.selectAll(".mapcircle")
  										  .filter(function(a){return d.id==a.id})
- 											.style("fill","yellow")
+ 											.style("fill","#0547fc")
  											.attr('r', 15)
 
  							 		d3.select(this).attr('r', 15)
@@ -290,7 +320,7 @@
 
  												d3.selectAll(".mapcircle")
  													.filter(function(a){return d.id==a.id})
- 													.style("fill",d => eqColorScale(d.mag))
+ 													.style("fill",d => eqColorScale(d.depth))
  													.attr("r",d => rScale(d.mag))
 
  																//Hide the tooltip
@@ -440,7 +470,7 @@
                           .transition()
                           .duration(1200)
                           .attr("r", d => rScale(d.mag))
-                       .attr('fill', d => eqColorScale(d.mag))
+                       .attr('fill', d => eqColorScale(d.depth))
 
                       d3.selectAll(".mapcircle")
                           .filter(function(d) {return curr_view_erth.indexOf(d.id) == -1;} )

@@ -1,3 +1,12 @@
+/**
+ * @Author: xiaojiezhang
+ * @Date:   2018-05-06T09:50:56-04:00
+ * @Last modified by:   xiaojiezhang
+ * @Last modified time: 2018-05-06T17:00:38-04:00
+ */
+
+
+
 /* required styles */
 
 .leaflet-map-pane,
@@ -194,7 +203,8 @@
 	}
 
 .leaflet-container .leaflet-control-attribution {
-	background-color: rgba(255, 255, 255, 0.7);
+background-color: rgba(255, 255, 255, 0.7);
+
 	box-shadow: 0 0 5px #bbb;
 	margin: 0;
     }
@@ -342,7 +352,8 @@
 /* Visual appearance */
 
 .leaflet-container {
-	background: #ddd;
+/* 	background: #ddd; */
+background:"black"
 	}
 .leaflet-container a {
 	color: #0078A8;
