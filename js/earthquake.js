@@ -2,7 +2,7 @@
  * @Author: xiaojiezhang
  * @Date:   2018-05-06T08:43:10-04:00
  * @Last modified by:   xiaojiezhang
- * @Last modified time: 2018-05-06T17:53:42-04:00
+ * @Last modified time: 2018-05-06T18:07:12-04:00
  */
 
   			var parseDate = d3.timeParse("%Y-%m-%d");
@@ -73,7 +73,7 @@
  	var tooltip = d3.select("#tooltip")
  	var rScale = d3.scaleLinear().range([2, 20]);
 
- 	d3.csv("earth1.csv", function(collection) {
+ 	d3.csv("data/earth1.csv", function(collection) {
  		/* Add a LatLng object to each item in the dataset */
  		collection.forEach(function(d) {
  			d.LatLng = new L.LatLng(d.latitude,d.longitude);
