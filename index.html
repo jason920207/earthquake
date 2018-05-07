@@ -1,117 +1,120 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<title>Significant Earthquakes magnitude</title>
+  <title>Significant Earthquakes magnitude</title>
+  <link rel="stylesheet" href="css/leaflet.css" />
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="js/leaflet.js"></script>
+  <style type="text/css">
+    #map {
+      width: 70%;
+    }
+
+    #scatter {
+      float: absolute;
+    }
+
+    #tooltip {
+      position: absolute;
+      width: 200px;
+      height: auto;
+      padding: 10px;
+      background-color: rgba(128, 128, 128, 0.4);
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+      -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      pointer-events: none;
+      opacity: 0.8;
+    }
 
 
-	<link rel="stylesheet" href="css/leaflet.css" />
-	<script src="https://d3js.org/d3.v4.min.js"></script>
-	<script src="js/leaflet.js"></script>
-	<style type="text/css">
+    #tooltip.hidden {
+      display: none;
+    }
 
-	#map{
-  		width: 70%;
-	}
-	#scatter{
-		float:absolute;
-	}
+    #tooltip p {
+      margin: 0;
+      font-family: sans-serif;
+      font-size: 12px;
+      line-height: 14px;
+    }
 
-	#tooltip {
-				position: absolute;
-				width: 200px;
-				height: auto;
-				padding: 10px;
-				background-color: rgba(128, 128, 128, 0.4);
-				-webkit-border-radius: 10px;
-				-moz-border-radius: 10px;
-				border-radius: 10px;
-				-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-				-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-				box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-				pointer-events: none;
-				opacity: 0.8;
-}
-
-
-#tooltip.hidden {
-        display: none;
-}
-
-#tooltip p {
-        margin: 0;
-        font-family: sans-serif;
-        font-size: 12px;
-        line-height: 14px;
-}
-
-#tooltip1 {
-			position: absolute;
-			width: 200px;
-			height: auto;
-			padding: 10px;
-			background-color: rgba(128, 128, 128, 0.4);
-			-webkit-border-radius: 10px;
-			-moz-border-radius: 10px;
-			border-radius: 10px;
-			-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-			-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-			box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-			pointer-events: none;
-			opacity: 0.8;
-}
+    #tooltip1 {
+      position: absolute;
+      width: 200px;
+      height: auto;
+      padding: 10px;
+      background-color: rgba(128, 128, 128, 0.4);
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+      -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      pointer-events: none;
+      opacity: 0.8;
+    }
 
 
-#tooltip1.hidden {
-			display: none;
-}
+    #tooltip1.hidden {
+      display: none;
+    }
 
-#tooltip1 p {
-			margin: 0;
-			font-family: sans-serif;
-			font-size: 12px;
-			line-height: 14px;
-}
-.legend {
-    line-height: 18px;
-    color: #555;
-}
-.legend i {
-    width: 10px;
-    height: 10px;
-    float: left;
-    margin-right: 8px;
-    opacity: 0.7;
-}
+    #tooltip1 p {
+      margin: 0;
+      font-family: sans-serif;
+      font-size: 12px;
+      line-height: 14px;
+    }
 
-.info {
-    padding: 6px 8px;
-    font: 14px/16px Arial, Helvetica, sans-serif;
-    background: white;
-    background: rgba(255,255,255,0.8);
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    border-radius: 5px;
-}
-.info h4 {
-    margin: 0 0 5px;
-    color: #777;
-}
+    .legend {
+      line-height: 18px;
+      color: #555;
+    }
 
+    .legend i {
+      width: 10px;
+      height: 10px;
+      float: left;
+      margin-right: 8px;
+      opacity: 0.7;
+    }
 
-.class{
-	position: absolute;
-}
-#hist{
-	float:absolute;
+    .info {
+      padding: 6px 8px;
+      font: 14px/16px Arial, Helvetica, sans-serif;
+      background: white;
+      background: rgba(255, 255, 255, 0.8);
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      border-radius: 5px;
+    }
+
+    .info h4 {
+      margin: 0 0 5px;
+      color: #777;
+    }
 
 
-}
+    .class {
+      position: absolute;
+    }
 
-	</style>
+    #hist {
+      float: absolute;
+
+
+    }
+  </style>
 </head>
+
 <body>
-<div>
-	<h3>Significant Earthquakes magnitude ----xiaojie zhang</h3>
-	<select id="options" name="earthquake">
+  <div>
+    <h3>Significant Earthquakes magnitude ----xiaojie zhang</h3>
+    <select id="options" name="earthquake">
 		<option value="6.5">"all"</option>
 		<option value="8">">=8"</option>
 		<option value="7.5">">=7.5"</option>
@@ -119,29 +122,30 @@
 		<option value="6.5">">=6.5"</option>
 
 	</select>
-</div>
-<div id="map" style="width: 900px; height: 400px;"></div>
+  </div>
+  <div id="map" style="width: 900px; height: 400px;"></div>
 
-</div>
-<div id="tooltip" class="hidden">
-		<p><strong>Earthquake Info</strong></p>
-		<p><span id="date"></span></p>
-		<p><span id="magnitude"></span></p>
-		<p><span id="country"></span></p>
-		<p><span id="depth"></span></p>
-</div>
-<div id="tooltip1" class="hidden">
-		<p><strong>Earthquake Info</strong></p>
-		<p><span id="year"></span></p>
-		<p><span id="count"></span></p>
-</div>
-<div id="scatter">
+  </div>
+  <div id="tooltip" class="hidden">
+    <p><strong>Earthquake Info</strong></p>
+    <p><span id="date"></span></p>
+    <p><span id="magnitude"></span></p>
+    <p><span id="country"></span></p>
+    <p><span id="depth"></span></p>
+  </div>
+  <div id="tooltip1" class="hidden">
+    <p><strong>Earthquake Info</strong></p>
+    <p><span id="year"></span></p>
+    <p><span id="count"></span></p>
+  </div>
+  <div id="scatter">
 
-</div>
+  </div>
 
-<!-- <div id="hist" >
+  <!-- <div id="hist" >
 	<h3> count of the earthquake </h3>
 </div> -->
-<script type="text/javascript" src="js/earthquake.js"></script>
+  <script type="text/javascript" src="js/earthquake.js"></script>
 </body>
+
 </html>
